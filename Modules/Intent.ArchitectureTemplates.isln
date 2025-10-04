@@ -9,5 +9,8 @@
   <lastUsedApplicationTemplate id="Intent.ApplicationTemplateBuilder" version="4.1.8-pre.0" />
   <applications>
     <application id="4cdb5c51-a001-4848-8ad6-1b19b0790dca" name="Intent.Modules" relativePath="Intent.Modules/Intent.Modules.application.config" />
+    <application id="2f056b26-eec3-4f6b-8447-2b1382956315" name="Intent.Modules.Metadata.ArchitectureTemplateBuilder" solutionFolder="Intent.Modules.Metadata" relativePath="Intent.Modules.Metadata.ArchitectureTemplateBuilder/Intent.Modules.Metadata.ArchitectureTemplateBuilder.application.config" />
+    <application id="f19b2a9e-080a-4d1f-9ca3-ef5c54243996" name="Intent.Modules.Metadata.EmptyApplication" solutionFolder="Intent.Modules.Metadata" relativePath="Intent.Modules.Metadata.EmptyApplication/Intent.Modules.Metadata.EmptyApplication.application.config" />
+    <application id="ac4c4f4d-6091-4b04-9201-07a98b58f3ff" name="Intent.Modules.Metadata.ModuleBuilder" solutionFolder="Intent.Modules.Metadata" relativePath="Intent.Modules.Metadata.ModuleBuilder/Intent.Modules.Metadata.ModuleBuilder.application.config" />
   </applications>
 </solution>
