@@ -15,7 +15,7 @@
   <childElements>
     <childElement id="3cd25768-80ab-41bb-8789-dab40fda6c8e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts</name>
-      <display>Intent.Application.Contracts 5.1.0</display>
+      <display>Intent.Application.Contracts 5.1.1</display>
       <isAbstract>false</isAbstract>
       <value>5.1.1</value>
       <genericTypes />
@@ -29,7 +29,7 @@
     </childElement>
     <childElement id="a9e421fa-c096-4557-a7ae-063ba3a0e4f0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts.Clients</name>
-      <display>Intent.Application.Contracts.Clients 5.1.4</display>
+      <display>Intent.Application.Contracts.Clients 5.1.5</display>
       <isAbstract>false</isAbstract>
       <value>5.1.5</value>
       <genericTypes />
@@ -169,7 +169,7 @@
     </childElement>
     <childElement id="f1cb8ccd-6f74-4b3c-9450-03959bb15371" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</name>
-      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract 5.2.17</display>
+      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract 5.2.18</display>
       <isAbstract>false</isAbstract>
       <value>5.2.18</value>
       <genericTypes />
@@ -183,7 +183,7 @@
     </childElement>
     <childElement id="bf56faa3-41e8-4a5b-8b07-9fc116f94ae4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.DistributedCaching</name>
-      <display>Intent.AspNetCore.DistributedCaching 1.0.2</display>
+      <display>Intent.AspNetCore.DistributedCaching 1.0.3</display>
       <isAbstract>false</isAbstract>
       <value>1.0.3</value>
       <genericTypes />
@@ -197,7 +197,7 @@
     </childElement>
     <childElement id="b6a5c8b2-0c6e-46c0-aa85-eb82eb09986f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Identity</name>
-      <display>Intent.AspNetCore.Identity 4.2.4</display>
+      <display>Intent.AspNetCore.Identity 4.2.5</display>
       <isAbstract>false</isAbstract>
       <value>4.2.5</value>
       <genericTypes />
@@ -225,7 +225,7 @@
     </childElement>
     <childElement id="751fcfa8-95b2-4ff2-9e56-4296ec6f6ae5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Code.Weaving.Razor</name>
-      <display>Intent.Code.Weaving.Razor 2.0.1</display>
+      <display>Intent.Code.Weaving.Razor 2.0.2</display>
       <isAbstract>false</isAbstract>
       <value>2.0.2</value>
       <genericTypes />
@@ -239,7 +239,7 @@
     </childElement>
     <childElement id="1ec446ca-29dd-4b15-91c5-d5fed93772e6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common</name>
-      <display>Intent.Common 3.9.0</display>
+      <display>Intent.Common 3.9.2</display>
       <isAbstract>false</isAbstract>
       <value>3.9.2</value>
       <genericTypes />
@@ -253,7 +253,7 @@
     </childElement>
     <childElement id="0d1a7527-5773-4a4a-9525-0721c3db81e4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.CSharp</name>
-      <display>Intent.Common.CSharp 3.9.5</display>
+      <display>Intent.Common.CSharp 3.9.7</display>
       <isAbstract>false</isAbstract>
       <value>3.9.7</value>
       <genericTypes />
@@ -309,7 +309,7 @@
     </childElement>
     <childElement id="7263c31e-5a0c-4775-ad84-9e860a975728" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</name>
-      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory 4.2.11</display>
+      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory 4.2.12</display>
       <isAbstract>false</isAbstract>
       <value>4.2.12</value>
       <genericTypes />
@@ -407,7 +407,7 @@
     </childElement>
     <childElement id="ff8a67be-af56-4211-9061-74a3f87bd190" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.Security</name>
-      <display>Intent.Metadata.Security 1.1.0</display>
+      <display>Intent.Metadata.Security 1.1.1</display>
       <isAbstract>false</isAbstract>
       <value>1.1.1</value>
       <genericTypes />
@@ -421,7 +421,7 @@
     </childElement>
     <childElement id="176154a0-0e53-42e5-8c5e-4179228a88a2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.WebApi</name>
-      <display>Intent.Metadata.WebApi 4.7.14</display>
+      <display>Intent.Metadata.WebApi 4.7.16</display>
       <isAbstract>false</isAbstract>
       <value>4.7.16</value>
       <genericTypes />
@@ -435,7 +435,7 @@
     </childElement>
     <childElement id="092ab3e1-517e-4620-86ff-3d16151fc935" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain</name>
-      <display>Intent.Modelers.Domain 3.12.7</display>
+      <display>Intent.Modelers.Domain 3.12.8</display>
       <isAbstract>false</isAbstract>
       <value>3.12.8</value>
       <genericTypes />
@@ -449,7 +449,7 @@
     </childElement>
     <childElement id="3d5171a1-021a-4aca-a186-1318ad5a74b2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Events</name>
-      <display>Intent.Modelers.Domain.Events 4.4.4-pre.0</display>
+      <display>Intent.Modelers.Domain.Events 4.4.5</display>
       <isAbstract>false</isAbstract>
       <value>4.4.5</value>
       <genericTypes />
@@ -519,7 +519,7 @@
     </childElement>
     <childElement id="f68403c3-aaff-4355-98d9-6af8930e5f2b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.ServiceProxies</name>
-      <display>Intent.Modelers.ServiceProxies 5.2.1</display>
+      <display>Intent.Modelers.ServiceProxies 5.2.2</display>
       <isAbstract>false</isAbstract>
       <value>5.2.2</value>
       <genericTypes />
@@ -533,7 +533,7 @@
     </childElement>
     <childElement id="e5b4a731-f107-46f1-be9d-d1a02d427f00" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services</name>
-      <display>Intent.Modelers.Services 4.0.4</display>
+      <display>Intent.Modelers.Services 4.0.5</display>
       <isAbstract>false</isAbstract>
       <value>4.0.5</value>
       <genericTypes />
@@ -561,7 +561,7 @@
     </childElement>
     <childElement id="34a4dc7a-98e6-4819-8251-735a7d52270e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.DomainInteractions</name>
-      <display>Intent.Modelers.Services.DomainInteractions 2.3.4</display>
+      <display>Intent.Modelers.Services.DomainInteractions 2.3.6</display>
       <isAbstract>false</isAbstract>
       <value>2.3.6</value>
       <genericTypes />
@@ -575,7 +575,7 @@
     </childElement>
     <childElement id="437c4284-dce2-408e-a980-2cf1d2ef34b3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.EventInteractions</name>
-      <display>Intent.Modelers.Services.EventInteractions 2.0.3</display>
+      <display>Intent.Modelers.Services.EventInteractions 2.0.4</display>
       <isAbstract>false</isAbstract>
       <value>2.0.4</value>
       <genericTypes />
@@ -603,7 +603,7 @@
     </childElement>
     <childElement id="cdf28827-8c2f-4c86-b73d-0dabe8639161" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Types.ServiceProxies</name>
-      <display>Intent.Modelers.Types.ServiceProxies 5.5.1</display>
+      <display>Intent.Modelers.Types.ServiceProxies 5.5.2</display>
       <isAbstract>false</isAbstract>
       <value>5.5.2</value>
       <genericTypes />
@@ -631,7 +631,7 @@
     </childElement>
     <childElement id="14e8c702-4308-4f94-9a66-4902efecfca7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OutputManager.RoslynWeaver</name>
-      <display>Intent.OutputManager.RoslynWeaver 4.9.12</display>
+      <display>Intent.OutputManager.RoslynWeaver 4.9.14</display>
       <isAbstract>false</isAbstract>
       <value>4.9.14</value>
       <genericTypes />
