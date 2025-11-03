@@ -29,9 +29,9 @@
     </childElement>
     <childElement id="617e88b3-08e6-4c7b-b371-a1fbd826e6b8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor</name>
-      <display>Intent.Blazor 1.0.4</display>
+      <display>Intent.Blazor 1.0.5</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.4</value>
+      <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -71,9 +71,9 @@
     </childElement>
     <childElement id="0830efbc-8dc3-4058-9f94-939ea993750b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor.HttpClients</name>
-      <display>Intent.Blazor.HttpClients 4.0.18</display>
+      <display>Intent.Blazor.HttpClients 4.0.19</display>
       <isAbstract>false</isAbstract>
-      <value>4.0.18</value>
+      <value>4.0.19</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -127,9 +127,9 @@
     </childElement>
     <childElement id="817d6b21-5833-41bd-b476-e7d1c6b951e2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.CSharp</name>
-      <display>Intent.Common.CSharp 3.9.8</display>
+      <display>Intent.Common.CSharp 3.9.9</display>
       <isAbstract>false</isAbstract>
-      <value>3.9.8</value>
+      <value>3.9.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -181,11 +181,25 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="86ca0d0a-043e-48d1-9d98-ac70ce4dbf61" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Domain</name>
+      <display>Intent.Modelers.Domain 3.12.9</display>
+      <isAbstract>false</isAbstract>
+      <value>3.12.9</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="ec8a1b65-5255-4487-8216-fae4e28925a3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services</name>
-      <display>Intent.Modelers.Services 4.0.5</display>
+      <display>Intent.Modelers.Services 4.0.6</display>
       <isAbstract>false</isAbstract>
-      <value>4.0.5</value>
+      <value>4.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -225,9 +239,9 @@
     </childElement>
     <childElement id="598d60e8-8551-440e-97d7-5c764949c311" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI</name>
-      <display>Intent.Modelers.UI 1.0.2</display>
+      <display>Intent.Modelers.UI 1.0.3</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.2</value>
+      <value>1.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -281,9 +295,9 @@
     </childElement>
     <childElement id="b256a7fb-0f6c-465b-a1ea-b492eb95bc32" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.VisualStudio.Projects</name>
-      <display>Intent.VisualStudio.Projects 3.9.4</display>
+      <display>Intent.VisualStudio.Projects 3.9.6</display>
       <isAbstract>false</isAbstract>
-      <value>3.9.4</value>
+      <value>3.9.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
