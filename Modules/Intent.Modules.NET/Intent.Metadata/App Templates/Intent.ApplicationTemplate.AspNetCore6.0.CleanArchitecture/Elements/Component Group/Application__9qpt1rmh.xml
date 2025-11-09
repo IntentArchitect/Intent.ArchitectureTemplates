@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="66afd18c-f211-4f68-9d6d-ef69a25d17dd" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Application</name>
-  <display>Application (5)</display>
+  <display>Application (6)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>3</order>
@@ -308,6 +308,60 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
+    </childElement>
+    <childElement id="2e055fc3-7bfe-4442-8b60-246ddf226c40" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>Pagination</name>
+      <display>Pagination (1)</display>
+      <isAbstract>false</isAbstract>
+      <sort-children>by-type-then-manually</sort-children>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>66afd18c-f211-4f68-9d6d-ef69a25d17dd</parentFolderId>
+      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="78da9b5b-428f-4b1e-a5e5-120c7b3d87d3" name="Component Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;source&quot;:&quot;data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+CjxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+CjxzdHlsZT4KICAgIC5wYWdpbmF0aW9uTG9nbzIwMjUxMTA2IHsKICAgICAgICBmaWxsOiAjMzIzNzNlOwogICAgfQogICAgW2RhdGEtdGhlbWU9ImRhcmsiXSAucGFnaW5hdGlvbkxvZ28yMDI1MTEwNiB7CiAgICAgICAgZmlsbDogI2RjZTBlNTsKICAgIH0KPC9zdHlsZT4KPHBhdGggY2xhc3M9InBhZ2luYXRpb25Mb2dvMjAyNTExMDYiCiAgICBkPSJNMjAuMjQ1MSA0LjAwMzY2QzIxLjIxMTYgNC4wMDM2NiAyMS45OTUxIDQuNzg3MTYgMjEuOTk1MSA1Ljc1MzY2VjE4LjI0ODhDMjEuOTk1MSAxOS4yMTUzIDIxLjIxMTYgMTkuOTk4OCAyMC4yNDUxIDE5Ljk5ODhIMTIuOTk3NkMxMi45MTA4IDE5Ljk5ODggMTIuODI1NSAxOS45OTI1IDEyLjc0MjEgMTkuOTgwM0wxMi43NDIgNC4wMjIxOUMxMi44MjU0IDQuMDA5OTggMTIuOTEwOCA0LjAwMzY2IDEyLjk5NzYgNC4wMDM2NkgyMC4yNDUxWk0xMC45OTc2IDQuMDAxMjJDMTEuMDgwOSA0LjAwMTIyIDExLjE2MjkgNC4wMDcwNSAxMS4yNDMxIDQuMDE4MzFMMTEuMjQyOCAxOS45NzkzQzExLjE2MjcgMTkuOTkwNSAxMS4wODA4IDE5Ljk5NjMgMTAuOTk3NiAxOS45OTYzSDMuNzVDMi43ODM1IDE5Ljk5NjMgMiAxOS4yMTI4IDIgMTguMjQ2M1Y1Ljc1MTIyQzIgNC43ODQ3MiAyLjc4MzUgNC4wMDEyMiAzLjc1IDQuMDAxMjJIMTAuOTk3NlpNMTcuNjI1MSAxNi41QzE3LjIxMDkgMTYuNSAxNi44NzUxIDE2LjgzNTggMTYuODc1MSAxNy4yNUMxNi44NzUxIDE3LjY2NDIgMTcuMjEwOSAxOCAxNy42MjUxIDE4QzE4LjAzOTQgMTggMTguMzc1MSAxNy42NjQyIDE4LjM3NTEgMTcuMjVDMTguMzc1MSAxNi44MzU4IDE4LjAzOTQgMTYuNSAxNy42MjUxIDE2LjVaTTIwLjEyNTEgMTYuNUMxOS43MTA5IDE2LjUgMTkuMzc1MSAxNi44MzU4IDE5LjM3NTEgMTcuMjVDMTkuMzc1MSAxNy42NjQyIDE5LjcxMDkgMTggMjAuMTI1MSAxOEMyMC41Mzk0IDE4IDIwLjg3NTEgMTcuNjY0MiAyMC44NzUxIDE3LjI1QzIwLjg3NTEgMTYuODM1OCAyMC41Mzk0IDE2LjUgMjAuMTI1MSAxNi41Wk0xNS4xMjUxIDE2LjVDMTQuNzEwOSAxNi41IDE0LjM3NTEgMTYuODM1OCAxNC4zNzUxIDE3LjI1QzE0LjM3NTEgMTcuNjY0MiAxNC43MTA5IDE4IDE1LjEyNTEgMThDMTUuNTM5NCAxOCAxNS44NzUxIDE3LjY2NDIgMTUuODc1MSAxNy4yNUMxNS44NzUxIDE2LjgzNTggMTUuNTM5NCAxNi41IDE1LjEyNTEgMTYuNVoiIC8+CjwvZz4KPC9zdmc+&quot;,&quot;type&quot;:0,&quot;absolutePathRelativeTo&quot;:null}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Standardized handling for data paging, sorting, and filtering operations." isActive="true" />
+            <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="true" isActive="true" />
+            <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements>
+        <childElement id="56a67ab7-5d55-4a58-b5c0-595d6881ed02" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Application.Dtos.Pagination</name>
+          <display>Intent.Application.Dtos.Pagination</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>2e055fc3-7bfe-4442-8b60-246ddf226c40</parentFolderId>
+          <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="4.1.2" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
               </properties>
             </stereotype>
           </stereotypes>

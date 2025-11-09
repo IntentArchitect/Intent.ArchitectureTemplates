@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="debc5f99-3e05-4dfe-9e11-48acb99fb242" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Domain</name>
-  <display>Domain (4)</display>
+  <display>Domain (6)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>4</order>
@@ -256,6 +256,114 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
+    </childElement>
+    <childElement id="ef7bc4cd-ad76-4448-be27-0f521f773ae9" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>Soft Delete</name>
+      <display>Soft Delete (1)</display>
+      <isAbstract>false</isAbstract>
+      <sort-children>by-type-then-manually</sort-children>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>debc5f99-3e05-4dfe-9e11-48acb99fb242</parentFolderId>
+      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="78da9b5b-428f-4b1e-a5e5-120c7b3d87d3" name="Component Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/png;base64,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&quot;}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="A pattern to logically delete data by marking it, instead of physically removing rows." isActive="true" />
+            <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
+            <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements>
+        <childElement id="047b6bab-783f-45ec-a8a2-82d4f0b1ba0d" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Entities.BasicAuditing</name>
+          <display>Intent.Entities.BasicAuditing</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>ef7bc4cd-ad76-4448-be27-0f521f773ae9</parentFolderId>
+          <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.8" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
+    </childElement>
+    <childElement id="3e25409e-5608-4e90-96f4-74440199b99a" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>Basic Auditing</name>
+      <display>Basic Auditing (1)</display>
+      <isAbstract>false</isAbstract>
+      <sort-children>by-type-then-manually</sort-children>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>debc5f99-3e05-4dfe-9e11-48acb99fb242</parentFolderId>
+      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="78da9b5b-428f-4b1e-a5e5-120c7b3d87d3" name="Component Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/png;base64,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&quot;}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Automatic tracking of creation and last modification details (user and date) on entities." isActive="true" />
+            <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
+            <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements>
+        <childElement id="ca247798-d251-47c3-a84f-b512df68ea03" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Entities.BasicAuditing</name>
+          <display>Intent.Entities.BasicAuditing</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>3e25409e-5608-4e90-96f4-74440199b99a</parentFolderId>
+          <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.8" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
               </properties>
             </stereotype>
           </stereotypes>
