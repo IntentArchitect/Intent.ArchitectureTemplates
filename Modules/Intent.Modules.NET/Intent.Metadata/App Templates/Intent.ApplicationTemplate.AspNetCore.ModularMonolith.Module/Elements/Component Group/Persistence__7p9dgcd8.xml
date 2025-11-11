@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="eed9013e-7d26-4465-9dcd-189fca5ba8d2" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Entity Framework Core</name>
-      <display>Entity Framework Core (6)</display>
+      <display>Entity Framework Core (5)</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -48,32 +48,6 @@
       </stereotypes>
       <metadata />
       <childElements>
-        <childElement id="bfbfd7e9-796c-4a8a-9050-08489fb77c56" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.Entities.BasicAuditing</name>
-          <display>Intent.Entities.BasicAuditing</display>
-          <isAbstract>false</isAbstract>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>eed9013e-7d26-4465-9dcd-189fca5ba8d2</parentFolderId>
-          <packageId>78f3ed7b-d5e0-49d8-a2f9-24016bc6a03a</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.ModularMonolith.Module</packageName>
-          <stereotypes>
-            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
-              <addedByDefault>true</addedByDefault>
-              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-              <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.8" isActive="true" />
-                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
-                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
-                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
-              </properties>
-            </stereotype>
-          </stereotypes>
-          <metadata />
-          <childElements />
-        </childElement>
         <childElement id="28264aa2-0833-495c-83cb-2f9e97f5c0e4" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
           <name>Intent.EntityFrameworkCore</name>
           <display>Intent.EntityFrameworkCore</display>
@@ -178,9 +152,9 @@
           <metadata />
           <childElements />
         </childElement>
-        <childElement id="45f00328-aa3f-4d89-981b-6cf9555ace11" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.EntityFrameworkCore.SoftDelete</name>
-          <display>Intent.EntityFrameworkCore.SoftDelete</display>
+        <childElement id="d4c04916-6f1d-4fa5-aeb7-3347cd9a247e" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Entities.SoftDelete</name>
+          <display>Intent.Entities.SoftDelete</display>
           <isAbstract>false</isAbstract>
           <genericTypes />
           <isMapped>false</isMapped>
@@ -193,7 +167,7 @@
               <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
               <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
               <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.6" isActive="true" />
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.2.0" isActive="true" />
                 <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
