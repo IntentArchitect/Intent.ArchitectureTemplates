@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="3e5fb609-28e4-47ff-bc05-13f326b4df4e" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Security</name>
-  <display>Security</display>
+  <display>Security (1)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>3</order>
@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="5628cc04-3efb-4d01-94d0-c30a3ee418e4" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Authorization</name>
-      <display>Authorization</display>
+      <display>Authorization (1)</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
