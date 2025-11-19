@@ -33,7 +33,7 @@ Learn more [here](https://docs.intentarchitect.com/articles/modules-dotnet/inten
           <description>Infrastructure as Code (IaC) to build your cloud resources programmatically for your Intent Architect solution.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPgogICA8Y2lyY2xlIGN4PSI1MTIiIGN5PSI1MTIiIHI9IjUxMiIgc3R5bGU9ImZpbGw6IzVjNGVlNSIvPgogICA8cGF0aCBkPSJNNTk3LjMzIDQyNy4wOXYxNjEuNTRsMTM5Ljk1LTgwLjczVjM0Ni4yWk00NDIgMzQ2LjJsMTQwIDgwLjg5djE2MS41NGwtMTQwLTgwLjgxWk0yODYuNzIgMjU2djE2MS42MmwxMzkuOTUgODAuODFWMzM2LjgxWk00NDIgNjg3LjE5IDU4MiA3NjhWNjA2LjM4bC0xNDAtODAuODFaIiBzdHlsZT0iZmlsbDojZmZmIi8+Cjwvc3ZnPgo=" />
           <modules>
-            <module id="Intent.IaC.Terraform" version="1.0.0-beta.7">
+            <module id="Intent.IaC.Terraform" version="1.0.0-beta.8">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
@@ -51,11 +51,11 @@ Learn more [here](https://docs.intentarchitect.com/articles/modules-dotnet/inten
   <additionalSettings />
   <minimumDependencyVersions>
     <module id="Intent.Common" version="3.9.2" />
-    <module id="Intent.Common.CSharp" version="3.9.9" />
+    <module id="Intent.Common.CSharp" version="3.9.10" />
     <module id="Intent.Common.Types" version="4.1.2" />
-    <module id="Intent.Modelers.Domain" version="3.12.9" />
-    <module id="Intent.Modelers.Eventing" version="6.0.2" />
-    <module id="Intent.Modelers.Services" version="4.0.6" />
+    <module id="Intent.Modelers.Domain" version="3.12.10" />
+    <module id="Intent.Modelers.Eventing" version="6.0.3" />
+    <module id="Intent.Modelers.Services" version="4.0.7" />
     <module id="Intent.Modelers.Services.EventInteractions" version="2.0.4" />
   </minimumDependencyVersions>
 </applicationTemplate>

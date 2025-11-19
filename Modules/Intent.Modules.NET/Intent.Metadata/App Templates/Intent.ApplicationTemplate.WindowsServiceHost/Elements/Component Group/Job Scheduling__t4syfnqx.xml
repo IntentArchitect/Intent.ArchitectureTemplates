@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<class id="397ea612-e610-41ed-b865-27cfa12b13de" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
+<class id="bab2bd0b-e90e-48a6-a19e-ba41aef6b689" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Job Scheduling</name>
   <display>Job Scheduling (2)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
-  <order>4</order>
+  <order>5</order>
   <genericTypes />
   <isMapped>false</isMapped>
   <parentFolderId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</parentFolderId>
@@ -22,14 +22,14 @@
   </stereotypes>
   <metadata />
   <childElements>
-    <childElement id="5dfdbd10-bbb6-4e8a-9fa0-5a1075c953e1" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+    <childElement id="0da6dbda-ccd2-453a-971f-d8d6d70ecb46" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Quartz</name>
       <display>Quartz (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
       <isMapped>false</isMapped>
-      <parentFolderId>397ea612-e610-41ed-b865-27cfa12b13de</parentFolderId>
+      <parentFolderId>bab2bd0b-e90e-48a6-a19e-ba41aef6b689</parentFolderId>
       <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
       <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
       <stereotypes>
@@ -44,7 +44,7 @@
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
             <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
-            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;f8b433be-8019-48c1-ba7d-ba33e79b29c6&quot;]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;7aa379d5-e7c9-4723-b675-1fce8ba57aa2&quot;]" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
             <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="http://localhost:8080/articles/modules-dotnet/intent-quartzscheduler/intent-quartzscheduler.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
@@ -53,13 +53,13 @@
       </stereotypes>
       <metadata />
       <childElements>
-        <childElement id="251fc1f0-02e4-4d22-9db8-1f401f0b5dc0" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+        <childElement id="5d682859-46db-4101-a738-7de6e89515f0" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
           <name>Intent.QuartzScheduler</name>
           <display>Intent.QuartzScheduler</display>
           <isAbstract>false</isAbstract>
           <genericTypes />
           <isMapped>false</isMapped>
-          <parentFolderId>5dfdbd10-bbb6-4e8a-9fa0-5a1075c953e1</parentFolderId>
+          <parentFolderId>0da6dbda-ccd2-453a-971f-d8d6d70ecb46</parentFolderId>
           <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
           <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
           <stereotypes>
@@ -82,14 +82,14 @@
         </childElement>
       </childElements>
     </childElement>
-    <childElement id="f8b433be-8019-48c1-ba7d-ba33e79b29c6" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+    <childElement id="7aa379d5-e7c9-4723-b675-1fce8ba57aa2" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Hangfire</name>
       <display>Hangfire (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
       <isMapped>false</isMapped>
-      <parentFolderId>397ea612-e610-41ed-b865-27cfa12b13de</parentFolderId>
+      <parentFolderId>bab2bd0b-e90e-48a6-a19e-ba41aef6b689</parentFolderId>
       <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
       <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
       <stereotypes>
@@ -103,8 +103,8 @@
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
             <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
-            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
-            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;5dfdbd10-bbb6-4e8a-9fa0-5a1075c953e1&quot;]" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;0da6dbda-ccd2-453a-971f-d8d6d70ecb46&quot;]" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
             <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="http://localhost:8080/articles/modules-dotnet/intent-hangfire/intent-hangfire.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
@@ -113,13 +113,13 @@
       </stereotypes>
       <metadata />
       <childElements>
-        <childElement id="c1a5eaf5-650f-4e40-bf6d-3582ba23e165" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+        <childElement id="5a2bffd8-6958-46eb-b917-c51c2e33214f" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
           <name>Intent.Hangfire</name>
           <display>Intent.Hangfire</display>
           <isAbstract>false</isAbstract>
           <genericTypes />
           <isMapped>false</isMapped>
-          <parentFolderId>f8b433be-8019-48c1-ba7d-ba33e79b29c6</parentFolderId>
+          <parentFolderId>7aa379d5-e7c9-4723-b675-1fce8ba57aa2</parentFolderId>
           <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
           <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
           <stereotypes>
@@ -132,7 +132,7 @@
                 <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
                 <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
