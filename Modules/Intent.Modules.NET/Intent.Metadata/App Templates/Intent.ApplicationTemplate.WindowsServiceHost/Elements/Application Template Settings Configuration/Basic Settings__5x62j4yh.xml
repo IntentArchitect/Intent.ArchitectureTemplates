@@ -39,6 +39,20 @@
       </stereotypes>
       <metadata />
       <childElements>
+        <childElement id="96e291b5-c3a1-4599-ad6a-db7626c0cb95" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.NET 10.0</name>
+          <display>.NET 10.0 = 3da65706-027d-4433-9218-6b0f90ce3fc4</display>
+          <isAbstract>false</isAbstract>
+          <value>3da65706-027d-4433-9218-6b0f90ce3fc4</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>45caa192-09d4-42f7-982a-47957d0b4fa7</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
         <childElement id="6dd19a8c-1ace-4ebd-ad02-01a70b328553" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
           <name>.NET 9.0</name>
           <display>.NET 9.0 = e70e92fe-878e-451d-a196-0062a53216f4</display>
@@ -58,34 +72,6 @@
           <display>.NET 8.0 = f8b1618d-1e64-4c2c-9787-e0725c3633a1</display>
           <isAbstract>false</isAbstract>
           <value>f8b1618d-1e64-4c2c-9787-e0725c3633a1</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>45caa192-09d4-42f7-982a-47957d0b4fa7</parentFolderId>
-          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
-          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="7dd77a54-2c69-405b-8a17-e929213da41d" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 7.0</name>
-          <display>.NET 7.0 = 0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</display>
-          <isAbstract>false</isAbstract>
-          <value>0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>45caa192-09d4-42f7-982a-47957d0b4fa7</parentFolderId>
-          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
-          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="dd5794f6-8d0e-41fe-afe4-bd05ef8b6c53" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 6.0</name>
-          <display>.NET 6.0 = 16d99e3e-7b91-42f8-ae3b-2686edde94b7</display>
-          <isAbstract>false</isAbstract>
-          <value>16d99e3e-7b91-42f8-ae3b-2686edde94b7</value>
           <genericTypes />
           <isMapped>false</isMapped>
           <parentFolderId>45caa192-09d4-42f7-982a-47957d0b4fa7</parentFolderId>

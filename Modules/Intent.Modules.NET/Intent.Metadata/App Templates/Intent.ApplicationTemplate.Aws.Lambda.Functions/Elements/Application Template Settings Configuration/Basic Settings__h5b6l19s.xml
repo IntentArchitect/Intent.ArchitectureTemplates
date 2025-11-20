@@ -39,6 +39,20 @@
       </stereotypes>
       <metadata />
       <childElements>
+        <childElement id="4462f7dc-fd54-4110-a406-8d6da2f4c5fe" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.NET 10.0</name>
+          <display>.NET 10.0 = 3da65706-027d-4433-9218-6b0f90ce3fc4</display>
+          <isAbstract>false</isAbstract>
+          <value>3da65706-027d-4433-9218-6b0f90ce3fc4</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>cccfc6ea-746f-4621-af5c-45192cd79865</parentFolderId>
+          <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+          <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
         <childElement id="34e948bb-ea05-4d58-833a-0e1271a52b9d" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
           <name>.NET 9.0</name>
           <display>.NET 9.0 = e70e92fe-878e-451d-a196-0062a53216f4</display>
@@ -58,34 +72,6 @@
           <display>.NET 8.0 = f8b1618d-1e64-4c2c-9787-e0725c3633a1</display>
           <isAbstract>false</isAbstract>
           <value>f8b1618d-1e64-4c2c-9787-e0725c3633a1</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>cccfc6ea-746f-4621-af5c-45192cd79865</parentFolderId>
-          <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
-          <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="dd3d3930-dc5f-4b15-963e-85e437b304e7" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 7.0</name>
-          <display>.NET 7.0 = 0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</display>
-          <isAbstract>false</isAbstract>
-          <value>0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>cccfc6ea-746f-4621-af5c-45192cd79865</parentFolderId>
-          <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
-          <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="ea1f6930-30a4-413d-b6cd-a0bbc9c7b3c4" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 6.0</name>
-          <display>.NET 6.0 = 16d99e3e-7b91-42f8-ae3b-2686edde94b7</display>
-          <isAbstract>false</isAbstract>
-          <value>16d99e3e-7b91-42f8-ae3b-2686edde94b7</value>
           <genericTypes />
           <isMapped>false</isMapped>
           <parentFolderId>cccfc6ea-746f-4621-af5c-45192cd79865</parentFolderId>

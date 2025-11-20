@@ -39,6 +39,20 @@
       </stereotypes>
       <metadata />
       <childElements>
+        <childElement id="e4db2834-4926-4a91-b921-90f211680a3a" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.NET 10.0</name>
+          <display>.NET 10.0 = 3da65706-027d-4433-9218-6b0f90ce3fc4</display>
+          <isAbstract>false</isAbstract>
+          <value>3da65706-027d-4433-9218-6b0f90ce3fc4</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>c64a0289-d702-45ba-b4e6-dc6d34db358f</parentFolderId>
+          <packageId>47b86f35-d2c9-414a-8dd9-8017a1a1aec9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.ModularMonolith.Host</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
         <childElement id="7b1547b3-8e77-4118-98db-94c62f4f899b" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
           <name>.NET 9.0</name>
           <display>.NET 9.0 = e70e92fe-878e-451d-a196-0062a53216f4</display>
@@ -58,34 +72,6 @@
           <display>.NET 8.0 = f8b1618d-1e64-4c2c-9787-e0725c3633a1</display>
           <isAbstract>false</isAbstract>
           <value>f8b1618d-1e64-4c2c-9787-e0725c3633a1</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>c64a0289-d702-45ba-b4e6-dc6d34db358f</parentFolderId>
-          <packageId>47b86f35-d2c9-414a-8dd9-8017a1a1aec9</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.ModularMonolith.Host</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="fb71ad01-2544-4983-bcdc-b1d56946ef04" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 7.0</name>
-          <display>.NET 7.0 = 0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</display>
-          <isAbstract>false</isAbstract>
-          <value>0cd4e056-3bc1-4f8c-9cba-7d362d42c33c</value>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>c64a0289-d702-45ba-b4e6-dc6d34db358f</parentFolderId>
-          <packageId>47b86f35-d2c9-414a-8dd9-8017a1a1aec9</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.ModularMonolith.Host</packageName>
-          <stereotypes />
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="71a07133-7933-4462-90f3-10488c8c7d4a" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
-          <name>.NET 6.0</name>
-          <display>.NET 6.0 = 16d99e3e-7b91-42f8-ae3b-2686edde94b7</display>
-          <isAbstract>false</isAbstract>
-          <value>16d99e3e-7b91-42f8-ae3b-2686edde94b7</value>
           <genericTypes />
           <isMapped>false</isMapped>
           <parentFolderId>c64a0289-d702-45ba-b4e6-dc6d34db358f</parentFolderId>
