@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="e25bfe8e-502b-4445-856b-ae566a244810" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>MediatR</name>
-      <display>MediatR (3)</display>
+      <display>MediatR (3) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-mediatr/intent-application-mediatr.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -138,7 +138,7 @@
     </childElement>
     <childElement id="3f5cd2b4-8b33-4bfa-af2c-7edc1b56ea70" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Application Services</name>
-      <display>Application Services (2)</display>
+      <display>Application Services (2) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -160,7 +160,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-serviceimplementations/intent-application-serviceimplementations.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -225,7 +225,7 @@
     </childElement>
     <childElement id="d5543703-fd70-4043-bd5b-939bf48782d6" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>AutoMapper</name>
-      <display>AutoMapper (2)</display>
+      <display>AutoMapper (2) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -247,7 +247,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-automapper/intent-application-automapper.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -312,7 +312,7 @@
     </childElement>
     <childElement id="959b7f2f-2a16-43fc-8c63-259426430479" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Fluent Validation</name>
-      <display>Fluent Validation (2)</display>
+      <display>Fluent Validation (2) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -334,7 +334,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-fluentvalidation/intent-application-fluentvalidation.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -399,7 +399,7 @@
     </childElement>
     <childElement id="95431b77-7350-4489-a065-fbc535632771" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Pagination</name>
-      <display>Pagination (1)</display>
+      <display>Pagination (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -421,7 +421,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-dtos-pagination/intent-application-dtos-pagination.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -459,7 +459,7 @@
     </childElement>
     <childElement id="771e34c4-5c60-4f3d-87ac-16e7b89e8a8e" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>AI Business Logic</name>
-      <display>AI Business Logic (1) 🌟</display>
+      <display>AI Business Logic (1) 🌟 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -481,7 +481,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-ai-autoimplementation/intent-ai-autoimplementation.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>

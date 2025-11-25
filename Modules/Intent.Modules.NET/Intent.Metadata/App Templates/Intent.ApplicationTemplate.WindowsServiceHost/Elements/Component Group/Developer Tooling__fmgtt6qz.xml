@@ -4,7 +4,7 @@
   <display>Developer Tooling (3) 🌟</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
-  <order>5</order>
+  <order>6</order>
   <genericTypes />
   <isMapped>false</isMapped>
   <parentFolderId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</parentFolderId>
@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="2494d4ba-2fd8-47a0-b3ed-e62cf5031da3" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Visual Studio Integration</name>
-      <display>Visual Studio Integration (1)</display>
+      <display>Visual Studio Integration (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-visualstudio-projects/intent-visualstudio-projects.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -84,7 +84,7 @@
     </childElement>
     <childElement id="95b74a83-7c22-46bf-a80d-e60a53fd0b83" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>JSON Importer</name>
-      <display>JSON Importer (1) 🌟</display>
+      <display>JSON Importer (1) 🌟 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -106,7 +106,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-importers/intent-json-importer/intent-json-importer.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -144,7 +144,7 @@
     </childElement>
     <childElement id="085b3602-5ec5-43eb-8a68-33a3b205afe5" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>C# Importer</name>
-      <display>C# Importer (1) 🌟</display>
+      <display>C# Importer (1) 🌟 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -166,7 +166,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-importers/intent-csharp-importer/intent-csharp-importer.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>

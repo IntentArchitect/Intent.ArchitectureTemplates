@@ -4,7 +4,7 @@
   <display>Observation &amp; Telemetry (4)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
-  <order>10</order>
+  <order>11</order>
   <genericTypes />
   <isMapped>false</isMapped>
   <parentFolderId>9612bb90-998c-4dda-b8af-98f201160728</parentFolderId>
@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="a49fdb49-6b95-4035-a9c5-4207d9ee4c4c" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Health Checks</name>
-      <display>Health Checks (1)</display>
+      <display>Health Checks (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-healthchecks/intent-aspnetcore-healthchecks.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -84,7 +84,7 @@
     </childElement>
     <childElement id="da1bf0b2-be7c-4650-b940-abf593b75528" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Serilog</name>
-      <display>Serilog (1)</display>
+      <display>Serilog (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -106,7 +106,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-logging-serilog/intent-aspnetcore-logging-serilog.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -144,7 +144,7 @@
     </childElement>
     <childElement id="210f0b24-2d3f-43ce-94dc-49c8a0dd8a1f" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Open Telemetry</name>
-      <display>Open Telemetry (1)</display>
+      <display>Open Telemetry (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -166,7 +166,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-opentelemetry/intent-opentelemetry.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -204,7 +204,7 @@
     </childElement>
     <childElement id="f2e7f5ef-c61a-4464-a0e9-eccad290812a" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Bugsnag</name>
-      <display>Bugsnag (1)</display>
+      <display>Bugsnag (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -226,7 +226,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-observability-bugsnag/intent-observability-bugsnag.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>

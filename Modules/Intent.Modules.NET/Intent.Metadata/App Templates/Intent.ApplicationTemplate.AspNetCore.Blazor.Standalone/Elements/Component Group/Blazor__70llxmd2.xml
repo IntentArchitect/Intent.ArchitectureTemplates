@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="6569c48f-43ca-4a99-b110-5306ae7763ee" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>ASP.NET Core</name>
-      <display>ASP.NET Core (1)</display>
+      <display>ASP.NET Core (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore/intent-aspnetcore.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -84,7 +84,7 @@
     </childElement>
     <childElement id="2d6f69f3-3b54-4170-8cf3-f6f36fc3f201" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Blazor</name>
-      <display>Blazor (2)</display>
+      <display>Blazor (2) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -106,7 +106,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-blazor/intent-blazor.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -171,7 +171,7 @@
     </childElement>
     <childElement id="af2afad8-8f30-4cae-9838-2ab74f28d95d" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Blazor AI (BETA)</name>
-      <display>Blazor AI (BETA) (1)</display>
+      <display>Blazor AI (BETA) (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -193,7 +193,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/application-development/modelling/ui-designer/blazor-modeling/blazor-modeling.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>

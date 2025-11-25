@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="fa1e04b1-f7e6-40fa-a1fa-3e70901cde5f" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Entity Framework Core</name>
-      <display>Entity Framework Core (5)</display>
+      <display>Entity Framework Core (5) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-entityframeworkcore/intent-entityframeworkcore.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -192,7 +192,7 @@
     </childElement>
     <childElement id="2175d2b8-468d-449f-8484-77ff5806a07f" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Mongo DB</name>
-      <display>Mongo DB (1)</display>
+      <display>Mongo DB (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -214,7 +214,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-mongodb/intent-mongodb.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -252,7 +252,7 @@
     </childElement>
     <childElement id="c06f6b13-7fb1-4843-8552-9afe7fab652d" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Cosmos DB</name>
-      <display>Cosmos DB (1)</display>
+      <display>Cosmos DB (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -274,7 +274,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-cosmosdb/intent-cosmosdb.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -312,7 +312,7 @@
     </childElement>
     <childElement id="6404f8f6-d799-4d1d-9cd0-386d2fb09cf5" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Table Storage</name>
-      <display>Table Storage (1)</display>
+      <display>Table Storage (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -334,7 +334,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-azure-tablestorage/intent-azure-tablestorage.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>

@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="f89fc561-b8de-47fe-927a-1b567a5f2eec" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Dapr Service-to-Service Invocation</name>
-      <display>Dapr Service-to-Service Invocation (1)</display>
+      <display>Dapr Service-to-Service Invocation (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -46,7 +46,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-dapr-aspnetcore-serviceinvocation/intent-dapr-aspnetcore-serviceinvocation.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -84,7 +84,7 @@
     </childElement>
     <childElement id="a0f232ce-4740-4fea-8fe1-deca457079de" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>Dapr Publish and Subscribe</name>
-      <display>Dapr Publish and Subscribe (1)</display>
+      <display>Dapr Publish and Subscribe (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -106,7 +106,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-dapr-aspnetcore-pubsub/intent-dapr-aspnetcore-pubsub.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
@@ -144,7 +144,7 @@
     </childElement>
     <childElement id="d6171bdf-824f-4088-b018-ab19cd2a602f" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>SignalR</name>
-      <display>SignalR (1)</display>
+      <display>SignalR (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -166,7 +166,7 @@
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
-            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-signalr/intent-aspnetcore-signalr.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
