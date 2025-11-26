@@ -43,7 +43,7 @@ Learn more [here](https://docs.intentarchitect.com/articles/modules-dotnet/inten
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-iac-terraform/intent-iac-terraform.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-iac-terraform/intent-iac-terraform.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -51,11 +51,11 @@ Learn more [here](https://docs.intentarchitect.com/articles/modules-dotnet/inten
   <additionalSettings />
   <minimumDependencyVersions>
     <module id="Intent.Common" version="3.9.2" />
-    <module id="Intent.Common.CSharp" version="3.9.10" />
+    <module id="Intent.Common.CSharp" version="3.9.9" />
     <module id="Intent.Common.Types" version="4.1.2" />
-    <module id="Intent.Modelers.Domain" version="3.12.10" />
-    <module id="Intent.Modelers.Eventing" version="6.0.3" />
-    <module id="Intent.Modelers.Services" version="4.0.7" />
+    <module id="Intent.Modelers.Domain" version="3.12.9" />
+    <module id="Intent.Modelers.Eventing" version="6.0.2" />
+    <module id="Intent.Modelers.Services" version="4.0.6" />
     <module id="Intent.Modelers.Services.EventInteractions" version="2.0.4" />
   </minimumDependencyVersions>
 </applicationTemplate>

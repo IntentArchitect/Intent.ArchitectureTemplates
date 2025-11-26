@@ -46,7 +46,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-blazor/intent-blazor.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-blazor/intent-blazor.html</documentationUrl>
         </component>
         <component id="9b07e521-c632-40fe-a116-2246e20f8d35" name="ASP.NET Core Hosting" included="true" required="true">
           <description>ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications.</description>
@@ -56,33 +56,33 @@ Learn more:
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Application.DependencyInjection" version="4.1.11">
+            <module id="Intent.Application.DependencyInjection" version="4.1.12">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Infrastructure.DependencyInjection" version="4.1.12">
+            <module id="Intent.Infrastructure.DependencyInjection" version="4.1.13">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Application.Dtos" version="4.4.6">
+            <module id="Intent.Application.Dtos" version="4.4.7">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore/intent-aspnetcore.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore/intent-aspnetcore.html</documentationUrl>
         </component>
         <component id="2c98fb89-7966-48a4-a040-39bb40aa3433" name="Blazor AI (BETA)" included="true" required="false">
           <description>AI support for auto-implementing Razor Pages based on existing implementations.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYnJhY2tldF9zeW1ib2wtYmx1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNDIuOSA0Mi45Ij4KICA8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMjkuNi4xLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogMi4xLjEgQnVpbGQgOSkgIC0tPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZSIgeDE9Ii0xMTUyMi43IiB5MT0iLTY2NTcuNyIgeDI9Ii0xMTUyMi43IiB5Mj0iLTY2MzkuNCIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtNjYzNiAtMTE0OTUuMikgcm90YXRlKC05MCkgc2NhbGUoMSAtMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQiIHN0b3AtY29sb3I9IiMwOWM0ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA3MGMwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTEiIHgxPSItMTU2MTIuMiIgeTE9Ii0xNTM3IiB4Mj0iLTE1NjEyLjIiIHkyPSItMTUxOC45IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMjA5OS44IC05OTI4LjcpIHJvdGF0ZSgtMTM1KSBzY2FsZSgxIC0xKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNCIgc3RvcC1jb2xvcj0iIzA5YzRmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDcwYzAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC00NXk5ODdkZmdoZGZneGRmYnZzZnZod2RmYmRmcnZlZm5qMjAzOHRoaS1lcmduaTM5NTR5Nzh1MjAzOXJmajAtdzQzLXQ5ajMwaWJ2bmU5ODVibnZlMiIgeDE9Ii0xNDg4Mi42IiB5MT0iNDk3NS40IiB4Mj0iLTE0ODgyLjYiIHkyPSI0OTkzLjYiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE0ODU1LjIgLTQ5NTcuMikgcm90YXRlKC0xODApIHNjYWxlKDEgLTEpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii40IiBzdG9wLWNvbG9yPSIjMDljNGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwNzBjMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmUzIiB4MT0iLTk3NjIuMyIgeTE9IjkwNjQuNSIgeDI9Ii05NzYyLjMiIHkyPSI5MDgyLjciIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzMjg4LjcgNTA2LjcpIHJvdGF0ZSgxMzUpIHNjYWxlKDEgLTEpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii40IiBzdG9wLWNvbG9yPSIjMDljNGZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwNzBjMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmU0IiB4MT0iLTMyNDkuNSIgeTE9IjgzMzUuNCIgeDI9Ii0zMjQ5LjUiIHkyPSI4MzUzLjYiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTgzMTcuMSAzMjYyLjEpIHJvdGF0ZSg5MCkgc2NhbGUoMSAtMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQiIHN0b3AtY29sb3I9IiMwOWM0ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA3MGMwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTUiIHgxPSI4MzkuNCIgeTE9IjMyMTQuOCIgeDI9IjgzOS40IiB5Mj0iMzIzMyIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMjg1My4zIDE2OTUuNSkgcm90YXRlKDQ1KSBzY2FsZSgxIC0xKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNmZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIuNCIgc3RvcC1jb2xvcj0iIzA5YzRmZiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwMDcwYzAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC00NXk5ODdkZmdoZGZneGRmYnZzZnZod2RmYmRmcnZlZm5qMjAzOHRoaS1lcmduaTM5NTR5Nzh1MjAzOXJmajAtdzQzLXQ5ajMwaWJ2bmU5ODVibnZlNiIgeDE9IjExMC41IiB5MT0iLTMyOTcuNyIgeDI9IjExMC41IiB5Mj0iLTMyNzkuNCIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtOTcuOSAtMzI3Nikgc2NhbGUoMSAtMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQiIHN0b3AtY29sb3I9IiMwOWM0ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA3MGMwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTciIHgxPSItNTAxMC42IiB5MT0iLTczODYuNyIgeDI9Ii01MDEwLjYiIHkyPSItNzM2OC42IiBncmFkaWVudFRyYW5zZm9ybT0idHJhbnNsYXRlKC0xNjY0LjUgLTg3MzkuOCkgcm90YXRlKC00NSkgc2NhbGUoMSAtMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmZmIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iLjQiIHN0b3AtY29sb3I9IiMwOWM0ZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMDA3MGMwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTgiIHgxPSIyOSIgeTE9IjIxLjgiIHgyPSIyOSIgeTI9IjEuMSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgwIDQ0KSBzY2FsZSgxIC0xKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM3MDJhZjciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNWMyZDkxIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTkiIHgxPSIyOSIgeTE9IjIxLjgiIHgyPSIyOSIgeTI9IjEuMSIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgwIDQ0KSBzY2FsZSgxIC0xKSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM3MDJhZjciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNWMyZDkxIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBkPSJNMjEuNywyMS43YzAtLjQuNCwzLjctMS41LDYuOC0xLjgsMy4xLTQuMSw0LTcuNyw0LjgtMiwuNS0zLjIsMC00LjgtLjUtMi4yLS43LTMuMy0yLjUtMy43LTMuMXMtLjgtMS45LS41LTMuMmMuNS0yLjIsMi0zLjMsNC0zLjkuNCwwLDIuMi0uNSwzLjkuNHMyLjIsMS41LDMuNywxLjljMS41LjQsMy4xLDAsMy43LS40LDEuNy0uNiwyLjktMi40LDMuMS0zLjF2LjJoLS4yWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZSkiLz4KICA8cGF0aCBkPSJNMjIuNCwxOS45Yy0uMy0uMywyLjksMi40LDMuNyw1LjhzLjIsNS44LTIsOC45Yy0xLjIsMS44LTIuMywyLjQtMy44LDMuMi0yLjEsMS00LjIuNi00LjcuNXMtMS45LS43LTIuNi0xLjljLTEuMS0xLjktMS0zLjgsMC01LjYuMy0uMywxLjEtMS45LDMtMi41LDEuOC0uNiwyLjYtLjUsNC0xLjNzMi4xLTIuMSwyLjQtMi45Yy43LTEuNy40LTMuNywwLTQuM2guMi0uMloiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmUxKSIvPgogIDxwYXRoIGQ9Ik0yMS43LDE4LjNjLS40LDAsMy43LS40LDYuOCwxLjUsMy4xLDEuOCw0LjMsNCw0LjgsNy43LjQsMiwwLDMuMi0uNSw0LjgtLjcsMi4yLTIuNSwzLjMtMy4xLDMuN3MtMS45LjgtMy4yLjVjLTIuMi0uNS0zLjMtMi0zLjktNCwwLS40LS41LTIuMi40LTMuOXMxLjUtMi4yLDEuOS0zLjcsMC0zLjEtLjQtMy43Yy0uNi0xLjctMi40LTIuOS0zLjEtMy4xaC4ydi4yaC4xWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTIpIi8+CiAgPHBhdGggZD0iTTE5LjksMTcuNmMtLjMuMywyLjQtMi45LDUuOC0zLjdzNS44LS4yLDguOSwyYzEuOCwxLjIsMi40LDIuMywzLjIsMy44LDEsMi4xLjYsNC4yLjUsNC43cy0uNywxLjktMS45LDIuNmMtMS45LDEuMS0zLjgsMS01LjYsMC0uMy0uMy0xLjktMS4xLTIuNS0zcy0uNS0yLjYtMS4zLTQtMi4xLTIuMS0yLjktMi40Yy0xLjctLjctMy43LS40LTQuMywwaDB2LS4yaDB2LjJzLjEsMCwuMSwwWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTMpIi8+CiAgPHBhdGggZD0iTTE4LjMsMTguM2MwLC40LS40LTMuNywxLjUtNi44czQtNC4zLDcuNy00LjhjMi0uNCwzLjIsMCw0LjguNSwyLjIuNywzLjMsMi41LDMuNywzLjFzLjgsMS45LjUsMy4yYy0uNSwyLjItMiwzLjMtNCwzLjktLjQsMC0yLjIuNS0zLjktLjRzLTIuMi0xLjUtMy43LTEuOS0zLjEsMC0zLjcuNGMtMS43LjYtMi45LDIuNC0zLjEsMy4xdi0uMmguMloiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmU0KSIvPgogIDxwYXRoIGQ9Ik0xNy42LDE5LjljLjMuMy0yLjktMi40LTMuNy01LjhzLS4yLTUuOCwyLTguOWMxLjItMS44LDIuMy0yLjQsMy44LTMuMiwyLjEtMSw0LjItLjYsNC43LS41czEuOS43LDIuNiwxLjljMS4xLDEuOSwxLDMuOCwwLDUuNi0uMy4zLTEuMSwxLjktMywyLjVzLTIuNi41LTQsMS4zYy0xLjMuOC0yLjEsMi4xLTIuNCwyLjktLjcsMS43LS40LDMuNywwLDQuM2gtLjIuMiwwWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQtNDV5OTg3ZGZnaGRmZ3hkZmJ2c2Z2aHdkZmJkZnJ2ZWZuajIwMzh0aGktZXJnbmkzOTU0eTc4dTIwMzlyZmowLXc0My10OWozMGlidm5lOTg1Ym52ZTUpIi8+CiAgPHBhdGggZD0iTTE4LjMsMjEuN2MuNCwwLTMuNy40LTYuOC0xLjVzLTQuMy00LTQuOC03LjdjLS40LTIsMC0zLjIuNS00LjguNy0yLjIsMi41LTMuMywzLjEtMy43czEuOS0uOCwzLjItLjVjMi4yLjUsMy4zLDIsMy45LDQsMCwuNC41LDIuMi0uNCwzLjlzLTEuNSwyLjItMS45LDMuN2MtLjQsMS41LDAsMy4xLjQsMy43LjYsMS43LDIuNCwyLjksMy4xLDMuMWgtLjJ2LS4yaC0uMVoiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmU2KSIvPgogIDxwYXRoIGQ9Ik0xOS45LDIyLjRjLjMtLjMtMi40LDIuOS01LjgsMy43cy01LjguMi04LjktMmMtMS44LTEuMi0yLjQtMi4zLTMuMi0zLjgtMS0yLjEtLjYtNC4yLS41LTQuN3MuNy0xLjksMS45LTIuNmMxLjktMS4xLDMuOC0xLDUuNiwwLC4zLjMsMS45LDEuMSwyLjUsMywuNiwxLjguNSwyLjYsMS4zLDQsLjgsMS4zLDIuMSwyLjEsMi45LDIuNCwxLjcuNywzLjcuNCw0LjMsMGgwdi4yaDB2LS4ycy0uMSwwLS4xLDBaIiBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudC00NXk5ODdkZmdoZGZneGRmYnZzZnZod2RmYmRmcnZlZm5qMjAzOHRoaS1lcmduaTM5NTR5Nzh1MjAzOXJmajAtdzQzLXQ5ajMwaWJ2bmU5ODVibnZlNykiLz4KICA8ZWxsaXBzZSBjeD0iMjgiIGN5PSIzMyIgcng9IjkuNSIgcnk9IjgiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBkPSJNNDAuMywyNy4zYy0uNSwzLjEtMi4xLDUuOS00LjQsNy45LTIuNCwyLTUuNCwzLjItOC41LDMuMnMtMS4zLDAtMS45LDBjLTIuNy0uNS00LjctMi43LTQuOC01LjUsMC0xLjUuNi0yLjksMS43LTMuOSwyLjItMi4yLDUuNy0yLjIsNy45LDAsMS4xLDEsMS43LDIuNCwxLjcsMy45cy0uNCwxLjgtMS4yLDEuOC0xLjMtLjYtMS4zLTEuNXYtMi40YzAtLjgtLjYtMS41LTEuNC0xLjVoLTJjLTEuMiwwLTIuMy42LTIuOSwxLjYtMS4xLDEuNi0uNiwzLjgsMSw0LjguNC4zLjkuNCwxLjQuNSwxLjIuMiwyLjMtLjIsMy4xLTEuMWgwYzAsMCwwLDAsMCwwLC41LjcsMS4zLDEsMi4xLDEsMS41LDAsMi42LTEuNCwyLjYtMi45czAtMS4yLS4yLTEuOGMtLjQtMS43LTEuNC0zLjItMi44LTQuMi0yLjktMi4xLTctMS43LTkuNCwxLTEuMiwxLjMtMS44LDMtMS44LDQuN3MuOCwzLjYsMi4xLDQuOWMxLjMsMS4zLDMsMi4xLDQuOSwyLjFoMS4xYzIuOSwwLDUuNy0uOSw4LjEtMi40aDBjLTIuNCwyLjUtNS43LDMuOS05LjIsMy44LTIuMywwLTQuNS0uOC02LjEtMi41LTEuNi0xLjYtMi41LTMuOC0yLjQtNi4xLDAtMi43LDEuMy01LjMsMy41LTYuOSwxLjQtMS4xLDMuMi0xLjYsNS0xLjZoMi43YzIuMSwwLDQuMS0uOSw1LjYtMi41aDBjMCwxLjItLjUsMi40LTEuMiwzLjRoMHEwLC4xLDAsLjFjMi41LS42LDQuNi0yLjMsNS42LTQuNmgwYzEsMiwxLjQsNC4zLDEsNi41aDB2LjNaTTI2LDMwLjdjLTEuMSwwLTIsLjgtMiwydi40Yy4yLjguOCwxLjUsMS42LDEuNiwxLjEuMiwyLjItLjUsMi40LTEuNnYtMi4zczAtLjEtLjEtLjFoLTEuOVoiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmU4KSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iLjkiLz4KICA8cGF0aCBkPSJNNDAuMywyNy4zYy0uNSwzLjEtMi4xLDUuOS00LjQsNy45LTIuNCwyLTUuNCwzLjItOC41LDMuMnMtMS4zLDAtMS45LDBjLTIuNy0uNS00LjctMi43LTQuOC01LjUsMC0xLjUuNi0yLjksMS43LTMuOSwyLjItMi4yLDUuNy0yLjIsNy45LDAsMS4xLDEsMS43LDIuNCwxLjcsMy45cy0uNCwxLjgtMS4yLDEuOC0xLjMtLjYtMS4zLTEuNXYtMi40YzAtLjgtLjYtMS41LTEuNC0xLjVoLTJjLTEuMiwwLTIuMy42LTIuOSwxLjYtMS4xLDEuNi0uNiwzLjgsMSw0LjguNC4zLjkuNCwxLjQuNSwxLjIuMiwyLjMtLjIsMy4xLTEuMWgwYzAsMCwwLDAsMCwwLC41LjcsMS4zLDEsMi4xLDEsMS41LDAsMi42LTEuNCwyLjYtMi45czAtMS4yLS4yLTEuOGMtLjQtMS43LTEuNC0zLjItMi44LTQuMi0yLjktMi4xLTctMS43LTkuNCwxLTEuMiwxLjMtMS44LDMtMS44LDQuN3MuOCwzLjYsMi4xLDQuOWMxLjMsMS4zLDMsMi4xLDQuOSwyLjFoMS4xYzIuOSwwLDUuNy0uOSw4LjEtMi40aDBjLTIuNCwyLjUtNS43LDMuOS05LjIsMy44LTIuMywwLTQuNS0uOC02LjEtMi41LTEuNi0xLjYtMi41LTMuOC0yLjQtNi4xLDAtMi43LDEuMy01LjMsMy41LTYuOSwxLjQtMS4xLDMuMi0xLjYsNS0xLjZoMi43YzIuMSwwLDQuMS0uOSw1LjYtMi41aDBjMCwxLjItLjUsMi40LTEuMiwzLjRoMHEwLC4xLDAsLjFjMi41LS42LDQuNi0yLjMsNS42LTQuNmgwYzEsMiwxLjQsNC4zLDEsNi41aDB2LjNaTTI2LDMwLjdjLTEuMSwwLTIsLjgtMiwydi40Yy4yLjguOCwxLjUsMS42LDEuNiwxLjEuMiwyLjItLjUsMi40LTEuNnYtMi4zczAtLjEtLjEtLjFoLTEuOVoiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50LTQ1eTk4N2RmZ2hkZmd4ZGZidnNmdmh3ZGZiZGZydmVmbmoyMDM4dGhpLWVyZ25pMzk1NHk3OHUyMDM5cmZqMC13NDMtdDlqMzBpYnZuZTk4NWJudmU5KSIgc3Ryb2tlPSIjZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iLjIiLz4KPC9zdmc+" />
           <modules>
-            <module id="Intent.AI.Blazor" version="1.0.0-beta.19">
+            <module id="Intent.AI.Blazor" version="1.0.0-beta.21">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/application-development/modelling/ui-designer/blazor-modeling/blazor-modeling.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-ai-blazor/intent-ai-blazor.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -99,7 +99,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-blazor-authentication/intent-blazor-authentication.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-blazor-authentication/intent-blazor-authentication.html</documentationUrl>
         </component>
         <component id="710bbcf2-d86e-44f0-8334-ce6965504df6" name="ASP.NET Core Identity" included="false" required="false">
           <description>Use ASP.NET Core Identity as your User Store.</description>
@@ -113,7 +113,7 @@ Learn more:
           <dependencies>
             <dependency id="ec87f919-d89f-4a3a-9881-6cdfdb5a561d" name="Blazor Security" />
           </dependencies>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-identity/intent-aspnetcore-identity.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-identity/intent-aspnetcore-identity.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -130,7 +130,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-blazor-components-mudblazor/intent-blazor-components-mudblazor.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-blazor-components-mudblazor/intent-blazor-components-mudblazor.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -145,7 +145,7 @@ Learn more:
               <includedByDefault>false</includedByDefault>
               <required>false</required>
             </module>
-            <module id="Intent.AspNetCore.Versioning" version="1.1.8">
+            <module id="Intent.AspNetCore.Versioning" version="1.1.9">
               <includedByDefault>false</includedByDefault>
               <required>false</required>
             </module>
@@ -162,7 +162,7 @@ Learn more:
           <incompatibilities>
             <incompatible id="a1e4e27d-4b6b-4575-8165-f886c51e01fe" name="Fast Endpoints" />
           </incompatibilities>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-controllers/intent-aspnetcore-controllers.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-controllers/intent-aspnetcore-controllers.html</documentationUrl>
         </component>
         <component id="a1e4e27d-4b6b-4575-8165-f886c51e01fe" name="Fast Endpoints" included="false" required="false">
           <description>FastEndpoints is a developer friendly alternative to Minimal APIs &amp; MVC.</description>
@@ -177,7 +177,7 @@ Learn more:
           <incompatibilities>
             <incompatible id="aa8c1adf-ed9c-4b41-b4b1-d43dbd45a5e2" name="ASP.NET Core Controllers" />
           </incompatibilities>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-fastendpoints/intent-fastendpoints.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-fastendpoints/intent-fastendpoints.html</documentationUrl>
         </component>
         <component id="7a4c92cc-2956-473b-9eee-ff5a16eddc5e" name="Swashbuckle" included="true" required="false">
           <description>OpenAPI/Swagger documentation generation and UI directly into your API.</description>
@@ -192,7 +192,7 @@ Learn more:
           <incompatibilities>
             <incompatible id="c983c1a4-d878-45bb-a11a-2724441acaa7" name="Scalar" />
           </incompatibilities>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-swashbuckle/intent-aspnetcore-swashbuckle.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-swashbuckle/intent-aspnetcore-swashbuckle.html</documentationUrl>
         </component>
         <component id="c983c1a4-d878-45bb-a11a-2724441acaa7" name="Scalar" included="false" required="false" isNew="true">
           <description>A highly customizable, interactive UI for API reference documentation, powered by the OpenAPI Specification.</description>
@@ -207,7 +207,7 @@ Learn more:
           <incompatibilities>
             <incompatible id="7a4c92cc-2956-473b-9eee-ff5a16eddc5e" name="Swashbuckle" />
           </incompatibilities>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-scalar/intent-aspnetcore-scalar.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-scalar/intent-aspnetcore-scalar.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -222,33 +222,33 @@ Learn more:
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Application.MediatR.Behaviours" version="4.5.4">
+            <module id="Intent.Application.MediatR.Behaviours" version="4.5.5">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Application.MediatR.CRUD" version="7.1.2">
+            <module id="Intent.Application.MediatR.CRUD" version="7.1.3">
               <includedByDefault>true</includedByDefault>
               <required>false</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-application-mediatr/intent-application-mediatr.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-mediatr/intent-application-mediatr.html</documentationUrl>
         </component>
         <component id="39602065-949f-464f-a2e0-ec82b91f86d5" name="Application Services" included="true" required="false">
           <description>Basic interfaces and business-logic placeholder implementations for  services.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyOC4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iU2VydmljZXNfQmx1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4Ig0KCSB5PSIwcHgiIHZpZXdCb3g9IjAgMCA1MCA1MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTAgNTAiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9Il94M0NfU2VydmljZXNfR3JlZW5feDNFXyI+DQoJDQoJCTxsaW5lYXJHcmFkaWVudCBpZD0iX3gzQ19DaXJjbGVfQ194M0VfXzAwMDAwMDUxMzY0MzM5MTc3NzM0NjUyODQwMDAwMDE2MzExMzMyMzUxODk2ODQzNjUxXyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxOC42ODY0IiB5MT0iNDcuNzIxNiIgeDI9IjE4Ljk5NjIiIHkyPSIyLjk4MzkiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgLTEgMCA1MCkiPg0KCQk8c3RvcCAgb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjojMDBDMEYyIi8+DQoJCTxzdG9wICBvZmZzZXQ9IjEiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDU5OUMiLz4NCgk8L2xpbmVhckdyYWRpZW50Pg0KCTxwYXRoIGlkPSJfeDNDX0NpcmNsZV9DX3gzRV8iIGZpbGw9InVybCgjX3gzQ19DaXJjbGVfQ194M0VfXzAwMDAwMDUxMzY0MzM5MTc3NzM0NjUyODQwMDAwMDE2MzExMzMyMzUxODk2ODQzNjUxXykiIGQ9Ik0yNC4zLDI1LjkNCgkJYzAsMy0yLjQsNS40LTUuNSw1LjRjLTMsMC01LjQtMi40LTUuNC01LjRzMi40LTUuNSw1LjQtNS41QzIxLjksMjAuNCwyNC4zLDIyLjgsMjQuMywyNS45eiIvPg0KCQ0KCQk8bGluZWFyR3JhZGllbnQgaWQ9Il94M0NfQ2lyY2xlX0JfeDNFX18wMDAwMDEyMjY4NzI0MDg5MjYzODE2Mjg3MDAwMDAwMTk2NzQwNjczODE5NDIzNjA1Nl8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTguNzA2MyIgeTE9IjQ3LjE4OTciIHgyPSIxOC44ODg2IiB5Mj0iMi43MDE1IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgNTApIj4NCgkJPHN0b3AgIG9mZnNldD0iMCIgc3R5bGU9InN0b3AtY29sb3I6IzAwQzBGMiIvPg0KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMDA1OTlDIi8+DQoJPC9saW5lYXJHcmFkaWVudD4NCgk8cGF0aCBpZD0iX3gzQ19DaXJjbGVfQl94M0VfIiBmaWxsPSJ1cmwoI194M0NfQ2lyY2xlX0JfeDNFX18wMDAwMDEyMjY4NzI0MDg5MjYzODE2Mjg3MDAwMDAwMTk2NzQwNjczODE5NDIzNjA1Nl8pIiBkPSJNMTguOCwxMC4xDQoJCUMxMC4xLDEwLjEsMywxNy4yLDMsMjUuOXM3LjEsMTUuOCwxNS44LDE1LjhzMTUuOC03LjEsMTUuOC0xNS44QzM0LjcsMTcuMiwyNy42LDEwLjEsMTguOCwxMC4xeiBNMTguOCwzOA0KCQljLTYuNywwLTEyLjEtNS40LTEyLjEtMTIuMXM1LjQtMTIuMSwxMi4xLTEyLjFzMTIuMSw1LjQsMTIuMSwxMi4xUzI1LjUsMzgsMTguOCwzOHoiLz4NCgkNCgkJPGxpbmVhckdyYWRpZW50IGlkPSJfeDNDX0Fycm93X0NfeDNFX18wMDAwMDAyODMxNjY5MDUyNDIxOTA0OTgwMDAwMDAxMjY1NDMxNDk2OTAwNjUwOTY5Nl8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNDEuNjE3NiIgeTE9IjQ3Ljc4NzYiIHgyPSI0MS45NTE2IiB5Mj0iMi45NjAxIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgNTApIj4NCgkJPHN0b3AgIG9mZnNldD0iMCIgc3R5bGU9InN0b3AtY29sb3I6IzAwQzBGMiIvPg0KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMDA1OTlDIi8+DQoJPC9saW5lYXJHcmFkaWVudD4NCgk8cGF0aCBpZD0iX3gzQ19BcnJvd19DX3gzRV8iIGZpbGw9InVybCgjX3gzQ19BcnJvd19DX3gzRV9fMDAwMDAwMjgzMTY2OTA1MjQyMTkwNDk4MDAwMDAwMTI2NTQzMTQ5NjkwMDY1MDk2OTZfKSIgZD0iTTQ3LjMsMjYNCgkJYzAsMC4yLTAuMiwwLjMtMC4zLDAuNWwtNS4zLDUuM2MtMC4yLDAuMi0wLjQsMC4zLTAuNywwLjNjLTAuMiwwLTAuNS0wLjEtMC43LTAuM0wzOS41LDMxYy0wLjQtMC40LTAuNC0xLDAtMS4zbDIuMS0yLjFoLTUuMw0KCQljMC4xLTAuNiwwLjEtMS4yLDAuMS0xLjdjMC0wLjYsMC0xLjItMC4xLTEuN2g1LjNMMzkuNSwyMmMtMC40LTAuNC0wLjQtMSwwLTEuM2wwLjQtMC40bDAsMGwwLjQtMC40YzAuNC0wLjQsMS0wLjQsMS4zLDBsMS4yLDEuMg0KCQlsMi40LDIuNGwwLjksMC45bDAuOCwwLjhjMC4yLDAuMiwwLjQsMC40LDAuNCwwLjYiLz4NCgkNCgkJPGxpbmVhckdyYWRpZW50IGlkPSJfeDNDX0Fycm93X0JfeDNFX18wMDAwMDAwMDE4MzYxNjU0NTk5NDAwNzAyMDAwMDAwNDY2MDg4OTY3OTkwMjU4ODgwMV8iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMzYuNTMwOCIgeTE9IjQ1Ljg4NDQiIHgyPSIzNy4wMTQ4IiB5Mj0iMy4zMjQiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgLTEgMCA1MCkiPg0KCQk8c3RvcCAgb2Zmc2V0PSIwIiBzdHlsZT0ic3RvcC1jb2xvcjojMDBDMEYyIi8+DQoJCTxzdG9wICBvZmZzZXQ9IjEiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDU5OUMiLz4NCgk8L2xpbmVhckdyYWRpZW50Pg0KCTxwYXRoIGlkPSJfeDNDX0Fycm93X0JfeDNFXyIgZmlsbD0idXJsKCNfeDNDX0Fycm93X0JfeDNFX18wMDAwMDAwMDE4MzYxNjU0NTk5NDAwNzAyMDAwMDAwNDY2MDg4OTY3OTkwMjU4ODgwMV8pIiBkPSJNNDEuNiwxNS4yDQoJCWMwLDAuMy0wLjEsMC41LTAuMywwLjdjLTAuMiwwLjItMC40LDAuMy0wLjcsMC4zaC0xLjJjLTAuNSwwLTEtMC40LTEtMXYtM2wtNC42LDQuNmMtMC42LTEtMS4zLTItMi4xLTIuOEwzNiw5LjdoLTMNCgkJYy0wLjUsMC0xLTAuNC0xLTFWOC4ybDAsMFY3LjZjMC0wLjUsMC40LTEsMS0wLjloNy41YzAuMiwwLDAuNCwwLjEsMC42LDAuMkw0MS4yLDdsMCwwbDAuMSwwLjFjMC4xLDAuMiwwLjIsMC4zLDAuMiwwLjZMNDEuNiwxNS4yDQoJCXoiLz4NCgkNCgkJPGxpbmVhckdyYWRpZW50IGlkPSJfeDNDX0Fycm93X0FfeDNFX18wMDAwMDAyNTQzNzczOTQ0OTg3MjgzNzE5MDAwMDAxMzAyNTk4MTYwMzQ5NzQ4Njc1N18iIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMzYuMjM5MiIgeTE9IjQ0LjYwNjYiIHgyPSIzNi43MTgzIiB5Mj0iMi4zNzA1IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIC0xIDAgNTApIj4NCgkJPHN0b3AgIG9mZnNldD0iMCIgc3R5bGU9InN0b3AtY29sb3I6IzAwQzBGMiIvPg0KCQk8c3RvcCAgb2Zmc2V0PSIxIiBzdHlsZT0ic3RvcC1jb2xvcjojMDA1OTlDIi8+DQoJPC9saW5lYXJHcmFkaWVudD4NCgk8cGF0aCBpZD0iX3gzQ19BcnJvd19BX3gzRV8iIGZpbGw9InVybCgjX3gzQ19BcnJvd19BX3gzRV9fMDAwMDAwMjU0Mzc3Mzk0NDk4NzI4MzcxOTAwMDAwMTMwMjU5ODE2MDM0OTc0ODY3NTdfKSIgZD0iTTQxLjUsNDEuOA0KCQl2Mi40YzAsMC4yLTAuMSwwLjQtMC4yLDAuNmwtMC4xLDAuMWwwLDBMNDEuMSw0NWMtMC4yLDAuMS0wLjQsMC4yLTAuNiwwLjJIMzNjLTAuMywwLTAuNS0wLjEtMC43LTAuM1MzMiw0NC41LDMyLDQ0LjJWNDMNCgkJYzAtMC41LDAuNC0xLDEtMWgzbC00LjMtNC4yYzAuOC0wLjksMS41LTEuOCwyLjEtMi44bDQuNiw0LjZ2LTNjMC0wLjUsMC40LTEsMS0xaDAuNWgwLjZjMC41LDAsMSwwLjQsMSwxdjEuOA0KCQlDNDEuNSwzOC40LDQxLjUsNDEuOCw0MS41LDQxLjh6Ii8+DQoJDQoJCTxsaW5lYXJHcmFkaWVudCBpZD0iX3gzQ19DaXJjbGVfQV94M0VfXzAwMDAwMDIxNzk4MjQxNTkyNDUwNTIzMjUwMDAwMDE1NDU4ODA1MDU1NzA1Mjk0OTc2XyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxOC44Nzc0IiB5MT0iNDcuNjEzIiB4Mj0iMTguODI1MyIgeTI9IjIuOTQyNCIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgxIDAgMCAtMSAwIDUwKSI+DQoJCTxzdG9wICBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMEMwRjIiLz4NCgkJPHN0b3AgIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6IzAwNTk5QyIvPg0KCTwvbGluZWFyR3JhZGllbnQ+DQoJPHBhdGggaWQ9Il94M0NfQ2lyY2xlX0FfeDNFXyIgZmlsbD0idXJsKCNfeDNDX0NpcmNsZV9BX3gzRV9fMDAwMDAwMjE3OTgyNDE1OTI0NTA1MjMyNTAwMDAwMTU0NTg4MDUwNTU3MDUyOTQ5NzZfKSIgZD0iTTI0LjMsMjUuOQ0KCQljMCwzLTIuNCw1LjQtNS41LDUuNGMtMywwLTUuNC0yLjQtNS40LTUuNHMyLjQtNS41LDUuNC01LjVDMjEuOSwyMC40LDI0LjMsMjIuOCwyNC4zLDI1Ljl6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==" />
           <modules>
-            <module id="Intent.Application.ServiceImplementations" version="4.5.13">
+            <module id="Intent.Application.ServiceImplementations" version="4.5.14">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
-            <module id="Intent.Application.ServiceImplementations.Conventions.CRUD" version="5.2.1">
+            <module id="Intent.Application.ServiceImplementations.Conventions.CRUD" version="5.2.2">
               <includedByDefault>true</includedByDefault>
               <required>false</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-application-serviceimplementations/intent-application-serviceimplementations.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-serviceimplementations/intent-application-serviceimplementations.html</documentationUrl>
         </component>
         <component id="68190d86-fc62-481e-9331-89cbe4e6d1b0" name="AutoMapper" included="true" required="false">
           <description>Projects mappings from Domain entities to Data Transfer Objects (DTOs) using AutoMapper.</description>
@@ -260,7 +260,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-application-automapper/intent-application-automapper.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-automapper/intent-application-automapper.html</documentationUrl>
         </component>
         <component id="c9850782-783d-40f7-9ae8-d85a1ce35c2b" name="Fluent Validation" included="true" required="false">
           <description>A popular .NET library for building strongly-typed validation rules.</description>
@@ -272,19 +272,19 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-application-fluentvalidation/intent-application-fluentvalidation.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-fluentvalidation/intent-application-fluentvalidation.html</documentationUrl>
         </component>
         <component id="8115ba63-0e25-4aaa-b265-7cc5f76a3a7e" name="Pagination" included="true" required="false">
           <description>Standardized handling for data paging, sorting, and filtering operations.</description>
           <icon type="UrlImagePath" source="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAABCpJREFUeF7tnE1oE0EUx/9b0480bf1CaRX0oqAHQQQL6knPWgTBQ3v04E3xqOhJz6InDx489SKIYhX8LCJ+xosfaKtVlFqNommpbWrS7u7Ia7K21m12dmcSdrfvXfPeZOaX/5v/zJLEAIcSAUOpmovBABVFwAAZoCIBxXJWIANUJKBYzgqMGsCd3bkTBrBVcd7S5QaQsSDO3etqei5d5COx6grc1Z27CmCPjzmqpRqGKWxxxzLMQ/e7Fg+oDfZ/dawBNiSAvFlctGHgukgYB3v3N37RCTHWAA9sqcXlPhPDv8VfiFPCPKJTibEGeL4jicefTfS8M/EjV4QoBG4IQxzVtSfGGuCFvUkULCA9ZOJKf0mJhmFCiNs2xDEdEGMPkFRn2sCTIRPdL6eKe6JGY1kQAB3TeDA4C6ImY5EGeDqd13L0ePldHC9Yot3LCan1RguC9qzAQS08NwiiTmORBngmXVBYin8GY5MC/VkbmfHgb+sGkNpZp7GEFiAhn5gSeJO18XUsGEQ3gDSuTmMJHcCmOgP1CSA7UYRGi331wwoEcT6AOo0ldABbm2uwYUUNXmQsjJQOwKTE1z9tfMv52xPLAdRlLKEEuG3NomkFvvo2A9HZE/1AlAFIIN2M5W5narfMzh1agDR5UiBBdNrZr7HIAnQzlt6ulBQbqSRaTLVcmFqYFOjEaL4I0bmK+TGWza0z43ipqWAJDI0K0IdEERuAtBiCSHuiDmPxAum8HiuATjvrMJYFC5AWrsNYFjRAHcay4AE6e2JQY2GAJQKVNpbYmYibcuicONtYvucEnn61ZEVWNi+yAJcmjemrnGyQsXwYtmHZwNDIJO69/SVbisbmFBJ1ta75kQUovXqXxIHBEVy82S89xNpN69GyfAkDdAgwQGntuCcyQEWAbCIMUJGAYjkrUBHgx8w4rj3+/M8oyZYUVq5d5XtkPsaUkNExhY4rfqPqAC89/IL3mXG/8/SVv2/Haqxra5q3xs2FGeAsXF4AI93CYVBgpE0kM5xHrlD6NqOvxpRPblvagBR9a3KeiDRAeQyVy2SAimwjfZXT1cKp+gTaljUEQhlpgLpMhI4p5LZBggEC0+e8oAAj/UA1DApkEwnSt7NqGKAiQLcWrq2rRbI55Xvkqt+Ffc+wAgWRvgs/6suCjjKVjO0bl5c94kQaoC4TKfcBeD1MYIAe8vUCGGkTCUMLRxpgJfc+2bEZoCwpfpylSCqOAHW5sMpdONItzAA9usrrZw4MUBFgGB6o5k2kb30yT+nYYXs7Uz0y44TuhzYyk54vxwB6DrfXd6iM4beWAfolNiefATLAGQLcwupq4D1QhSErUIUe/Y1JmF34bLpA/7oW6rCBZ0fa609Wc5LSLlzNSUXpvRig4qfFABmgIgHFclYgA1QkoFjOCmSAigQUy/8AJFjufj+llI8AAAAASUVORK5CYII=" />
           <modules>
-            <module id="Intent.Application.Dtos.Pagination" version="4.1.2">
+            <module id="Intent.Application.Dtos.Pagination" version="4.1.3">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-application-dtos-pagination/intent-application-dtos-pagination.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-dtos-pagination/intent-application-dtos-pagination.html</documentationUrl>
         </component>
         <component id="675954ac-5c76-44ec-8ec9-ee31d33cb0cb" name="AI Business Logic" included="false" required="false" isNew="true">
           <description>Provides AI auto-implementation of business logic handlers and their supporting infrastructure.</description>
@@ -296,7 +296,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-ai-autoimplementation/intent-ai-autoimplementation.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-ai-autoimplementation/intent-ai-autoimplementation.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -313,7 +313,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-entities/intent-entities.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-entities/intent-entities.html</documentationUrl>
         </component>
         <component id="e1ec605f-f3ec-442b-bf1f-63bb365544a2" name="Value Objects" included="false" required="false">
           <description>A Value Object implementation in C# based on the Microsoft suggested pattern.</description>
@@ -325,7 +325,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-valueobjects/intent-valueobjects.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-valueobjects/intent-valueobjects.html</documentationUrl>
         </component>
         <component id="c6ddd7f3-14a0-4ed0-8996-5c196ae20226" name="Domain Services" included="false" required="false">
           <description>Domain Services for domain logic that doesn't belong in an Entity or Value Object.</description>
@@ -337,13 +337,13 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-domainservices/intent-domainservices.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-domainservices/intent-domainservices.html</documentationUrl>
         </component>
         <component id="27454ba0-b872-4aed-adf2-e2c9fa19cffa" name="Domain Eventing" included="false" required="false">
           <description>Domain Events and handlers using MediatR.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCA1MCA1MCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudGI1NGYzZjUxLWU2ODItNGUyNC1iN2Q5LWVlMDBjMjVkYzEwNCIgeDE9IjI3IiB5MT0iNDcuNyIgeDI9IjI3IiB5Mj0iMi41IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2ZmNmQyOSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNmNWFkMjQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyOC43LjIsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiAxLjIuMCBCdWlsZCAxNTQpICAtLT4KICA8Zz4KICAgIDxnIGlkPSJMaWdodG5pbmctdjQiPgogICAgICA8cGF0aCBpZD0iX3gzQ19MaWdodG5pbmdfeDNFXyIgZD0iTTMwLjgsMTdsNy4zLTE0LjVoLTE4LjZMNywyNy4yaDE0LjhsLTEwLjMsMjAuM2gzLjVsMzItMzAuNWgtMTYuMlpNMjcuNCwyMy45aC0xNC44TDIxLjYsNmgxMC45bC03LjMsMTQuNWgxMy4ybC0xOCwxNy4xLDctMTMuN1oiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50YjU0ZjNmNTEtZTY4Mi00ZTI0LWI3ZDktZWUwMGMyNWRjMTA0KSIvPgogICAgPC9nPgogIDwvZz4KPC9zdmc+" />
           <modules>
-            <module id="Intent.DomainEvents" version="5.0.10">
+            <module id="Intent.DomainEvents" version="5.0.11">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
@@ -355,7 +355,7 @@ Learn more:
           <dependencies>
             <dependency id="906ce29b-e6fb-4ed8-a731-4440c094ef12" name="MediatR" />
           </dependencies>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-mediatr-domainevents/intent-mediatr-domainevents.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-domainevents/intent-domainevents.html</documentationUrl>
         </component>
         <component id="49fe517e-9125-4dff-8ee2-fb374a739a68" name="Basic Auditing" included="false" required="false">
           <description>Automatic tracking of creation and last modification details (user and date) on entities.</description>
@@ -367,7 +367,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-entities-basicauditing/intent-entities-basicauditing.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-entities-basicauditing/intent-entities-basicauditing.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -412,7 +412,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-entityframeworkcore/intent-entityframeworkcore.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-entityframeworkcore/intent-entityframeworkcore.html</documentationUrl>
         </component>
         <component id="efbd0bef-8c66-4b0c-aa4b-999c34114e1f" name="Mongo DB" included="false" required="false">
           <description>Core MongoDB Database Provider using the MongoFramework library.</description>
@@ -424,7 +424,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-mongodb/intent-mongodb.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-mongodb/intent-mongodb.html</documentationUrl>
         </component>
         <component id="0669fcee-0138-441f-840a-8cb3bd44f340" name="Cosmos DB" included="false" required="false">
           <description>Core Cosmos DB Database Provider Repository backed using the Cosmos DB Client.</description>
@@ -436,7 +436,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-cosmosdb/intent-cosmosdb.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-cosmosdb/intent-cosmosdb.html</documentationUrl>
         </component>
         <component id="4ac01182-bad3-4337-942e-b60732f1e737" name="Redis OM" included="false" required="false">
           <description>Redis Persistence Provider Repository backed using the Redis OM framework.</description>
@@ -448,7 +448,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-redis-om-repositories/intent-redis-om-repositories.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-redis-om-repositories/intent-redis-om-repositories.html</documentationUrl>
         </component>
         <component id="6b02d638-ae56-4eae-816d-dc3fbc170aa7" name="Table Storage" included="false" required="false">
           <description>Azure Table Storage Database provider.</description>
@@ -460,7 +460,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-azure-tablestorage/intent-azure-tablestorage.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-azure-tablestorage/intent-azure-tablestorage.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -477,7 +477,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-security-jwt/intent-security-jwt.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-security-jwt/intent-security-jwt.html</documentationUrl>
         </component>
         <component id="4957cb76-ae71-4529-ba11-e8b2be3eedc5" name="Microsoft Authentication Library" included="false" required="false">
           <description>Apply Microsoft Authentication Library authorization to your API services for Entra ID / AD B2C.</description>
@@ -493,19 +493,19 @@ Learn more:
             <incompatible id="db016cb6-40ad-4948-8c03-fbd6193d2e32" name="JWT Bearer Authorization" />
             <incompatible id="293fcd24-783f-4bb2-a57e-4d74b03fe53e" name="Identity Account Management" />
           </incompatibilities>
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-security-msal/intent-security-msal.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-security-msal/intent-security-msal.html</documentationUrl>
         </component>
         <component id="293fcd24-783f-4bb2-a57e-4d74b03fe53e" name="Identity Account Management" included="false" required="false">
           <description>Apply JWT bearer token authorization to your API services for a light-weight self-hosted account manager.</description>
           <icon type="UrlImagePath" source="data:image/png;base64,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" />
           <modules>
-            <module id="Intent.AspNetCore.Identity.AccountController" version="4.1.12">
+            <module id="Intent.AspNetCore.Identity.AccountController" version="4.1.13">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-identity/intent-aspnetcore-identity.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-identity-accountcontroller/intent-aspnetcore-identity-accountcontroller.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -530,7 +530,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-eventing-masstransit/intent-eventing-masstransit.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-masstransit/intent-eventing-masstransit.html</documentationUrl>
         </component>
         <component id="82d5e8cc-7d9e-46b0-b759-6fda0f046b3f" name="Http Clients" included="false" required="false">
           <description>Introduces a Http Client implementation that can make service calls against a referenced service Restful API.</description>
@@ -542,7 +542,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-integration-httpclients/intent-integration-httpclients.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-integration-httpclients/intent-integration-httpclients.html</documentationUrl>
         </component>
         <component id="10c85664-78b9-4c27-9f59-439e5c62acd1" name="SignalR" included="false" required="false">
           <description>Server to Client side communication using SignalR.</description>
@@ -554,7 +554,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-signalr/intent-aspnetcore-signalr.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-signalr/intent-aspnetcore-signalr.html</documentationUrl>
         </component>
         <component id="84b74c19-5db9-4656-8ab7-d9a09cbc0322" name="gRPC (BETA)" included="false" required="false">
           <description>High-performance RPC framework using HTTP/2 and Protocol Buffers for APIs.</description>
@@ -566,7 +566,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-grpc/intent-aspnetcore-grpc.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-grpc/intent-aspnetcore-grpc.html</documentationUrl>
         </component>
         <component id="2110c29f-18b1-4715-9dd0-35e6c4bb6a5f" name="Kafka" included="false" required="false">
           <description>Integrate applications using a Pub/Sub pattern with Kafka.</description>
@@ -578,7 +578,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-eventing-kafka/intent-eventing-kafka.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-kafka/intent-eventing-kafka.html</documentationUrl>
         </component>
         <component id="336b3caf-a269-40c2-8dd9-4d1c3b0571fe" name="Azure Service Bus" included="false" required="false">
           <description>Integrate applications using a Pub/Sub pattern with Azure Service Bus directly.</description>
@@ -590,7 +590,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-eventing-azureservicebus/intent-eventing-azureservicebus.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-azureservicebus/intent-eventing-azureservicebus.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -607,7 +607,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-multitenancy/intent-aspnetcore-multitenancy.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-multitenancy/intent-aspnetcore-multitenancy.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -628,7 +628,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-integrationtesting/intent-aspnetcore-integrationtesting.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-integrationtesting/intent-aspnetcore-integrationtesting.html</documentationUrl>
         </component>
         <component id="7d2edaab-a606-4c19-b01d-2bd323dc4a4b" name="AI Unit-Tests" included="false" required="false" isNew="true">
           <description>Provides AI auto-generation of unit-tests for CQRS handlers and Services in the application-layer.</description>
@@ -640,7 +640,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-ai-unittests/intent-ai-unittests.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-ai-unittests/intent-ai-unittests.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -657,7 +657,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-healthchecks/intent-aspnetcore-healthchecks.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-healthchecks/intent-aspnetcore-healthchecks.html</documentationUrl>
         </component>
         <component id="adb704f1-f48d-4dd8-8891-a58ebdb70323" name="Serilog" included="true" required="false">
           <description>Serilog logging for ASP.NET Core.</description>
@@ -669,7 +669,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-logging-serilog/intent-aspnetcore-logging-serilog.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-logging-serilog/intent-aspnetcore-logging-serilog.html</documentationUrl>
         </component>
         <component id="cb5eb342-e8c4-433f-96d6-2a756e6c2d90" name="Open Telemetry" included="false" required="false">
           <description>Introduces an open framework for collecting and exporting telemetry data.</description>
@@ -681,19 +681,19 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-opentelemetry/intent-opentelemetry.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-opentelemetry/intent-opentelemetry.html</documentationUrl>
         </component>
         <component id="8ebf1da7-85da-4bb2-82ca-dc62cf63feae" name="Bugsnag" included="false" required="false">
           <description>Bugsnag is a cloud-based error monitoring and reporting tool for web and mobile apps.</description>
           <icon type="UrlImagePath" source="data:image/png;base64,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" />
           <modules>
-            <module id="Intent.Bugsnag" version="1.0.6">
+            <module id="Intent.Bugsnag" version="1.0.7">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-observability-bugsnag/intent-observability-bugsnag.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-bugsnag/intent-bugsnag.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -710,7 +710,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-azure-keyvault/intent-azure-keyvault.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-azure-keyvault/intent-azure-keyvault.html</documentationUrl>
         </component>
         <component id="b07e5ece-79fe-4043-98e3-6204bbcb711e" name="HashiCorp Vault" included="false" required="false">
           <description>Extend .NET Configuration with Secrets stored in HashiCorp Vault.</description>
@@ -722,7 +722,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-hashicorp-vault/intent-hashicorp-vault.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-hashicorp-vault/intent-hashicorp-vault.html</documentationUrl>
         </component>
         <component id="9798271b-8073-4290-83a2-68f0304d9b52" name="AWS Secrets Manager" included="false" required="false">
           <description>Extend .NET Configuration with Secrets stored in AWS Secrets Manager.</description>
@@ -734,7 +734,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aws-secretsmanager/intent-aws-secretsmanager.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aws-secretsmanager/intent-aws-secretsmanager.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -751,7 +751,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-azure-blobstorage/intent-azure-blobstorage.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-azure-blobstorage/intent-azure-blobstorage.html</documentationUrl>
         </component>
         <component id="bbfdf8e0-d12a-4b71-855f-4722ca90dbb5" name="AmazonS3 ObjectStorage" included="false" required="false">
           <description>Introduces a Object storage client that can link with Amazon S3.</description>
@@ -763,7 +763,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-amazons3-objectstorage/intent-amazons3-objectstorage.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-amazons3-objectstorage/intent-amazons3-objectstorage.html</documentationUrl>
         </component>
         <component id="909d7cf5-62ce-42ac-ab37-1c1a2bc74547" name="Google Cloud Storage" included="false" required="false">
           <description>Introduces a Object storage client that can link with Google's Cloud Storage.</description>
@@ -775,7 +775,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-google-cloudstorage/intent-google-cloudstorage.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-google-cloudstorage/intent-google-cloudstorage.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -792,7 +792,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-continuousintegration-azurepipelines/intent-continuousintegration-azurepipelines.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-continuousintegration-azurepipelines/intent-continuousintegration-azurepipelines.html</documentationUrl>
         </component>
         <component id="09f0a0e4-747e-4dc7-995b-315f0277da09" name="Docker Support" included="false" required="false">
           <description>Supports a basic containerization of the ASP.NET Core application.</description>
@@ -804,7 +804,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-aspnetcore-docker/intent-aspnetcore-docker.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-docker/intent-aspnetcore-docker.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -821,7 +821,7 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-visualstudio-projects/intent-visualstudio-projects.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-visualstudio-projects/intent-visualstudio-projects.html</documentationUrl>
         </component>
         <component id="9bb1dda4-77a6-4d42-80ae-3d78034784f2" name="SonarQube" included="false" required="false">
           <description>Provides real-time code quality analysis and feedback on the quality, readability and complexity of the code.</description>
@@ -833,55 +833,55 @@ Learn more:
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-dotnet/intent-sonarqube/intent-sonarqube.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-sonarqube/intent-sonarqube.html</documentationUrl>
         </component>
         <component id="ee82d446-1943-4162-a331-82479c4c817f" name="RDBMS Importer" included="false" required="false">
           <description>Support for importing RDBMS schemas into Domain designers.</description>
           <icon type="UrlImagePath" source="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAWn0lEQVR4Xu1cW5Bc11Xd/Zx+zejhmemRLAkpGoVHiC1X8KPAfBhXxXwmgTLYARdRrJii+AhffKSAKqhUhS/8awIeSWMMCcTf8QcJYJsqXCDJBgdDbEVIsjMva6ann7e7b19q7X3W7TOt0UwrmibGmq661TP9uH3Oumu/1t7dCdm93RYCidt69+6bZRfA2yTBLoC7AN4mArf59pEzcG5uLtfpdI5EqdTRKIrGdL1RNBb1ej8picTJZCp1IpNKHctmsxPZbFZwjGWzknH3+D+dTksmk5FUMimpdFqSiYQkEon1ZDL5AxH5fiKRuCgi/yUiQSMIpBvo7XKj0bjyyCOPtG4Toy3fvuMAPvfcc5mDhw9/rheGv59ISDkMe6lut1NodzrFMAyT3U5Xwl5PoijShSWTSQUIRzaTkbGxsRhE/g0QAWDGvS6VSun77FpE0uv1pBdF0u12JQxD3PfCMKx3wrDRDoKw2WotBo3Gn169evWlZ555prOTgN42gG+88caD2Wz2sZ7IsU4Q/GokUanb1U3o0e50pNPpSLvd1ns98FynEwMJMAAKAQRwORy5nAJKIAFi2gNPgev19Dz8PD23dyigYWjAhiE+vxaJ/F3Ybv+gEQQvP/XEE/9yO4D+SAC+9dZb+7PZ7KPpdPqv0+l0KpJIol4kvagnvdA2FGITxgYFEYAF7UDa7Y4EAe7beq+s6fVgkjGIAC6fz0sBR6FgQDpTBtBgHQ68F4DxwujnuMfIRoIMhka9nrHWQyzsdsOo230iiqK/f/zxx6/fKpi3DODly5e/mkwmTyWTyRls2r+ZVdrysHBsUsEEA9zGAFy7HUgQtKXZakmr1TJAOx3dINgIxgG4UqkkpWJRwQSAAA83xyQJ9FzucODhuV4YGsjOxLlKvU8k1IfyHntwzy9IIvH8L3/601+5FRCHBvDfL10qFyJ5PZlMHBGBE9fVuHusp7/Mwefo78ACbC7shQJfGICVrZY0m01pNJrSbDWVTbiBdeOlkoyPjyuY8JE4DwBrgb2tVuwecIFwwXjDShQYB1YimWTg6T/mnufreC9RdCWVTj/w0EMPLQ4D5NAAfu/tt19JRPJwDBQuort2/cfiqxlvwC56H/CN/xtTySiwsdFoSCsIFGiNxAgqmYwGidiXdruxOarpJ5PmAtw9WOwDKADQrSP+/Bjt/prBBgfIq/d96lO/uKMAnr9wUW2TiPt+ZKvHNzgdvNm9ESw1i7cHaG74wwIDfBsCQkf/ByAIIBqxXSABUDRHss4DYcP+B93NduB88t57hyLXUC/Ch/3DP/5TlMlkXfoRxUAQBB8MsMWwMWfPQ8GJ4BvtOT1JJJJIIoCk1c/lC+bv8LpKZU2WlpZkZWVFzRWPw6TVrPN5NXMf0EFzHHpzA2g2mk154MEHh3r7UC/C+f/qb74RHTp4t0a5Xo8A9hxzAIiLcA4cBchz5P4aLW1B/oe8L6tBolgsSlEjruXajWZDwbt27Zpcu/aefPDBivpK+DO8HsGlND6u936k1lQHyXYqpSbtm3MMsFsMgwrXBjbjsp5/40156jc+PxQ2Q70IHzB3bj6aGB+XmXJZut2etNThd+OEmIGCi8H/PiMsYYYJGmi5sZzk8jllElgH4DLpjJ4vCFqyvr6uzPvhwoIsLCzI8vKyrFUqCiJMGhEZ/lHTnULBDrDSMRNsZRUDQPF6JuBayXh+kgk69vP9S+/K6uqanD71haGwGepFAOXMufkIi9wzMSGlYkn27Nmjzn9paVk3ReeMe/VNLjnGosGKbNaqDGxM87qcJcvZ7JhkMthgUoHpdDvSqDeksr4uq9evy8oHH8gH7lhbW5NaraapD/I/3Hh+5opjuCC5nJ57jIm4Kw21JPSqmXyhIJN33aXBqbK2JtVaXVbX1qRSqcjpL54aCpuhXkQGwlyQWhTyBUln0po0Ayj4PGVYKiVdJNJhqOkNFuvXtFrrjmU1qpIdAABMhQuAe2gFLQWwWq3qRrAhAIejsl6RarWmkdqScAQYYzo+X8s9d26tqV0Vg3v4zb179ui9z0iARzOH71tdqyj7d5yBMGH4KAAIfwVzQ1VRb9Q1Ke71QkGQmZgYl/L0lExMTMS5oVUZJgiAbTDlwXpWK5Z22+WEDanX6wrienVd1teruin8X6vXpVGv6+tYedBd4Jy4iFkH2OTkpDIM1oL3ra2u6sVVH1oqxQk6LjJArDcasrZW0Qt1+tQIGAgA4QeLhaJeRWwYHwqTwibSAElN1OrYUskCAxZsda0pK2SdH6mxMZZkYBfOiYPVCisWvgavZzkI5gBw1ttOUND/ccOFY5Bi4MH/+TxMPafPw2RwnkplXVn/pVGYMBkIH5hKp6SjDGxI0ArUjE12SselGBaYz8HJm3M3x56JS7J+PYta2RiIehmMRqWBDYFpVqk07GIBrEbDzBggB3h9oOATOJ+RMGUGGbBOLUjdkKuzx8b0ooOBytK1igarkQKoJpzJSDswBmLD8GHJJCKjRT8sGsyDQ1cgAaCTqhAwGLVVOQm7ejEABOpbZR+AawE8K/XAMK1SHLB4Xl/nAFQRwYHIc6tE5tZCBgI8+HL8r+mPA9BSp6aCBxB3HMAz8/CBxfjDsThsWlnSaKoJABgAq2KASyk0t8sj4uYVSIu4JgpoxeFqY1wMBdAdBhR8YR80+j4zawAYKAspKlCB6QPYzzNjcQIMdEKFRutc34RxXqQwI2Vg7AMz6T4DWwEELWUgTJRylLKv4NIKAIqrrYluH0CmLjEDHYBquqyNWy1jIFgHc3ZmTb9IWYw6oM9AKjtMvrWKcUk7XMvYWE5ZikCHi6UMHIkJn52PikUXRIoMIh3dGIMIIi0BBIg4NIhoomy5GRabTJpS4vtADQ7tjpmkCyAACmbr+0H1hw5AZeutMNBVLzRnsJIJN4OIReERpTHMA7EAmGE7gAnDsbe0BLLqAD4QFULO+UGrNpDUGoD9IEITpv+yINKWpvN19IG4SIMgIl+Ef6Q4i/feaMIW0PRCAjz6P2fGeAzPI/VBZdJotly+OQIAz8y/EAEImDCunOWBFkSwEagCZKBfYimQLo3BRgAgSzwVXJG+dC0KWxAJ9HwMEnZ+YyKZx0Qaj9NnMo+kAq3qjVdrY83MYQkm16WNKuSBzoRHwsAz8y/0Cvl8ggAyiFgeGFgeqFHPggjYhlLJ0gWLwMwF2RDiZlXn67RjE1bf5qItTVgB9MyZDGwjZ9wkjUGQwnr8i6lVFJjo2Kjr0lIyowz0Euno9KlT1rXa5jZ0KfeXZ8++Ml4sPcyriKQZlQBYgA1bgY8FWwllgaRvxsgH8bi2JzUKm+RlPZFQA5L2TAJLYyyImFKtwDGgOB+IKEwTZhCBRbCVEPdYIJG5yoPMg1+2NAa+OW/qjQfg6trqq888/fTOCqpf//qL5UQqeH2mXD6CMg0mDOYg+TQG9tRkwEAEClNJ0Bhy+WDeop0B2L+41gSyZhDBYyBhELkBQFWtN/pAv0IZjMK+XAY/SCC1QnIXFQxcr1bl6tWrVxJR9MDp06d3VtJ/8cUXy5lM5vXK+vqR8dKE7N+/T4OFb8J9ZcRkJvN/iMJWMlnO1c8D6QPJQO13+FHYYx5N2E+kwUqYMPNAvxKhCW+oRBiFfQaO5dSPQrhYXlmBhnglnU7vPIDf/ObfvhJF0cOIiMsry7K0uKTK8j333iMTE3vVB2pv1/lA9X3FfjXS7/Fa2USVWvNA1y++0YStRxIHEVYirm+igoLzgZtXImYRLOX8IAIW1mpVuXjhogay6akpueuuu9RHJhOJV3/zqad21oRfeOHFCKZWq9ZUKV5cXJDr169Ls9lQPzI9XZbyzIyUy9Ny4MBBmZqcVAC1aEcK42ph+EHkgaxEtkykvZzvBgY6H+gHET+NoQKk4m0upxdNW6sd6I2oedc0UMFSAByE4unp6Vju+vUnnxwqPgz1Imz2+bkzEVINbGR19brSHfIQGEknTgeOtAAy0uHDh+X47KycmJ3Vv01Csj5GXwe0bhtYoCqMM2EGJ6o9FBOQI8J0ceHge/1qBOfRlkMY6nmUuVBpgiBOmBlcWCdjTfv371fw9u/bpxccSfWTn99pSf/suSgRiepyqtXVqlKtrkutVrecDamES2Z1E5hS6KGhZNFZk2j0P1SdKZjAuXevoLqBOo2gxOqEvgyAxOIC5S0/IkOZduDDn2jf2fWHOWtD3ZGSPsVcsJLrQFDEYenNuKysrcnTOy3pQ1DFB2TTGTXd66urKnCyqAcTMHGgmly7owpL2LUmOpkZDxQ5BTmW/tMpSSbQBrDyjtogGMmaGOYWqy2ux0sBNe0Gj7TOdqq0quFOnea9KtSuxOToCO55McfHJ2S1YmLCjguqfiUCIFGEo1P2zjvvqvxjqQiGeGy4B2YElZostEELa7CjfR13y1AXu2RVlRknrCKgwERZwrHmJYjsFQ9Od0GNpmxmvRfXHxkYVsJr9u3bJ8eOHpXxiQl1H6hEACBE1ZFI+nFPxI1a2CBRqAmt1rEu2UXy2+m0B7py1glLqZBgkwN2s76xTig4WV+Zp0HCpDKTzMz3UTy19qq1Uu28/TE5vw/DxhJkffjlfXv3KmDUA/HZtIR+JTIiACnps6mEoMJaGHhAztozAd+2R5KppAQtaHzQ6wKNgAIzVfPVOQKDTxvtNmlFiZ6mC6GClYgfhSkg6CARzusmFBC8IAyAefBpCAzlclmDBM4PlwPQUWJaP9nkLJX0Ry2o0geyK6eKdNxUCtRUmQfG42moRNx4Wr+daDkgexrxzCBnB90soS+ustcBv2puIlTmcg5RFZxmMw5imAiDC2HrM1alAZz2dFjK2ehcX41puqbSCBkIANETUTEBpVytrpGSkr4l0lYHo7mkppK3SEs5C0xlLUwgAQ56K5S04qktp8QgSFHWokLDRHqrSoRiAoOFlnJUpF0ph8CzUY0ZQRABA1FdoLGOxbAW7jeVrBZGqUYxlfUwUhfOvFAPZERm0OCc30ZJv99UGuyJME/0S7mtJH2tf10fRH2g9mxwkbGXtIY4+NiRtTWfP3su0nk9SEIuiGAUgoo0fAglfb8nAj/DtqYvqLKUs9FbayqxFqac5TONeqBK+p6YQACZRANEXhymLxvEBG+eJnYvkLM8SX8keqDPQDSXrK3ZVUUabLBa2HIva2e62Rd3pcFCNnAs6iWsoeSOeOyXXTnXOEJqEdfDXk+EcpaC7nLEmynSnJ+hDqiSPuUsBJGBtubIAPQb6wgYuOp+X5iSPv0OfKC2N13yaoo0RnVNzqKgSiHAL8uoumwQEzYBkCZPBlqAsfG5TQVVL5CoHjjQWB9pT+RmjXUkvGbCmG82zc8UEDNfbd44lZoAwmSY+1ETRBAZ9IE++za0NV3XbmsxYeMEF0fi2FSia1FFOpHQfFZncUbSlZufj0oFN1w00BPBxuGECaAykC1NN23PisBmY2zemenMBh/okmUy0JeyNmussxkPU75RDxzoCzs9EH6cFxZ+mVEYOadOZ42oK9crFgraE/FnY6xX29JC3s8DsbBYD3QTCv5kwmZyli+osgYeBJCPU8AgY2/WlfMnEziR4PtA9oUtkW7JWmUNw0zR01/4rZ3tifzFmTPaE2Eag4XpVxW0R4vhor6k38+9+t/3YJ+Ekj5LOTbD4yrElYSa93kC6mZ6IOUspkBbBRGC5oPo90SwHjAQ5ru0tPzq7/7Ob++soPrss8+Wm0Hw+id+5hNHIEMNduUG25obm0obG+v+bEycSLtSDrJYvytnpdwNirQ2soz5Ww8XWZNrMAqzL8LpLI4Ew3zPX7hwJVUsPvCVL395ND2RS5cuHSnPHJCZmRmtMKzxY2kMp7NYynEyQWdj0JVzY7cmplqkZF+YMhgHhmy4aEDSB3Bob7oUR0WMm/REKJzSGuLxNjedhYDI4IaqZ3FpSS5fvizl6enR90QWlxZlcXFJlZVP3nOv9kQoJnC8zZJXqzX9RBqM8L8oGHfl3Hgbum0cGuIYB813sC/sDxdt15Xzv/mECS0AWK/V5MKFCyp0YBhzamrqx9ETaSpIU9NlOTAzI9PlsrITi2GyygkAG7ntA8jRDk4mDFYiVGP8yYS4EvG+JsbG+o09EUtjsD7IXar4oJeNSdTV1Q9xTySVksmpSTl86LDMoidy4oQcvPtuHQvhdAKiHkzZF1FZVXA6lYFkMx/IWpivjRUb95VXmDZ1RJgo3cePtyciIuuVW++JYIpBUxjtiaAXUVQZfd++vbEfYjLLvga+3QlmItL7gMa5oGttdoJAv9C42xP5EPREoBVyPnDEPZGSMmq3J9L/7uB2Q0j6TaXdnsiNMA3dWOf3RHS8zX3RZrcn8qMyMF+wKf3dnsjwv1zkf1NptyfSN+XtTDh+fu7cPCZU76SeiK/GDH6/PEZwMwD9x9jATT5/9lz7DuuJZCGa88v0XvjYAOYgWNro9w5cBRzpuXPzVTLwDumJjGMC2YHoA0kAN/wEAoHEPUFT4PBdPREZnzs3/z93WE/kJ0SkKiL4GREfSIKprRcfOIKHrjcOgIejJCKH5s7Nv3aH9UR+QUSuiUjNAQgQ0bHCETOyP6TSZx5ZB+bhBwwmReSn5ubnv3GH9UR+TUTeFpEV/KiZY+IgG2/wd2AegMMBJ5oXkbKI3PP82XN/jkrkTuiJuPG2L4nImyICZRq/aYAvHwNAHDELBwMGAQR4YF9BRKZE5Ke/+rWv/cns8dm7P+o9EcwHvvXW99774z/6wz8Qkf8UkWX0mxwLCeLQAOZEZI+IHDl48ODPffHp0793//33lz7KPZHXXnutNjc392cL77//ryJyRUQqIoLvssGMtwQQbIT/24yF+0XkbhE5/thjj/3KZz77uXuOHTuW+yj1RK5cvdp66Vsvvfnyy9/+loi8KyLviQh+zW0z9iGg6C8HDaYvBJERmKYMXzjhAsqBUqn0sY8dP/7zj/7So4/ce/Jk4v9zT+Tfzp+Pvvud73z30qVL/1yr1S6JyA9d4Fh3vo/MA2g8AJ5GYh9AVdm9PJCpDIMKfCJMGgnmPhEBK6cPHTr0s7OzJz5+6MiRgyeOzx6dLpczH+aeSBAEneXl5cuLCwvvv/POO/997dq1/xCRJce2VZf70WQZNJjCADQcNoCzCYA64uIqEYLp54X4G6wEqGBl0eWJ8JMAdn86nT5w9OjRkyfvu+/ksaPHCrMnTqQ+fuJE5sDBg+mJ8fHE/1FPJGq1Wt16vd6p1+thrVptLC4sXFxcXLzY6/XAMJgmkmT4N+R5dcc2AAY/B4AG8z4bizUAeYsZyAcGE+u4FnbA3gxUshOg8kAEHx8bG5uYmpqaLJdnJguFYqlQyBWKxWJpampqanp6erJUKu3J5XLj2Ww2qwNH9kuTkXXQ2gntiTSbkWu4J9gTqdfr7UajUa3X65VatbpSq9eXO+12LQzDBn7ms9lsrjQajZVerwdTBFjwZUhHeJBlNwOLbHO/kmY+j8wbBGxQah2mRvbLPvztg8tknGxlXkl3wHs/acdj9L04l5/kc/HcLNhB82Jy6/9PJvExRk/fFH1GsbK4ac07CNx2AG4m8Q8qN/4G/Xxys7/9+hp/+77WB99/L4UN9TXeBggmfRHNiv+TOTdj0M0YNShZ3VTC8sHZTg/ctlfivWAwIG32OVsx2wdsu88dBNQHeRDwwXPdYIbbfdhWz+8kgLe6jp3+7KEYc6uL3O71O72J7T7vI/f8/wLWug7N/pC2ngAAAABJRU5ErkJggg==" />
           <modules>
-            <module id="Intent.Rdbms.Importer" version="1.0.8">
+            <module id="Intent.Rdbms.Importer" version="1.0.7">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-importers/intent-rdbms-importer/intent-rdbms-importer.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-importers/intent-rdbms-importer/intent-rdbms-importer.html</documentationUrl>
         </component>
         <component id="3297e089-5eb1-4105-aab8-e311f9bb0291" name="OpenAPI Importer" included="false" required="false">
           <description>Support for importing OpenAPI schemas into Services designers.</description>
           <icon type="UrlImagePath" source="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAs10lEQVR4nOydB3wb5f3/v7rTOm3LlrzilcRxdhjZgwCBUGbCCIQCbUOYf6BA6aCF/jqhLS0U2gItI1BmIMyEmRAC2ZssEjuOE+8lW5a1pdPd/V+6xGlC7Pie55Zk692mjZ1nfC3ro3vGd2g5joMMyhCMeAzheFeuRkO4tYShmCT1TlKjNRMEqdMAQWg0GiLZjuM4lgM2SYLh6BDDxL0MG2tgOcZj0jtbLJQrqvbPMljQZAQiLaFohzVGh2Ya9bZROtJIReJ+c4wOjNZpqZF6ksojSZ2B0Gi1JKEjCYLUAGj6GZGXCsewcYblEgmGpWN0ItIeZyIHjDrbAaPeFkwkopEI3V1p0JrXm4053Qr9qIOCjEAk4Nv6jy+3mfLvt1F5E6ymXCehIVWxg+UYCEbau/2Rtr3+cMs/Rxdd/LYqhgwgMgJBpMN/eLLJ4JhBJ2LZLJe4zGzMHq3XmnRq29UbdCJCh2Leg4SG/EhHGj3heNeWbGvZerXtSicyAumHzsCRWWZD9pRg1HOelcqbY9CZDWrbJIZ4IhwPRNrWWYyulcFoxw691rTaSrnVNitlyQjkOwSjHRYNwE3huG+uw1R4qU5LpeTTQSoSTCzhCzWtNhkcH3Mc+5rZmNOltk2pREYgABCJ+8pjdOiHGoBrLZRrKEno1dlEqAzD0mwo2tEAAG/rtKaXKL39gNo2qc2gF8jh1g1Plbqn3EMQ2v6OkwYVyQ1/g2f7f0vcU36kti1qMigF0hVs+J7dXDAlEuu63WzMyVfbnlQmHPN2+MLNz5n0Wdsc5sIP1LZHaQaVQMIx750MS//USuUOVduWdCQY9TSSGt1fKYPjH2rbohQDXiCdgSPTnJaSuTE6eL9Rb7Orbc9AIEYHg95g3X+MOutnWZbiL9S2R04GrEA6A7VTNQB/dFpL56hty0DGF2rcxHHcw1mWoi/VtkUOBqRAApG2WyyU63kNEGqbMmg41PL1A8PzZz+hth1SM6AEEoy035hg6YftpvyKY35/GRSDA3+4rYEkdb8zG7JfVNsaqRgQAonToUmRuO8Zu7lwotq2oMIBm/wfOPp76PldaECjOerHmI5PQX+4dV+Cjd/ptBSnvVtLWguk3VdVZDI4HzUbs29MpScGnYhAV6gB/OGW5F4IOvzVEE9EIBjxQCTeBVE6AKFoJwSi7RCOdvJ3Dr2R/JnMhhywUC4wG7LBqLcBpbeDhXKDXmuCHOtQyLaWgc2UD1mWYv57qQMH4WjXslCs8w8ue/leta3BJS0FEop25hIa8t+UwTFfTTsSTAzqPduhumUN/4bvCByG+vZt4I+0qGKPxeiCEvcUXjgmgxOGF5wLpe4poCONqtjTQ5QOfMyyibtMhqw6VQ3BIC0FEoi0t1opd65a89NMFHYfeRfeXHsr0ExELTMEQWhIWDDjGZhYfgMYtGbV7AjFvD6zwZmlmgGYpJVAYnRoIp0Iv2qhXCOVnju5XNpRsxT2N3wCVU3pefQ/PP8cGFN0KZw97PvgsAxRfP5QzFunI6mFei21WfHJMUkLgUTivhH+cOvPc2zDF5GEVrHNRrN3L+ysWQqH2zbCoZavlJpWEcpyp/OCmVB6NRS7lDvbYDmG6/Qf/tBK5f6fUW9L+b1JygskEGmbZ9TZluq0lCIL6eQGeuvBl2FT1YvQ1LlbiSlVJ9cxCqaNXAzTRiwGyuBQZM4EE6NjdOCHZmPOm4pMiElKC8QfblliM+UvknueBBOHbYdehf0Nn8K+uuXAsLTcU6YkGg0Bo4sugTFFl8CUikWKbO6DEc9bFsq1UPaJMElZgdR7djxa7Dr7l3LPE4p2wj8/Ph+avXvkniqtyLENh/suXwc2U57sczV7975U4Bx3s+wTYZByAonG/WODUc/jObahc/vP+IGPN1gPm6uWwNf7nkrucWSbJ53Ra81wzpi7YVrFYnDZy2Wdyxus22Y2ZN9h0Fl2yjoRIiklkAQTm8lyzOd6rUm2G6+DzV/Cx9t/DUfaNso1xYBkSPaZcOnE38OY4stkm4NmovFwzDvXbir4WrZJEEkZgbR4v52X66h4j5DplKrZuxc+2PwAVDatkmP4QcOwvFlw5dQnZDv54jgWPN2HbnU7RrwgywSIpIRAOroP/SzHPuwxOZZUuw6/A5sPLuE34BmkY3j+bJg+8jaYOPz7sozvDdT9xWkteVCWwRFQXSA1rWufHZZ3zh1yjL1y16Pw0baH5Bg6wzHOH/8AzJ/yN1nGrvdsX1nsmniRLIMLRFWBdIeaX7SbCyQ/vQjHuuCdjffA9kOvSz10hl44o+waWDDjaZAjv1Yw4llmoVzXSj6wQFQTSCDS9oaVyr1eyjGDkXb4cu8TsLHyeQjHvFIOnaEfDFoLTB91K5w37gFwmAslHTsc835oMjhVcUxVRSByiGPHoTfhrQ13QjSeyd2sJjqSggUzn4GpI6TNFhSOeZebDM55kg4qAMUF0h1qft5uLrhFqvEYNgFL194CW6r/K9WQGSRgfOl8+NH5S0FLSpepVY3llqJRRjWta/8lpTiSvLvpxxlxpCB7aj+Apetul3RMC+VaUO/Z/rmkg/aDYk8QT/eh+1324ZIF9Xu6q2H51l/C7tp3pRoygwxUFF4IV059HAqc4yQb0xuo/ZPTWvoryQY8DYoIpKXr20vys8Z8LNV4lY2rYMkX10CU9ks1ZAYZ0RJ6uPmCd2BsyeWSjdnmq1qc66hYItmAfSC7QBJMfCahIdceraYknq3Vr8BrX/1QiqEyKMyCGc/ArNF3SjIWByxwLDubILRrJRmwD2QVSDTuH00Q2m1S+Vat/OZR+Gh75uIvnZkz/mcwb8pjkoyVYGI0w9LTDDrLDkkG7AVZN+mBSNsjUolj6brbMuIYAKze81d4+uMLTkhxhI+WNOhC0Y5/SWJYH8gmEJqJPOyyl0tyufPWujv4y78MA4Oq5tWw5IuFkojEaS2d2uzd929JDOsFWZZY3eGW5+2mfEmOc1//+mbYcvAlKYbKkGKMLb4cbr3oA0mS4wWjHcssxhzJ70gkF0gg0naxlcr9RIqxXvtqEWytflmKoTKkKGOLL4PbLloOUnhyh6Id15mNOZJW9pVUIOGYb5iONHyr01Kir0+XrrsdNlY+J41hGVKaM8qugZsveFu0SBJMnEkwsbOMeqtk8dOS7kECkdZ7pRBHclmVEcfgYdeRd+CpFeeKHkdL6slApPXXkhh1DMmeIDE6eLaOpLaJve/4bOcf4JMd/yeJTRnSi3PH3g9XTRPnbMEBC4lEfLpOa9wkhU2SPUHiifASseLYVv1qRhyDmK/2/R3Wfivu1Da54aeZsGSBQKKfIKFoh4Pl2P1Wyi2qGGZl40p45lNVg8cypAjJTfvYYnFuKZG4L8hx3GiTIatBzDiinyAEoV0iVhztvip4YdWVYk3JMEB4fuV8aOgQl/2H0jssWkL/H7G2iBJIm68yi9I7RL+zl2/7ZXKJJnaYDAMEjmPh/c33ix5HrzNf7OmurhAzhiiBmAzZj4vpz7IJWLbhLthT+76YYTIMQA61rIVX1/yAr8EiBovR9YiY/th7kDgdmqjXmbaJObv+75c3wI6aN7D7Zxj4jC66BO74nrhIia5gwzlZlqJ1OH21uJNG4r6n9Dr8giw7apaqKo4c6zAoLzgPnJYSKHKdzZcy05EUEHwpt5NFzwELv1s6tM9SaenIbxYeBpLQfee7Gn55QzNR8IUaoK59K19KrrZtEzR2fqOKnfsbPoGNB56D6aNuwx5DSxqeAQCsiC2sJ0gg0n6tlXK/hTPh0f5t/BtO6X2Hy1YO5469l89cjlrP774X9cAOoKzvT93KIPlAJZc6yQ+0NXufVDzRt0ZDwP9dd4j/EMMlFPMuNhucyAFWWHuQBBMTFe741b6nFBdHqXsqPHTtAZg15q4UK3aZHmhJA0wZsQgevHo3n5BBSZJPNbH3IyxL/wGnH7JA/OHWRVmWIRNwJoNjSd3E/rAoJJcRF535a7jn0i/5en0ZxHPznGVw2cQ/gpVSrkzk1/v+Ad2hJuz+Viq3oKZ1/c9Q+yEJJEaHJtpMeUvEbMzfXn8nxOgAdn8UtKQRHpi3hc9KrtNSisw5GCAILcw98yH+tbWbChSZk+USsHS9uCwpw/JmPuYLNc5B6YMkkGDU8ztkq07gkx2/gZ2HsbcuyNx64fswJOdMxeYbbDitJbBojnK/z2/rP+YrC4tDg7TUEiyQzsCRs7OtpZdg2XTMY/Oznb/H7Y7MWcMWwqii7yk232BlaN5MmDX6/yk236aqF2DLQfw8aA5z4TRfsPECoe0FCyTbWiqqcsr6/c+K6Y7MzFHSZM/I0D9zxiMv7UWxZq+o+2mI0n7BTn+CBRKNB+7FNaix4xu+spNSmA3ZyfWmYvMNdpzWUsixDVNsvmbvXv6mHRentfQuoW0FCSQc895m1NuycA16b/NPcLtiMbXiZv7sPEPfaCQuViRXIZ2+eG8Tvq+WXmuionTgPiFtBd2kMywtaLDeONDwueJF+MeVoCcBb+8+CDtrlgKdiEAo1gmReDd//s7fLgM7oC4Jk7yw6iogCf3xr406K5iNOXzp5+Trh3q4MaV8ER/sphSNnTvhm8PL4MyhC7D6syydXBc+2V+7fm/Su4L152VZirHXR3/7YDLUe7bhdsfiycU0fxQpBIal4bnPr4ADjZ/Jblc6UeqeyvtAmQxOgT04+OlLVognQjJb9j9yHSPhoQUHsPt3h1uutpvy3ztdm37XIVmWonNwDegKNigujuKciYLFkeTzbx7JiKMXats3w+o9KJthDcyZ8FMZLTqVNl8lNHXuxu4fjnmn9temX4EEo52LcQ3YcEC2fF59ctGZDyO1r2rMVL3tC9R8ZGeU4S13xLCxEr8YrsM8pN/cbacVSE3Luj9ajDlFOJNH4j5Ys6/fJZ7kDMufJbhtjA7DkfZMvfS+8IdboMN/WHB7t61cVnt6Y/2BZ/iVCg6U3p7V0LHjtC7lfQokHOsqLcubjpUMN7muf+y9s4BWIUrQZBB+2NbYKVvO4wHD3roPBLclST0YdTZZ7fkuHMfCn98dxx+u4FCUc/b10bi/T1f4PgUST4R/iOvct7nqJegMHMHqKwaHeQhS8rFDLVgxNIOKUBStGGq+c6xstvRFJN4N6/Y/g92fTkT6rKdxmiUWtxB3wv0NkmQeRcZuRnOcY1hx4ZyDAZpB+2SWusKtUESFbWs0N/T1T70KJBjx6K1U7gicuWJ0EPbVr8DpKhqrEc39mmUTstkyUEj+PlEw6Kyy2XI6DrdtgGC0A6uv2ZiTF4p29nqe3atANBrNYpLQYV1Fb6p84dgFm/JQegdS+wQTl82WgQKqQLSEUTZb+mM95jKL0BBAErpFvf5bb98Mx7qwE6VuUDGn7ok3w0JgucwTpD9oBu2ghSSx0xyI5mgNGbwkJKGYt1dP9V4F4rAUYeW6auzYBW0+/JtNsRAE2kOPA3WedOkEas4CKWp94OILNcLB5jVYfR3mwnMDkfZT1H3KT9Phr5msI43fTXchiExJ5gxqU9mIV0Y9uaVIMNFLv/v9UwRiMbqwXUtw1Zshg1Tsq/sIu6/Z6Brz3e+dIpBApH0GzuD+cCscaduAa1uGDJLQ6tsPnu5DWH2DkfZT9iGnCMRuyr8YZ/Bt1a9iGaUq8paIHxBwafgibTuE9160mfJOcV48SSAd/poz9TozVoWob1W6HBQDq9JxdDrBsemXTXJPrXD3mBPRkgbSG6ibe+L3ThKIyZCFdbzLsLTiQVFSwA2gVKJykUhDb4Nm7x7e/QQHs9F51olfnyQQmolhhdVuq34NyxjpQQsjTbCZi8L+iNOoAVDShvLi8iVSLMv/oBNR14lfnyQQlk0gZy5JMHF4S2RCL6k4NRnz6aEVjH5LV/yRNqT2JEKwmpx8/s0fkL0AgF92M1ef+PVJAjEbs0855uqP2vbN/BIrFdCSaNsnXN+dwURXsB6pPeqHlJxUNX2B3MdsdJ4U/3RcIPvqPrpQrzWh+WrwLuOps/fQkWh+QK2+StlsGSiwXALpAxAl3Flu6jxbkfuQhJ6obFp1PA3PcYHYzQW/xDEiHOvC6SYLKL8cDjjoDjXKas9AAcWpU0emTg7kYNSD1c9pLr6j5+/HBWKj8s7AGazDX4NlhBzoSeFlDZiMJ69gAlHh+xC3Q1RJQEnx+Kqx+lko15Cev/MCCUY7zFZTLtYJVm37Fiwj5GBonnAnAG+gTlZbBhLf1gkvgVbimiSrLSjUerZghV6YDE6qzVfJR37xAonTwZk44bV0IgLBaDtyP7kocI4X3HZT1Yuy2jKQ+GLPXwS3tVGiKoJLSoKJYt+HGHU2/k6QF4hRb0c+vQKMEw45MemzwKgXljAg+amyes9jsts0UOgONQmuCEYQJJS5p8luk1A6/Hh+WQa9lV9m8QLRkUasmmTd4RasyeVgTLHwK5yoQgV8BhKe7oOC2w5NocTh3eFmrH46kuLvDHiBROLdWHGS3mAt1uRy4HYID6E/3LpeVlsGItUIx/l5WVgLEllo81Vh9fP4q/kbdV4gMTqA9RN1YLoVy8HsMT8W3DaV7m7ShYaOnYLbThp+I58MOxXAvYbQkUa+DufRJZbWNApnkDhiShi5uHDCg4L3H0m2pozvWPqwrfo1wReGyX3IJROVy/R+OiJxPIEYtGZ+SUIEIx6dXkvl4QwSiKh/gjU0dyZcNvkRwe0PNH4OgUirrDYNTDjYWv2K4Nbnjr0XhuUJTwMrF7j7ZC1ptLX5KvOJcNxbQBI6rBiQaNyHNblUOMxF8OPL1iAlCjjQgBeznAFgf73w+5Ak91z6JV/oU02icT9WP5LQ6QhCm6/VAJlDaLRYDjQRGm9ysYwrvgImV/wIJpSiJV+J0yHYUImecd5izIGJyXV1chnHcRBnwnzsc3s33gbwu+i1ZphcfhNYKDf/dSjayVcDDknkTJljHQZjS64Ao84CoNFAnA7C9po3+eTUKOyufZ8/2s+yFAtqTxBa+O3CWth95D3+6bO37kPMnwCfCOYehCC0JKnRF2q8gborbaaC93DclP/0zjho6dqHZYBQFsx4GioK5vAl1SiDg7/vwHWIe+2rH8HWauEVUodknwHnj/8ZnDX02l7n3HXkHXhlzU38hRQODnMhXDfzORhT3Hvx4Kqm1fD2+jvAg3mWn+Smc1+DSeXfPyVOg+VYPgPIpzt+i+TUV1F4Idx1yUosW1iW4fcEkXg3sBwDde1b4NWvfoA1llCsRjc8chOay34P/nDrLQRJGLJxffiDCuxBCpxjef8el70cLEYXtjj21X+EJI6inLPhJ/M287X3+przjLJr4IF5m0GD4YVgM+Xzhfj7Egfwb8Y58MD8LeCyDUceP8m9l6+DSeU39BrERGgIGF10Mdx/xQYoy50ueMyqplWwuWoJlj3JzbvZmMMX/HTbR0C+s8+k6pIR4B0W8UKrCUJrIkhCa8abmuVr+aUDq3Y9Cs99fjlSnx+d/4ag+JLC7Alw4+yXkW26ftZzYBeQ6NlkcML1s9HdYq6Z/k9BlX6T4l98AVo+szfWLoYVW3/JPwVSHw4YFlMgGlJPEASJFeHCcZAWL9CnO38PK7ahlTkZNeQicNmFXzxOLEer8KojjUg3/8PzzkEuszx95G2C29pMeTC5HG2ps2r3n2HF1l8h9VEPvMwsGg1BEhpAzNfZMyViSko12HXkXfh0x2+Q+xXnTERqrwECrpwqPAZ68og+y1H0yfiS+YLbnjXsetCSaLFvboQPhB5W73mMT1ae6uAmU9ckJaLBLiieugLxhRrhpdULYckX12D1z80ajdwH5U1vpdDKNADvUCr8IvTSib9HHr+i8ALkPkneXHcrPPvp97BdOpQB9wkyQKvtJ5i4qPJvOK7/Uhfm720G4S3RbRHzVojRIUXLPysJwWEX80iN9C69kWMbCrddtBxuOhcvwx7O0fU3h98R3BbnfiOG4IG8atefkcevalqN3CfJvMmPwX1XrIOinLOw+isD3nuV4ziO4ABvi6/RpK5AephUfiNceAZ6qH2zdy9iDw4p9dGOQ28i27S/4VPBbTdVvQAMYvWsjgB66PQ5Y+6GORN+htxPaXDfqxxwHMFi1iFLzpkOK7TLJv0RuXb63roPkYLBdtYsQxo/HO+Cykbhl2117duQn2ooNc5DMS9sqUI7qj537H0wf8rfkPqoB+4ThGUIhkVOnXcMAsyGbLyuCqIBAi6d+AdYdAHam/il1dcJ+hT2dFfDG2tvRrbrrfV38C4l/RGjg1jjL113GzR2fNNvu+QK+/mV85Cqbc2f8jhcNe3vyHnI1IIk8Ko1sxwTJxg27mUxExT3+A7JSae/FgKRNghGPPxmELcq1Jll1/A330Kpbd8MTy6fwScf62vOb+s/gic+nIa1Qe0MHIEnlk+DmtOUoq73bOfHx3XneWL5dN5/qnc4qPdsgydXzEIKICvLnQ7nj/8Jlj3JOZOvVSDSzpfL6PQfxhxHOBZjzumLOZ8GlmUiGo+vepLdXLhRp6WQfTieWjEbalrXYk2OC0noYeLwG/j9xYiC85H6hmNd8OAr2cjHfk5LCZw1bCHotSb+E5dhaahsWsW/waQgxzYMxvHOhHZ+NZDckB9oWAktXah7od7JzxoLY0suAy1h4JfFNBOFbw4vw4rXfmjBAch1jETqkxT6xsrnYfuh1xU/7SpwjocHr96N3I9hE1x3uHm+lgWmg+USyecrskDUiBpj2Di/vk7+ST4Rbr7gbcFrTJMhC2aOugPWH3gWaU5vsA6+2C08swcqHf4aWLP377KNn3wCSeFUOqJgDrI4kq/b8q0Pip4bF5MBrfJxDyxHMwwbbyJMemczw9JYOe6NejvW5FKx68g78NQKtIoNFYUXymbPQGdC6VVI7V/+8npVxQH8hzieQBiGplmWaSUslCtGJ/Dccm0YN8JSk1zirdz1J8HtJ5TNB1MaHC6kItNGLhbcdnPVS7CzZqms9gjBZsIKloUEEwvmOiqajiaOS0SwajfrtFjZgiTno22/QqhjoYEpI+SNQRiInDX0OsGnVgybgHc3Ck+iISfJZTUOsUSIz3N0LHGcFWuBmm0rw5pcDtbuf1pw26G5qZO3KV0ocgl34NxU9SLEEui1OeTApMdbYtFMZA/8TyA2rPQkOdahWJPLQTtCKYPyAqxKc4Oa4fnCq4Oj/C7kBjeZtttWzmf24AVCJ2JYArGaUicP67564fWxjZifKoOZPIfwzFA4hWvkwmbqPyitN+JMhE//zwskGu/G2oM4BQbvK0Ew6hHs0EdoCN6PKIMwLEYXGAQe6TNsXPY8BSi47eVY/WLxIJ+zlBeIXmdeh+PUq9eaUsrdpKVrv+C2M0bdIastA4k5E34uuK0vhJcLVw5IQo99FRGl/V9Dj0AsxpxAINKGlSe+1H1K7XXVqGkRfquPGsI6mBlfMk9w29r2TbLagkKJewq/WkAlEu+K5joq+AIyx3v7I21Yfg059tR5o6GcnKSLo10qYEPYa6ZSvma3DW95FYx0HH8M/k8g4ea/4gxm0juxjJADFM99DWjAhpdxddCB8mHCIHgFyw1OaHOSrlDD8bxGxwUyuuiS5XQiglzPeVi++vlXe6ARE7jlYcSeDzY0GhKptDNmeJEsDHGhRzkyLM1aqdzjIZknLdBC0U7kA+yy3OkKxGMLI8GguZRZjPK766c7WeYipPapUjM/ycjCuch9wjFvc37WmOPxHycJhCC0y1EH1JFGuGbGv5ANkQPUX45elxquMqkMqi9Tqgjk/HEPAIWQCaYHjYY4KYveSQLRkUasTL/TKtAj3uQBLc5DS2Q26v2h12Em3lQZnFwEcLT02kmJfE9eYsU6+w5vOw1a0oiU3zVVSIeYerVJxw+RXMcoMBvx7ufCMe+eE78+6R2SYxu2NZ4IY1XYH4uQSjNVwMl/NdjATRauJqhlMXpg2DiTZSk+qQjKKR+h/nArliPNpPKbsIxSldQ4W0hpUuUABoWJw2/E6ucPt55SiPEUgVgp19c4gzvMQ6DYNQnLsAwZpMJlK4e8LKySm2Ch3KdU+DlFIMGIZzOmbVjHahkySMm4UuFuMd8lFOk4pRj8KQLJtg1dm2BiWLc940rQanBkyCA1FQVzsPqxbILVkoZTrjl6PcbxhRqFB1ecQIl7Cl8PTy1YxCyq6bi+VhrUtJ24ecukwEblw8givFWML9y00UK5Trlp7lUgJn3Wl1iz8G7kwgu3SA3Doh3AEZr0O6FRGh1JIbVnGPVcTaaNXIxU8fhETIbsXi/Jex2NBfbF5CMHZyI14ywiiGWpUYvMDEYMOgtS+wSLV9BUCmaNvgurH58MkIn1WsCyV4FYjDnhQKS9Fmcyo97GlzBTg2AULXsRgeCEN1jRIwokRquTrKEo5yzsFD+hmLfDbMzu9c1zuufRG1izASDV35MSX6gJqX1midU/esQlVrdKEYVnlC3A7stxbJ/v9T4FoteZXsHdcE0feRtSkI1U+EKNSP5YQqrADnYoxAQXasSjJ/dJYnIMxOhgn7Ui+hQIpXdU17Zt+QfOhMm1/YNX7eZjgpUmHBceOVyEWKxzMIJyr8CwNPI+UAp+cfVu5L1SD02du1fk2Ibu6uvfT7vlL8uddm846m3DmdhCuWD2mHtwuoriSOsGwW2NeisUZp8hqz3pjMmQhZQVpMOPXqVKLDNG3Y6duSRKBwKF2ROuOF2bfs/ETEYnWir0E5iuwpHvF3seQ2o/ruS0r8+gZlrFLUgOa/vqV8hqT29MLkcvqd1Dd6ip37Ja/QrEF2rcgmuA2z6Cr8+gJDUtawGlINAFE34OZe5pstqUjhQ6J8A5iCuAld88Kps9vZFjHQZlufhZdUyGrH5TsGg4rv9NbTDqqbEYXVh5RvfWLedLfCnJA/O3QIlrMlKfI22b4EDjZ8nHLngDtRBJ7mU4li/GyHEsHGrB8uFMWYbmzjh+zK3h7zus4LSW8pvyobnTYVTRRUhPj65gI/zmTbTwXLH84LzXYeLw72P1Dcd8HpPB0W/MtaBzTlKjewIAsOJqk0uY5Cf0EQXzJe0+8h6yQMpyp/F/+uK+F/XApkg4qRTcd8U6Sf39UYqGSkF+1lhscQAfCKYTtBYXdC9PGRxPx+ig8ELd3+HKaU/gdsVi68H/IoffDjY4iV+f7Ydel3S8/rhy6uPYfelENBZLhJ4U0law44o3WIddI6zUPZV3ZFQKf6QVGgRUeM0gDYFIG7R3Vyk2X7Z1KIwcgh9a4Q3WvmCl3IKcxgQLxKA1Cy/s3QuzxyhbUGXtt6mRaWUwsHq3svXSL0DIFdwbRr3tM6FtBQvEaS3d0BWsX4NrVHK9eO7Ye3G7I5NcE6dSGv6BSlPnLvhyr3ICmTj8BlEe4/5wy067qUBwOAeSbzDHcb/GsuoYV017EsaVzhczBBIvr17IF/rPIA/BiAeWfHGtYvNVFFwAPzjvNVGHCxygvYeRBOK0lmwIRjx4PsXHWDjz33yaICUIxTrh8Q+nwic7fsvXzcsgDRywsLlqCf/aevzKfQAtPOd5Uf2PtG9+xG4q+ASlD3J0iYVyPdMdasb2KbBSuYq6oIRjXvhs5+/ghVVoJYwz9M0bX98Cb6xdDJ2Bw4rNOWv0XZBtLcXuH4p2eMvcUx9G7YcVfqUlDb/F6dfDOWPuQUqILAXf1q+AP787AbZWv4IceZgBeO+Ebw6/DX9fPlPxOw/g3zPiKoIRhO4hnH6CbtJ7wx9u3WYz5WG7w245+DK8/vUi3O6iGZo3E4pyzoYcaxmfrshhHsIv/XpLJsdxLDz8egGwKZTaXyx/vKG514Cx5M+aYGLQHW6Gho7t0OE/DK1d+/kDD7V+/uTeVcwBTzDaUWUx5ozE6YstEDoRmarTUqKux59fOY93RcmQoS9GFJwPd1+6WtQY3aHmuXZzwSqcvtjJaXVaanMo6n0Tt3+SRXOWwZQR6j1FMqQ240uvhFvnivsAjdKB5bjiADECAX7j4/mFmP5aUg83zF4CIwrxchllGLgUZk+AWy58Dwwis8sHI+2PiOkvSiBuR0VDNB7AyqF1IldOeTwTH57hJK6d8YzoMWgmujLHNmyrmDFE5/9n2PitoWinqDjL5KfFrXM/EGtKhgHCzXOWiS6nEaODsUQiKurODqQQiNmY3Wo2ZmeFop2n5DVFYUzxpXDtDOzgxQwDhMsmPQpnDL1G1BiReHeLN1hHUQaH6JK7klWQ0WmpH3CcuLSTM0ffAeeP+6lUJmVIM6aOuBnmYlaGOhEdabw2P2uMJP78kglErzVt8firXxE7zvypf8VOQJwhfcm2lsH1s8W5kgCfOOLwF1rSsF4So8Tcg/RGNO4frSUNu7SkQfQ1+Uurr+NvbjMMfCoKL4A7L/5MdMUvhk2wCSY22aAz75DKNkmL9Bn1tv1R2r9QirEWzXkLxivo+ZtBHYblnQN3Xvy5JOXwOv01t0opDpD6CdJDINL+hpVyXy92HA5YeHHV1bCnNnPCNRBJiuOeS78EghAvjkjMt4IyOCTP4SRLmVcr5f5+s3evoJjf06EBgr8sOnPoddIYliFlqCi8EO65TBpxtHdXLZNDHCDXE6SHzsCRr7KtZbPFj8TB059cBFVN2B4DGVKIHNsweHhBpSQVdH2hxkqHeQheUUIByCqQGB08kyC0m3WkUZIkvR9u+Tms3vNXKYbKoBLTR94K1836N3ahmxNhWJph2MRMvZbCrqvZH7IKBI6eLJxDaIivpSrav27/s7Bsw/+TZKwMynLF5L+ITrhwIv5w2/dsptzPJRuwF2TZg5wISWjXtncf/IFU480afSfcNne5KpnjM+CzaM7bkoqjo7vm53KLA5R4gvTQGTjy+2xrmaikDyfS7N0L72/+SSZzSYpT7JoEC6b/C0rcaJkuT4cv2PiswzJEkWWEYgJJUufZurzENVnSWtGvffUj2Frda3m5DCozofRqWHzhO5KO2dL17d78rDGKZURXVCBw9I5kqZVyS3ZuSzNRPr3P3roPpRoygwSMLJwLiy98F7uwTW+EY10rTIYsRetVKC4Q4AOtOt83G7MlvSbfVPkCLNt4Nx9PnUFNNHDN9H+ITrLwXaJ04DOjznqxpIMKQBWBAC8S7wdmo1PSughdwQZYs/dx2Fj5PMQTYSmHztAPhEbLH+GeN/4n4LINl3RstcQBagoEZFhu9eAPt8Lb6++EPXUZFxUlGDXke7Bw1n8gy1Is+dhqLKtORFWBJKn3bPus2DVJlsLqyzbcDev2Py3H0BmOMWn4jXDTea/KMrbSG/LeUF0gSbyB2j85raUPSj8yB9uqX4P1+59VtIDPYKDAOZ7P2D+1YhFIdQl8Ir5Q038c5sI7JB8YkZQQSJJ238FbXPbhz8vxYsOxEmvvb74fatuxSy5mOCaMq6b9nc9XJQ8cdPgP/yrHNuxPMk2ARMoIJEl3uHm2yeBcKZXvVm/srn0PPt72a2j17ZdrigGJ2z4CLj7rt3DW8Osk8aPqDYaNM+FY1zwrlfuxLBNgkFICgaMOjmeHYp3/dlpKZKvyzwHLp9PcWPkibDjwbOZouA+ST/PpI2+D6SNvgcLsM4GQ6ekOR0syV1OGrJv0WlNKPeJTTiA9tHj3vZzvHItfBFsgXcF6+PvyGeALNco9VVphMjjhgXlbwGWX9si2N9q7D37qto+4RPaJMEhZgcDRpMNvW4w5C+SeJ54I8xeN++pXDHrfrqF5M2Fc8TyYOfp2vjS03ERivuUJNj7fSrlT8o2Y0gKBo7fuNxh0lpe1pEGR1IvBaAd/0bjxwHPgDdYqMaXqOMxFMG3kYpgx8nawmfIUmZNhadYbqL3XZS9P6WKSKS8Q4LOlBMYHom1/zLaWXS5FcL8QkvuUw60bYV/dcqhsWsXX4htI5DpGweiii/k/5QXny7q/OJHk69oVqN9oNrruNejM2xWZVARpIZAe6ERkKs1ElpkMziFKz93hr+Frge+tW8HXzUhHCpzjYFzJPJg4/EbIdVQoPn8k3u2J0YFrHOYhaxWfHJO0EkgP4ViX32TIkn+B3Pf8sOHAf2DFNvFZAJVg7pkP8QVoLEaXajZE6UDEF2zIzcsaHVDNCAzSVCC+MpLQPm3QWVRxYOshRgeguuVrONK2EYJRD3R0H4Jaz1agVXKU1JJGKHFN5k+erEY3lLinQHnBeUDp7arY04M3WP8lpbffTentB1Q1BIO0FEgPHf6aiSaD85cmg+MqMaWBpYTjWIjG/eDxH+LLmLV3V0Eo2plcXoA/3ML/fyTuA3+4mS+jzEF/r78GLMYcsJsKgDI4wKi3g43KA5Mhiz+KddvLwW4eAi7bMP7flNqjCSEa968IxbxPZVtLxZWIUpG0FkgPXcGG87Sk4Vkr5VZ+YS2CpJhYPuE3x/+9Ryya5H80Gj5lQHLzLJf7jVyEoh21CTZ+t91UkDI34rgMCIH0EI513c6w9G+slDtfbVsGI6FoZxdBaH9D6e3/VNsWqUivj6Z+MBmy/mOl3AU1ret/p7Ytg406z9anzcZs50ASBwy0J8iJ+EKNF2tA8we7ufBstW0ZyPjDrfs54H5tN+W/p7YtcjBgBdKDL9R4aZQOXOa0FP9QrzVTatszEKATkVhXqOFdg876vt2UL23akhRjwAukh0CkndSRxh8zXOIXZoMzV2170pFwzNdJEtq/0Ez0aYsxZ1AE/Q8agZyIP9yyMBz3zbCbCm6k9HaH2vakMlE6EPCHm9+l9FlrrJRbdAWxdGNQCuREGju/+bAwe8IVcgUBpS8cNHv3rSlwjpMrdDAtGPQCgaN17c4w6Mw3A2iuNRuy3QRBpsato8KwHMNFYl1elmOXxROhV7KtZYM+kD8jkO8QinbmEYT2+5GY7yq7OX8qSehT52paBhiWZv3hlh0mQ9YyhqXfMBmcTWrblEpkBHIagtEOE50IzzUbc0YFo555Vir3bB1pVCQuRS4STJwJRNr2WIyud0OxjmodafzUbMxJKwdCJckIBBFvsP4SkyFrXCIRLWA55gqTwVmkJVPzKZN8OoRj3maNhvxQRxobw7GuA1mWokwSYwQyApGAqqYvfuEwD1lkpdzFJoNT1buWSKwrGoh6mn2hxtesVO7v87PGMGrak+5kBCIxbb6qYqPeOsuosw7RkkaDx38oT0dS4/Va03AdabSRhE5HEFqSJLQa4R7IHDAsw7F8yTGaTjCxQDwROkQz0X0u2/AmmonGo3SgKUYHNrjtIw7L/CMOKjICUZB2X1WBhiDztIS+gCT0uSShpTQa0qDREKQGCI1Gc1QxHJf8L8txHMdwXCLOsEyEYWMehqWbGDbRmuuoyKRgUYj/HwAA//99ILTx97eAqgAAAABJRU5ErkJggg==" />
           <modules>
-            <module id="Intent.OpenApi.Importer" version="1.1.11">
+            <module id="Intent.OpenApi.Importer" version="1.1.10">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-importers/intent-openapi-importer/intent-openapi-importer.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-importers/intent-openapi-importer/intent-openapi-importer.html</documentationUrl>
         </component>
         <component id="238a2fbf-9aa9-4a31-b3e6-24758da90be3" name="JSON Importer" included="false" required="false" isNew="true">
           <description>Support for importing JSON files into the Domain and Services designers.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyAgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjMDAwMDAwIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMC4xNiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+Cg08ZGVmcz4KDTxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9Ii02NzkuNzkzIiB5MT0iLTYzNy44MDUiIHgyPSItNjY4LjAwNSIgeTI9Ii02NDkuNTk1IiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDAuOTk5LCAwLCAwLCAtMC45OTksIDY4OC45NjksIC02MjYuNzEpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+Cg08c3RvcCBvZmZzZXQ9IjAiLz4KDTxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIvPgoNPC9saW5lYXJHcmFkaWVudD4KDTxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9Ii02NjcuNDcxIiB5MT0iLTY0OS4wNjIiIHgyPSItNjc5LjI2IiB5Mj0iLTYzNy4yNzIiIHhsaW5rOmhyZWY9IiNhIi8+Cg08L2RlZnM+Cg08dGl0bGU+ZmlsZV90eXBlX2pzb24yPC90aXRsZT4KDTxwYXRoIGQ9Ik0zLjAxNSwxNC44OTFhMi43MiwyLjcyLDAsMCwwLDEuNy0uNTYxLDIuNTc1LDIuNTc1LDAsMCwwLC44NzMtMS40NjgsMTYuNTMzLDE2LjUzMywwLDAsMCwuMjMtMy4xOTNRNS44MjgsNy40MSw1LjksNi42OTNhNS42NzIsNS42NzIsMCwwLDEsLjQ1My0xLjgyNiwzLjI3NywzLjI3NywwLDAsMSwuODE4LTEuMSwzLjMsMy4zLDAsMCwxLDEuMjQ1LS42MjlBNy4zMjUsNy4zMjUsMCwwLDEsMTAuMDksM2guNzU4VjUuMTI0aC0uNDE5YTIuNTMyLDIuNTMyLDAsMCwwLTEuODY3LjUwN0EzLjY4OSwzLjY4OSwwLDAsMCw4LjEsNy45YTM5LjA1OSwzOS4wNTksMCwwLDEtLjE0OSw0LjQ3OCw1LjEyOSw1LjEyOSwwLDAsMS0uODMyLDIuMjMyQTQuOTQ4LDQuOTQ4LDAsMCwxLDUuMjc0LDE2YTQuMTI2LDQuMTI2LDAsMCwxLDIuMTU4LDEuOSw5LjYsOS42LDAsMCwxLC42Nyw0LjE4N3EwLDIuNjM4LjA1NCwzLjEzOEExLjksMS45LDAsMCwwLDguNywyNi41MTFhMi44NTksMi44NTksMCwwLDAsMS43MjUuMzY1aC40MTlWMjlIMTAuMDlhNi4xMjYsNi4xMjYsMCwwLDEtMS45MjEtLjIxNiwzLjIxNywzLjIxNywwLDAsMS0xLjQzNC0xLjAwOEEzLjYzMiwzLjYzMiwwLDAsMSw2LDI2LjAxYTI2LjE5LDI2LjE5LDAsMCwxLS4xODMtMy41LDE3Ljg0MiwxNy44NDIsMCwwLDAtLjIzLTMuMzY4LDIuNjA4LDIuNjA4LDAsMCwwLS44NzMtMS40NzUsMi43LDIuNywwLDAsMC0xLjctLjU2OFoiIHN0eWxlPSJmaWxsOiNmZmU2MDAiLz4KDTxwYXRoIGQ9Ik0yOC45ODUsMTcuMWEyLjcsMi43LDAsMCwwLTEuNy41NjgsMi42MDgsMi42MDgsMCwwLDAtLjg3MywxLjQ3NSwxNy44NDIsMTcuODQyLDAsMCwwLS4yMywzLjM2OEEyNi4xOSwyNi4xOSwwLDAsMSwyNiwyNi4wMWEzLjYzMiwzLjYzMiwwLDAsMS0uNzM3LDEuNzY1LDMuMjE3LDMuMjE3LDAsMCwxLTEuNDM0LDEuMDA4QTYuMTI2LDYuMTI2LDAsMCwxLDIxLjkxLDI5aC0uNzU4VjI2Ljg3NmguNDE5YTIuODU5LDIuODU5LDAsMCwwLDEuNzI1LS4zNjUsMS45LDEuOSwwLDAsMCwuNTQ4LTEuMjg1cS4wNTQtLjUuMDU0LTMuMTM4YTkuNiw5LjYsMCwwLDEsLjY3LTQuMTg3QTQuMTI2LDQuMTI2LDAsMCwxLDI2LjcyNiwxNmE0Ljk0OCw0Ljk0OCwwLDAsMS0xLjg0Ny0xLjM5Myw1LjEyOSw1LjEyOSwwLDAsMS0uODMyLTIuMjMyQTM5LjA1OSwzOS4wNTksMCwwLDEsMjMuOSw3LjlhMy42ODksMy42ODksMCwwLDAtLjQ2LTIuMjY2LDIuNTMyLDIuNTMyLDAsMCwwLTEuODY3LS41MDdoLS40MTlWM2guNzU4YTcuMzI1LDcuMzI1LDAsMCwxLDEuNjc3LjEzNSwzLjMsMy4zLDAsMCwxLDEuMjQ1LjYyOSwzLjI3NywzLjI3NywwLDAsMSwuODE4LDEuMUE1LjY3Miw1LjY3MiwwLDAsMSwyNi4xLDYuNjkzcS4wNjguNzE3LjA4MSwyLjk3NmExNi41MzMsMTYuNTMzLDAsMCwwLC4yMywzLjE5MywyLjU3NSwyLjU3NSwwLDAsMCwuODczLDEuNDY4LDIuNzIsMi43MiwwLDAsMCwxLjcuNTYxWiIgc3R5bGU9ImZpbGw6I2ZmZTYwMCIvPgoNPHBhdGggZD0iTTE1Ljk4NiwyMC4wODVjMy43LDUuMDQxLDcuMzE3LTEuNDA3LDcuMzExLTUuMjg1LS4wMDYtNC41ODUtNC42NTMtNy4xNDctNy4zMTQtNy4xNDdhOC4zNTIsOC4zNTIsMCwwLDAsMCwxNi43Yy0uODMyLS4xMi0zLjYtLjcxNC0zLjY0Mi03LjEtLjAyNS00LjMxOSwxLjQwOS02LjA0NSwzLjYzNi01LjI4NmE0LjI0Miw0LjI0MiwwLDAsMSwyLjQ1Niw0LjA2OUE0LjI1Nyw0LjI1NywwLDAsMSwxNS45ODYsMjAuMDg1WiIgc3R5bGU9ImZpbGw6dXJsKCNhKSIvPgoNPHBhdGggZD0iTTE1Ljk4MiwxMS45NjhjLTIuNDQzLS44NDItNS40MzcsMS4xNzItNS40MzcsNS4yMDUsMCw2LjU4Niw0Ljg4MSw3LjE4NCw1LjQ3Miw3LjE4NGE4LjM1Miw4LjM1MiwwLDAsMCwwLTE2LjdjMS4wMTgtLjE0MSw1LjQ4OSwxLjEsNS40ODksNy4yMTIsMCwzLjk4NC0zLjMzOCw2LjE1My01LjUwOSw1LjIyN2E0LjI0Miw0LjI0MiwwLDAsMS0yLjQ1Ni00LjA2OUE0LjI4LDQuMjgsMCwwLDEsMTUuOTgyLDExLjk2OFoiIHN0eWxlPSJmaWxsOnVybCgjYikiLz4KDTwvZz4KDTwvc3ZnPg==" />
           <modules>
-            <module id="Intent.Json.Importer" version="1.0.2">
+            <module id="Intent.Json.Importer" version="1.0.1">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-importers/intent-json-importer/intent-json-importer.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-importers/intent-json-importer/intent-json-importer.html</documentationUrl>
         </component>
         <component id="955e7920-6321-46f3-818c-c2e4f8dc7cd8" name="C# Importer" included="false" required="false" isNew="true">
           <description>Support for importing C# code into the Domain and Services designers.</description>
           <icon type="UrlImagePath" source="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHRpdGxlPmZpbGVfdHlwZV9jc2hhcnAyPC90aXRsZT48cGF0aCBkPSJNMjksMTAuMjMyYTIuMzg3LDIuMzg3LDAsMCwwLS4zMTgtMS4yNDQsMi40NTEsMi40NTEsMCwwLDAtLjkzNi0uODc5UTIyLjU1Miw1LjI0MSwxNy4zNTMsMi4zNzZBMi42NDIsMi42NDIsMCwwLDAsMTQuNTksMi40Yy0xLjM3OC43NzktOC4yNzUsNC41NjUtMTAuMzMxLDUuNzA2QTIuMjg3LDIuMjg3LDAsMCwwLDMsMTAuMjMxVjIxLjc3YTIuNCwyLjQsMCwwLDAsLjMsMS4yMiwyLjQzNCwyLjQzNCwwLDAsMCwuOTU0LjljMi4wNTYsMS4xNDEsOC45NTQsNC45MjcsMTAuMzMyLDUuNzA2YTIuNjQyLDIuNjQyLDAsMCwwLDIuNzYzLjAyNnE1LjE5LTIuODcxLDEwLjM4Ni01LjczM2EyLjQ0NCwyLjQ0NCwwLDAsMCwuOTU1LS45LDIuNCwyLjQsMCwwLDAsLjMtMS4yMlYxMC4yMzIiIHN0eWxlPSJmaWxsOiM0ZTk5NGEiLz48cGF0aCBkPSJNMjguNTQ5LDIzLjE3MWEyLjEyNiwyLjEyNiwwLDAsMCwuMTQ3LS4xODIsMi40LDIuNCwwLDAsMCwuMy0xLjIyVjEwLjIzMmEyLjM4NywyLjM4NywwLDAsMC0uMzE4LTEuMjQ0Yy0uMDM2LS4wNTktLjA4OS0uMTA1LS4xMy0uMTZMMTYsMTZaIiBzdHlsZT0iZmlsbDojMzU4MjMwIi8+PHBhdGggZD0iTTI4LjU0OSwyMy4xNzEsMTYsMTYsMy40NTEsMjMuMTcxYTIuNDM1LDIuNDM1LDAsMCwwLC44MDkuNzJjMi4wNTYsMS4xNDEsOC45NTQsNC45MjcsMTAuMzMyLDUuNzA2YTIuNjQyLDIuNjQyLDAsMCwwLDIuNzYzLjAyNnE1LjE5LTIuODcxLDEwLjM4Ni01LjczM0EyLjQzLDIuNDMsMCwwLDAsMjguNTQ5LDIzLjE3MVoiIHN0eWxlPSJmaWxsOiMxYTc1MTUiLz48cGF0aCBkPSJNMTkuNiwxOC4wMmE0LjEyMSw0LjEyMSwwLDEsMS0uMDI3LTQuMDg3bDMuNjE1LTIuMDczQTguMzA5LDguMzA5LDAsMCwwLDcuNywxNmE4LjIxNiw4LjIxNiwwLDAsMCwxLjEsNC4xMTdBOC4zMTksOC4zMTksMCwwLDAsMjMuMjExLDIwLjFMMTkuNiwxOC4wMiIgc3R5bGU9ImZpbGw6I2ZmZiIvPjxwYXRoIGQ9Ik0yNy42NywxNS4yNzFWMTQuMDMzSDI2LjY2M1YxMy4wMjdIMjUuNDI0djEuMDA2SDIzLjkxNlYxMy4wMjdIMjIuNjc3djEuMDA2SDIxLjY2OXYxLjIzOGgxLjAwNnYxLjUxM0gyMS42Njl2MS4yMzdoMS4wMDZ2MS4wMDZoMS4yMzlWMTguMDIxaDEuNTA5djEuMDA2aDEuMjM5VjE4LjAyMWgxLjAwNlYxNi43ODRoLTFWMTUuMjcxWm0tMi4yNDYsMS41MTNIMjMuOTE2VjE1LjI3MWgxLjUwOFoiIHN0eWxlPSJmaWxsOiNmZmYiLz48L3N2Zz4=" />
           <modules>
-            <module id="Intent.CSharp.Importer" version="1.0.2">
+            <module id="Intent.CSharp.Importer" version="1.0.1">
               <includedByDefault>true</includedByDefault>
               <required>true</required>
             </module>
           </modules>
           <dependencies />
-          <documentationUrl>http://localhost:8080/articles/modules-importers/intent-csharp-importer/intent-csharp-importer.html</documentationUrl>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-importers/intent-csharp-importer/intent-csharp-importer.html</documentationUrl>
         </component>
       </components>
     </group>
@@ -940,13 +940,13 @@ Learn more:
     </group>
   </additionalSettings>
   <minimumDependencyVersions>
-    <module id="Intent.Application.Contracts" version="5.1.1" />
-    <module id="Intent.Application.Contracts.Clients" version="5.1.5" />
+    <module id="Intent.Application.Contracts" version="5.1.2" />
+    <module id="Intent.Application.Contracts.Clients" version="5.1.6" />
     <module id="Intent.Application.DependencyInjection.MediatR" version="3.6.1" />
-    <module id="Intent.Application.DomainInteractions" version="1.1.8" />
-    <module id="Intent.Application.Dtos.AutoMapper" version="4.0.18" />
+    <module id="Intent.Application.DomainInteractions" version="1.1.9" />
+    <module id="Intent.Application.Dtos.AutoMapper" version="4.0.19" />
     <module id="Intent.Application.FluentValidation.Dtos" version="3.12.3" />
-    <module id="Intent.Application.Identity" version="3.6.0" />
+    <module id="Intent.Application.Identity" version="3.6.1" />
     <module id="Intent.Application.MediatR.CRUD.Eventing" version="5.2.0" />
     <module id="Intent.Application.MediatR.FluentValidation" version="4.9.4" />
     <module id="Intent.Application.ServiceImplementations.CRUD.Eventing" version="1.1.2" />
@@ -956,38 +956,38 @@ Learn more:
     <module id="Intent.AspNetCore.DistributedCaching" version="1.0.5" />
     <module id="Intent.AspNetCore.Identity" version="4.2.7" />
     <module id="Intent.AspNetCore.Swashbuckle.Security" version="4.0.11" />
-    <module id="Intent.Code.Weaving.Razor" version="2.0.3" />
+    <module id="Intent.Code.Weaving.Razor" version="2.0.2" />
     <module id="Intent.Common" version="3.9.2" />
-    <module id="Intent.Common.CSharp" version="3.9.10" />
+    <module id="Intent.Common.CSharp" version="3.9.9" />
     <module id="Intent.Common.Types" version="4.1.2" />
     <module id="Intent.Common.UnitOfWork" version="1.0.3" />
-    <module id="Intent.DocumentDB.Dtos.AutoMapper" version="1.0.5" />
-    <module id="Intent.Entities.Repositories.Api" version="5.1.9" />
+    <module id="Intent.DocumentDB.Dtos.AutoMapper" version="1.0.6" />
+    <module id="Intent.Entities.Repositories.Api" version="5.1.10" />
     <module id="Intent.Entities.SoftDelete" version="1.2.1" />
     <module id="Intent.EntityFrameworkCore.DesignTimeDbContextFactory" version="4.2.14" />
     <module id="Intent.EntityFrameworkCore.Interop.DomainEvents" version="4.1.4" />
     <module id="Intent.Eventing.Contracts" version="6.0.0" />
     <module id="Intent.Eventing.Contracts.DomainMapping" version="4.2.0" />
     <module id="Intent.Eventing.MassTransit.EntityFrameworkCore" version="5.2.5" />
-    <module id="Intent.Metadata.DocumentDB" version="1.3.6" />
-    <module id="Intent.Metadata.RDBMS" version="3.7.9" />
-    <module id="Intent.Metadata.Security" version="1.1.2" />
-    <module id="Intent.Metadata.WebApi" version="4.7.17" />
-    <module id="Intent.Modelers.Domain" version="3.12.10" />
+    <module id="Intent.Metadata.DocumentDB" version="1.3.5" />
+    <module id="Intent.Metadata.RDBMS" version="3.7.8" />
+    <module id="Intent.Metadata.Security" version="1.1.1" />
+    <module id="Intent.Metadata.WebApi" version="4.7.16" />
+    <module id="Intent.Modelers.Domain" version="3.12.9" />
     <module id="Intent.Modelers.Domain.Events" version="4.4.5" />
-    <module id="Intent.Modelers.Domain.Repositories" version="3.6.1" />
+    <module id="Intent.Modelers.Domain.Repositories" version="3.6.0" />
     <module id="Intent.Modelers.Domain.Services" version="1.3.0" />
     <module id="Intent.Modelers.Domain.ValueObjects" version="3.6.2" />
-    <module id="Intent.Modelers.Eventing" version="6.0.3" />
+    <module id="Intent.Modelers.Eventing" version="6.0.2" />
     <module id="Intent.Modelers.ServiceProxies" version="5.2.3" />
-    <module id="Intent.Modelers.Services" version="4.0.7" />
+    <module id="Intent.Modelers.Services" version="4.0.6" />
     <module id="Intent.Modelers.Services.CQRS" version="6.0.4" />
-    <module id="Intent.Modelers.Services.DomainInteractions" version="2.3.9" />
+    <module id="Intent.Modelers.Services.DomainInteractions" version="2.3.8" />
     <module id="Intent.Modelers.Services.EventInteractions" version="2.0.4" />
-    <module id="Intent.Modelers.Services.ProxyInteractions" version="1.1.5" />
+    <module id="Intent.Modelers.Services.ProxyInteractions" version="1.1.4" />
     <module id="Intent.Modelers.Types.ServiceProxies" version="5.5.3" />
-    <module id="Intent.Modules.Modelers.Domain.StoredProcedures" version="1.2.2" />
-    <module id="Intent.OutputManager.RoslynWeaver" version="4.9.15" />
+    <module id="Intent.Modules.Modelers.Domain.StoredProcedures" version="1.2.1" />
+    <module id="Intent.OutputManager.RoslynWeaver" version="4.9.14" />
     <module id="Intent.UnitTesting" version="1.0.2" />
   </minimumDependencyVersions>
 </applicationTemplate>
