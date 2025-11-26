@@ -459,6 +459,10 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="c6fa2c54-fc14-4652-b309-34b019920850" name="Kafka" />
+            <incompatible id="2584617b-a095-4b7b-9ac1-34ce0050810f" name="Azure Service Bus" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-masstransit/intent-eventing-masstransit.html</documentationUrl>
         </component>
         <component id="65e9060a-2316-4980-9a54-072190f8b24c" name="Http Clients" included="false" required="false">
@@ -471,6 +475,9 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="68c60a8f-d917-41e4-a092-6852a28ce528" name="gRPC (BETA)" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-integration-httpclients/intent-integration-httpclients.html</documentationUrl>
         </component>
         <component id="4bca4c93-2f3a-440f-bfe0-b3c4b0c071cd" name="SignalR" included="false" required="false">
@@ -495,6 +502,9 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="65e9060a-2316-4980-9a54-072190f8b24c" name="Http Clients" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-grpc/intent-aspnetcore-grpc.html</documentationUrl>
         </component>
         <component id="c6fa2c54-fc14-4652-b309-34b019920850" name="Kafka" included="false" required="false">
@@ -507,6 +517,10 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="961f53b2-8310-4c1d-841e-59c0a77c8afb" name="MassTransit" />
+            <incompatible id="2584617b-a095-4b7b-9ac1-34ce0050810f" name="Azure Service Bus" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-kafka/intent-eventing-kafka.html</documentationUrl>
         </component>
         <component id="2584617b-a095-4b7b-9ac1-34ce0050810f" name="Azure Service Bus" included="false" required="false">
@@ -519,6 +533,10 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="961f53b2-8310-4c1d-841e-59c0a77c8afb" name="MassTransit" />
+            <incompatible id="c6fa2c54-fc14-4652-b309-34b019920850" name="Kafka" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-azureservicebus/intent-eventing-azureservicebus.html</documentationUrl>
         </component>
       </components>

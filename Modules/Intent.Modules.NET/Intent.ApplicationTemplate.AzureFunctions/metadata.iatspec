@@ -304,7 +304,7 @@ Learn more:
       </components>
     </group>
     <group name="Integration">
-      <selectionMode>allow-single-only</selectionMode>
+      <selectionMode>allow-multiple</selectionMode>
       <components>
         <component id="932966e8-0a18-411a-bbb9-bc89c363681e" name="Azure Service Bus" included="false" required="false">
           <description>Integrate applications using a Pub/Sub pattern with Azure Service Bus directly.</description>
@@ -316,6 +316,9 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="19b98fc3-caf5-4f3b-937d-8d1f54672ab1" name="Domain Eventing" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-azureservicebus/intent-eventing-azureservicebus.html</documentationUrl>
         </component>
         <component id="176ef3c4-cd3d-40c9-a98e-09ae916cdfae" name="Azure Event Grid" included="false" required="false">
@@ -328,6 +331,9 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="932966e8-0a18-411a-bbb9-bc89c363681e" name="Azure Service Bus" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-azureeventgrid/intent-eventing-azureeventgrid.html</documentationUrl>
         </component>
         <component id="14ecc5b8-3f07-4f24-b6a6-111937caaf64" name="Http Clients" included="false" required="false">
