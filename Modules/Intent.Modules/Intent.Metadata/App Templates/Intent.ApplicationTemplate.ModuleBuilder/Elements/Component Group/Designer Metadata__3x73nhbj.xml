@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="11619538-051d-4ac3-bfce-7aad8cabc511" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Designer Metadata</name>
-  <display>Designer Metadata (8)</display>
+  <display>Designer Metadata (9)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>5</order>
@@ -42,7 +42,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing Commands and Queries in the Services designer." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -68,6 +73,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -96,7 +102,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing Entities in Relational DB terms in the Domain designer." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -122,6 +133,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -150,7 +162,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing Services in HTTP Web API terms." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -176,6 +193,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -204,7 +222,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing Entities in Document DB terms in the Domain designer." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -230,6 +253,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -258,7 +282,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing event messages and defining publishers and subscribers in the Services designer." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -284,6 +313,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -312,7 +342,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Support for describing security on services." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -338,6 +373,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -366,7 +402,12 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Core user interface components for the user interface designer." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
@@ -392,6 +433,7 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
@@ -400,9 +442,9 @@
         </childElement>
       </childElements>
     </childElement>
-    <childElement id="896dabc5-0826-4932-8b05-5c0bb2bbf474" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
-      <name>ApiGateway</name>
-      <display>ApiGateway (1)</display>
+    <childElement id="9800450a-d9c0-4286-bcdf-a66f2b367087" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>Domain Interactions</name>
+      <display>Domain Interactions (1)</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -416,23 +458,28 @@
           <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
           <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
           <properties>
-            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNTAgNTAiPgogIDwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyOS4zLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiAyLjEuMCBCdWlsZCAxNTEpICAtLT4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iMjQuOTUwMDEiIHkxPSI0NS45MTMwNCIgeDI9IjI0Ljk1MDAxIiB5Mj0iNC4wMzYxNiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NTYyYWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTk4OGJmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQxIiB4MT0iMjUiIHkxPSI0NS45MTMwNCIgeDI9IjI1IiB5Mj0iNC4wMzYxNiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NTYyYWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTk4OGJmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQyLTc3NyIgeDE9IjE5LjU2MDc1IiB5MT0iNDQuOTM0NzgiIHgyPSIxOS41NjA3NSIgeTI9IjQuNzI4MjYiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NTYyYWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTk4OGJmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQzLTg4OCIgeDE9IjI3LjY0NTI2IiB5MT0iNDQuOTM0NzgiIHgyPSIyNy42NDUyNiIgeTI9IjQuNzI4MjYiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NTYyYWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTk4OGJmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQ0LTk5OSIgeDE9IjMyLjgyNTY4IiB5MT0iNDQuOTM0NzgiIHgyPSIzMi44MjU2OCIgeTI9IjQuNzI4MjYiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4NTYyYWIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTk4OGJmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBkPSJNNDUuMTc5OTksMjEuMzkwMDFjLS40NjAwMi0uMDkwMDMtLjc4OTk4LS4xNjAwMy0xLjAyOTk3LS4xNzk5OS0uMDYtLjAxMDAxLS4xMTAwNS0uMDEwMDEtLjE1MDAyLS4wMTAwMWwuMDk5OTgtLjEwMDA0Yy0uMjI5OTgtMS4xNTk5Ny0uNTQ5OTktMi4yNjk5Ni0uOTU5OTYtMy4zMjk5Ni0uMDQ5OTktLjEyLS4xMDAwNC0uMjUtLjE1MDAyLS4zNy0uMTMtLjI5MDA0LS4yNjAwMS0uNTgwMDItLjM5MDAxLS44NjAwNS0uMTM5OTUtLjI4OTk4LS4yODk5OC0uNTcwMDEtLjQyOTk5LS44Mzk5Ny0uMTItLjIyMDAzLS4yMzk5OS0uNDI5OTktLjM3LS42NDAwMS0uMTU5OTctLjI2MDAxLS4zMjAwMS0uNTEwMDEtLjUtLjc2MDAxbC4wMTAwMS0uMDE5OTYsMS43ODk5OC0yLjY4MDA1LTQuNjk5OTUtNC42OTk5NWMtMS4zOC44ODk5NS0yLjI3MDAyLDEuNDc5OTgtMi42ODAwNSwxLjc4OTk4LS4wMDk5NSwwLS4wMDk5NS4wMTAwMS0uMDE5OTYuMDEwMDEtMS41ODAwMi0xLjAyMDAyLTMuMzQwMDMtMS44NTk5OS01LjIzOTk5LTIuNDEwMDMtLjAxMDAxLDAtLjAyMDAyLS4wMDk5NS0uMDMwMDMtLjAwOTk1LS41LS4xNTAwMi0xLjAxMDAxLS4yNzAwMi0xLjUyOTk3LS4zOHYtLjAzMDAzbC0uNjAwMDQtMy4yNzAwMmgtNi43MDAwMWMtLjI5OTk5LDEuODAwMDUtLjU5OTk4LDIuODAwMDUtLjU5OTk4LDMuMzAwMDUtLjMxLjA2LS42Mi4xMy0uOTI5OTkuMjA5OTYtLjkxOTk4LjIzOTk5LTEuODEuNTQwMDQtMi42Njk5OC45MDAwMi0xLjEzLjQ2OTk3LTIuMjAwMDEsMS4wMzk5OC0zLjIwMDAxLDEuNjlsLTIuNzAwMDEtMS43OTk5OS00LjcwMDAxLDQuNjk5OTVjLjkwMDAyLDEuNDAwMDIsMS41LDIuMjAwMDEsMS43OTk5OSwyLjcwMDAxLS4xMi4xNzk5OS0uMjI5OTguMzU5OTktLjMzOTk3LjU0OTk5LTEuMTQwMDEsMS44Ny0yLjAxMDAxLDMuOTgwMDQtMi40NjAwMiw2LjI1bC0zLjI5OTk5LjYwMDA0djYuNTk5OThjMS43OTk5OS4yOTk5OSwyLjc5OTk5LjYwMDA0LDMuMjk5OTkuNjAwMDRoLjA3MDAxYy4zMjAwMSwxLjU5OTk4Ljg0MDAzLDMuMTMsMS41MzAwMyw0LjU2LjA5OTk4LjE5OTk1LjE5OTk1LjM5OTk2LjMxLjU5OTk4LjA2LjEzLjEzLjI2MDAxLjIwOTk2LjM5MDAxLjIzOTk5LjQyOTk5LjUuODQ5OTguNzgwMDMsMS4yNWwtLjAxMDAxLjAxOTk2LTEuODkwMDEsMi43ODAwMyw0LjcwMDAxLDQuNzAwMDFjMS40Nzk5OC0uOTg5OTksMi4zNy0xLjU4MDAyLDIuNzgwMDMtMS44OTAwMS4wMDk5NSwwLC4wMDk5NS0uMDEwMDEuMDE5OTYtLjAxMDAxLjk4OTk5LjY0MDAxLDIuMDQwMDQsMS4yMTAwMiwzLjE1MDAyLDEuNjc5OTkuMzMwMDIuMTQwMDEuNjU5OTcuMjcwMDIuOTg5OTkuMzkwMDEuODQwMDMuMjk5OTksMS42OS41NDk5OSwyLjU2LjcyOTk4bC41OTk5OCwzLjMwMDA1aDYuNzAwMDFjLjI5MDA0LTEuNzcwMDIuNTkwMDMtMi43NjAwMS42MDAwNC0zLjI3MDAydi0uMDMwMDNjMi41LS41LDQuNzk5OTktMS41LDYuNzk5OTktMi43OTk5OWwuMDE5OTYuMDEwMDEsMi43ODAwMywxLjg5MDAxLDQuNzAwMDEtNC43MDAwMWMtLjk4OTk5LTEuNDc5OTgtMS41ODAwMi0yLjM3LTEuODkwMDEtMi43ODAwMywwLS4wMDk5NS0uMDEwMDEtLjAwOTk1LS4wMTAwMS0uMDE5OTYsMS4yOTk5OS0yLDIuMjk5OTktNC4yOTk5OSwyLjc5OTk5LTYuNzAwMDFsMy4zMDAwNS0uNTk5OTh2LTYuNjAwMDRjLS45NTAwMS0uMTQ5OTYtMS42ODAwNS0uMjk5OTktMi4yMjAwMy0uNDA5OTdaTTQxLjcwMDAxLDI4LjUyMDAyYy0uNDI5OTksMi4xMDk5OS0xLjI3MDAyLDQuMDc5OTYtMi40MTk5OCw1LjgyMDAxLTEuMjYwMDEsMS45Mjk5OS0yLjkxMDAzLDMuNTc5OTYtNC44NDAwMyw0LjgzOTk3LTEuNzYwMDEsMS4xNjk5OC0zLjc2MDAxLDIuMDEwMDEtNS45MDk5NywyLjQ0LTEuMDkwMDMuMjI5OTgtMi4yMjAwMy4zNDAwMy0zLjM4LjM0MDAzLTEuMTksMC0yLjM1MDA0LS4xMi0zLjQ3MDAzLS4zNjAwNS0uMDI5OTctLjAwOTk1LS4wNi0uMDA5OTUtLjA4OTk3LS4wMTk5Ni0xLjU4MDAyLS4zMzAwMi0zLjA4MDAyLS44OTAwMS00LjQ2MDAyLTEuNjQwMDEtLjQ0LS4yMzk5OS0uODU5OTktLjQ4OTk5LTEuMjcwMDItLjc2MDAxLTEuOTI5OTktMS4yNjAwMS0zLjU3OTk2LTIuOTA5OTctNC44Mzk5Ny00LjgzOTk3LS4yMzAwNC0uMzYwMDUtLjQ2MDAyLS43MjAwMy0uNjcwMDQtMS4xMDAwNC0uMDY5OTUtLjEyLS4xMy0uMjI5OTgtLjE3OTk5LS4zMzk5Ny0uMDk5OTgtLjE3MDA0LS4xNzk5OS0uMzUwMDQtLjI2OTk2LS41MjAwMi0uNjAwMDQtMS4yMzk5OS0xLjA1MDA1LTIuNTYtMS4zMjAwMS0zLjk1MDAxLS4yMzAwNC0xLjA4OTk3LS4zNDAwMy0yLjIxOTk3LS4zNDAwMy0zLjM4LDAtMy4yMDk5Ni44OTAwMS02LjIwOTk2LDIuNDQtOC43Njk5NiwxLjg1MDA0LTMuMDIwMDIsNC42MDAwNC01LjQyMDA0LDcuODkwMDEtNi44MjAwMS43Mzk5OS0uMzEsMS41MTAwMS0uNTcwMDEsMi4zMS0uNzgwMDMuMjcwMDItLjA3MDAxLjUzOTk4LS4xMy43OTk5OS0uMTc5OTksMS4xMi0uMjM5OTksMi4yODAwMy0uMzU5OTksMy40NzAwMy0uMzU5OTksMS4wMTk5NiwwLDIuMDA5OTUuMDc5OTYsMi45Nzk5OC4yNjk5Ni4wNDk5OSwwLC4wOTk5OC4wMTAwMS4xNTAwMi4wMjAwMi4wNzk5Ni4wMjAwMi4xNjk5OC4wMzAwMy4yNS4wNDk5OSwyLjE0OTk2LjQyOTk5LDQuMTQ5OTYsMS4yNzAwMiw1LjkwOTk3LDIuNDQsMS40MTk5OC45Mjk5OSwyLjY5LDIuMDcwMDEsMy43NjAwMSwzLjM4LjAyOTk3LjAyMDAyLjAzOTk4LjA0MDA0LjA2LjA3MDAxLjM0OTk4LjM0OTk4LjY0MDAxLjc1Ljg4LDEuMTkuMDEwMDEuMDEwMDEuMDE5OTYuMDIwMDIuMDE5OTYuMDMwMDMuMDQwMDQuMDQ5OTkuMDgwMDIuMTA5OTkuMTIwMDYuMTY5OTguMTQ5OTYuMjE5OTcuMjg5OTguNDQuNDI5OTkuNjc5OTkuMTA5OTkuMTc5OTkuMjA5OTYuMzU5OTkuMzIwMDEuNTQ5OTkuMTIuMjM5OTkuMjUuNDc5OTguMzcuNzI5OTguMTA5OTkuMjQwMDUuMjE5OTcuNDkwMDUuMzM5OTcuNzUuMDQwMDQuMTAwMDQuMDgwMDIuMjEwMDIuMTMuMzIwMDEuMzguOTUwMDEuNjY5OTgsMS45NTAwMS44NywyLjk4MDA0LjIxMDAyLDEuMDQ5OTkuMzIwMDEsMi4xNDk5Ni4zMjAwMSwzLjI3OTk3LDAsMS4xOS0uMTIsMi4zNTAwNC0uMzU5OTksMy40NzAwM1oiIGZpbGw9InVybCgjbGluZWFyLWdyYWRpZW50KSIvPgogIDxwYXRoIGQ9Ik0yNSw5Ljc5OTk5Yy04LjQwMDAyLDAtMTUuMjAwMDEsNi43OTk5OS0xNS4yMDAwMSwxNS4yMDAwMXM2Ljc5OTk5LDE1LjIwMDAxLDE1LjIwMDAxLDE1LjIwMDAxLDE1LjIwMDAxLTYuNzk5OTksMTUuMjAwMDEtMTUuMjAwMDEtNi43OTk5OS0xNS4yMDAwMS0xNS4yMDAwMS0xNS4yMDAwMVpNMjUsMzYuNzk5OTljLTYuNSwwLTExLjc5OTk5LTUuMjk5OTktMTEuNzk5OTktMTEuNzk5OTlzNS4yOTk5OS0xMS43OTk5OSwxMS43OTk5OS0xMS43OTk5OSwxMS43OTk5OSw1LjI5OTk5LDExLjc5OTk5LDExLjc5OTk5LTUuMjk5OTksMTEuNzk5OTktMTEuNzk5OTksMTEuNzk5OTlaIiBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudDEpIi8+CiAgPHBhdGggZD0iTTIxLjE4Nzk5LDI3LjA3MTI5aC0zLjI1MTk1bC0uNzI2NTYsMS43ODgwOWMtLjA0Njg4LjExMzI4LS4xMTI3OS4yMDk5Ni0uMTk3MjcuMjkwMDRzLS4xODExNS4xMzk2NS0uMjg5MDYuMTc2NzZjLS4xMDg0LjAzODA5LS4yMjIxNy4wNTU2Ni0uMzQyMjkuMDUyNzMtLjEyMDEyLS4wMDE5NS0uMjM2MzMtLjAyNjM3LS4zNDkxMi0uMDc0MjItLjExMjc5LS4wNDY4OC0uMjA3MDMtLjExMjMtLjI4MjIzLS4xOTcyN3MtLjEzMDM3LS4xNzk2OS0uMTY1NTMtLjI4MzJjLS4wMzU2NC0uMTAzNTItLjA1MDc4LS4yMTI4OS0uMDQ1OS0uMzI5MS4wMDQzOS0uMTE1MjMuMDMyNzEtLjIyOTQ5LjA4NDQ3LS4zNDI3N2wzLjE2Njk5LTcuMjg5MDZjLjA3NTItLjE2NTA0LjE4MjEzLS4yOTQ0My4zMjA4LS4zODg2N3MuMjk5OC0uMTQxNi40ODM0LS4xNDE2Yy4xNjk0MywwLC4zMjQyMi4wNDU5LjQ2NTMzLjEzNzcuMTQxMTEuMDkyMjkuMjQ3MDcuMjIwNy4zMTczOC4zODUyNWwzLjEyNSw3LjI5NjM5Yy4wNDY4OC4xMTMyOC4wNzM3My4yMjc1NC4wODEwNS4zNDI3Ny4wMDY4NC4xMTYyMS0uMDA1ODYuMjI0NjEtLjAzOTA2LjMyNTItLjAzMjcxLjEwMTU2LS4wODU0NS4xOTUzMS0uMTU4NjkuMjc5My0uMDcyNzUuMDg0OTYtLjE2NTUzLjE1MzMyLS4yNzgzMi4yMDUwOC0uMTEyNzkuMDUyNzMtLjIyNzA1LjA3ODEyLS4zNDIyOS4wNzgxMnMtLjIyNTU5LS4wMTg1NS0uMzMxNTQtLjA1NjY0Yy0uMTA1NDctLjAzNzExLS4yMDIxNS0uMDk2NjgtLjI4OTA2LS4xNzY3NnMtLjE1NjI1LS4xNzY3Ni0uMjA4MDEtLjI5MDA0bC0uNzQ3NTYtMS43ODgwOVpNMTguNjU1NzYsMjUuMzE3MzhoMS43OTgzNGwtLjkwOTY3LTIuMTg0NTctLjg4ODY3LDIuMTg0NTdaIiBmaWxsPSJ1cmwoI2xpbmVhci1ncmFkaWVudDItNzc3KSIvPgogIDxwYXRoIGQ9Ik0yNi4zOTk0MSwyNS43OTc4NXYyLjcyMjY2YzAsLjEyMjA3LS4wMjM0NC4yMzUzNS0uMDcwMzEuMzM4ODdzLS4xMDkzOC4xOTQzNC0uMTg2NTIuMjcyNDYtLjE3MDQxLjEzODY3LS4yNzgzMi4xODM1OWMtLjEwODQuMDQ0OTItLjIyMTE5LjA2NzM4LS4zMzg4Ny4wNjczOC0uMTIyMDcsMC0uMjM2MzMtLjAyMjQ2LS4zNDE4LS4wNjczOC0uMTA1OTYtLjA0NDkyLS4xOTg3My0uMTA1NDctLjI3ODgxLS4xODM1OXMtLjE0MjA5LS4xNjg5NS0uMTg3MDEtLjI3MjQ2Yy0uMDQ0NDMtLjEwMzUyLS4wNjY4OS0uMjE2OC0uMDY2ODktLjMzODg3di03LjMyNDcxYzAtLjEyMjU2LjAyMjQ2LS4yMzU4NC4wNjY4OS0uMzM5ODQuMDQ0OTItLjEwMzUyLjEwNjkzLS4xOTQzNC4xODcwMS0uMjcxOTdzLjE3Mjg1LS4xMzkxNi4yNzg4MS0uMTgzNTljLjEwNTQ3LS4wNDQ5Mi4yMTk3My0uMDY3MzguMzQxOC0uMDY3MzhoMi4zNDg2M2MuMzgwODYsMCwuNzQwMjMuMDcxNzgsMS4wNzYxNy4yMTU4Mi4zMzU5NC4xNDM1NS42Mjg5MS4zMzkzNi44ODA4Ni41ODY0My4yNTE5NS4yNDc1Ni40NDkyMi41Mzc2LjU5Mzc1Ljg2OTYzLjE0MjU4LjMzMjUyLjIxNDg0LjY4OTQ1LjIxNDg0LDEuMDcxMjlzLS4wNzIyNy43MzczLS4yMTQ4NCwxLjA2NzM4Yy0uMTQ0NTMuMzMwMDgtLjM0MTguNjE4MTYtLjU5Mzc1Ljg2MzI4cy0uNTQ0OTIuNDM3NS0uODgwODYuNTc5MS0uNjk1MzEuMjExOTEtMS4wNzYxNy4yMTE5MWgtMS40NzQ2MVpNMjYuMzk5NDEsMjIuMDY1NDN2MS45Nzk0OWgxLjQ4MjQyYy4xMzA4NiwwLC4yNTc4MS0uMDI4MzIuMzgwODYtLjA4NDk2LjEyMTA5LS4wNTY2NC4yMjg1Mi0uMTMxODQuMzIwMzEtLjIyNjU2LjA5MTgtLjA5Mzc1LjE2NjAyLS4yMDIxNS4yMjI2Ni0uMzI1Mi4wNTY2NC0uMTIyMDcuMDgzOTgtLjI0OTUxLjA4Mzk4LS4zODEzNXMtLjAyNzM0LS4yNTY4NC0uMDgzOTgtLjM3NWMtLjA1NjY0LS4xMTc2OC0uMTMwODYtLjIyMDIxLS4yMjI2Ni0uMzA3NjItLjA5MTgtLjA4NjkxLS4xOTkyMi0uMTU1MjctLjMyMDMxLS4yMDQ1OS0uMTIzMDUtLjA0OTgtLjI1LS4wNzQyMi0uMzgwODYtLjA3NDIyaC0xLjQ4MjQyWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQzLTg4OCkiLz4KICA8cGF0aCBkPSJNMzMuNzAwMiwyOC41MjA1MWMwLC4xMjIwNy0uMDIzNDQuMjM1MzUtLjA3MDMxLjMzODg3cy0uMTA5MzguMTk0MzQtLjE4NjUyLjI3MjQ2Yy0uMDc4MTIuMDc4MTItLjE3MDkuMTM4NjctLjI3OTMuMTgzNTlzLS4yMjA3LjA2NzM4LS4zMzc4OS4wNjczOGMtLjEyMzA1LDAtLjIzNjMzLS4wMjI0Ni0uMzQyNzctLjA2NzM4LS4xMDU0Ny0uMDQ0OTItLjE5ODI0LS4xMDU0Ny0uMjc4MzItLjE4MzU5cy0uMTQyNTgtLjE2ODk1LS4xODY1Mi0uMjcyNDZjLS4wNDQ5Mi0uMTAzNTItLjA2NzM4LS4yMTY4LS4wNjczOC0uMzM4ODd2LTcuMzI0NzFjMC0uMTIyNTYuMDIyNDYtLjIzNTg0LjA2NzM4LS4zMzk4NC4wNDM5NS0uMTAzNTIuMTA2NDUtLjE5NDM0LjE4NjUyLS4yNzE5N3MuMTcyODUtLjEzOTE2LjI3ODMyLS4xODM1OWMuMTA2NDUtLjA0NDkyLjIxOTczLS4wNjczOC4zNDI3Ny0uMDY3MzguMTE3MTksMCwuMjI5NDkuMDIyNDYuMzM3ODkuMDY3MzguMTA4NC4wNDQ0My4yMDExNy4xMDU5Ni4yNzkzLjE4MzU5LjA3NzE1LjA3NzY0LjEzOTY1LjE2ODQ2LjE4NjUyLjI3MTk3LjA0Njg4LjEwNC4wNzAzMS4yMTcyOS4wNzAzMS4zMzk4NHY3LjMyNDcxWiIgZmlsbD0idXJsKCNsaW5lYXItZ3JhZGllbnQ0LTk5OSkiLz4KPC9zdmc+&quot;}" isActive="true" />
-            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Design API Gateway Routes to direct traffic to downstream Services." isActive="true" />
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/png;base64,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&quot;}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Services modeler extensions for describing interactions between an application's services and its domain." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
       <metadata />
       <childElements>
-        <childElement id="1d1e8b61-b4eb-470e-8c7e-756c3e6beaef" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.Metadata.ApiGateway</name>
-          <display>Intent.Metadata.ApiGateway</display>
+        <childElement id="7f19b9b9-b352-4922-89ef-3104fe97f365" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Modelers.Services.DomainInteractions</name>
+          <display>Intent.Modelers.Services.DomainInteractions</display>
           <isAbstract>false</isAbstract>
           <genericTypes />
           <isMapped>false</isMapped>
-          <parentFolderId>896dabc5-0826-4932-8b05-5c0bb2bbf474</parentFolderId>
+          <parentFolderId>9800450a-d9c0-4286-bcdf-a66f2b367087</parentFolderId>
           <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
           <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
           <stereotypes>
@@ -441,11 +488,72 @@
               <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
               <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
               <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.0-beta.4" isActive="true" />
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="2.3.9" isActive="true" />
                 <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
+    </childElement>
+    <childElement id="a684bcf8-8c1b-4293-a740-27f3e38fe3b7" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>Event Interactions</name>
+      <display>Event Interactions (1)</display>
+      <isAbstract>false</isAbstract>
+      <sort-children>by-type-then-manually</sort-children>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>11619538-051d-4ac3-bfce-7aad8cabc511</parentFolderId>
+      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
+      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="78da9b5b-428f-4b1e-a5e5-120c7b3d87d3" name="Component Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAABkFJREFUeF7tm2tsFFUUx8+Z2S2F7bYpIo9WI4rbBYQGaKW8BAkQCH18I1CrkmhCQgyYaOIj8QMPHx8wURM1+klJjN2SGCnpEwrF8BDogiGm0C0SIfFRoxEpLXRp515zWzeU9U53uudud9A7H7v3f/acX//3njMzWQSb65XGos/Hm2c3232u6u/9LP/q2+t+nq4q3ljHQQ2QhlwDpPEDDVADJBIgyrUDNUAiAaJcO1ADJBIgyrUDNUAiAaJcO1ADJBIgyrUDNUAiAaJcO1ADJBIgyrUDNUAiAaJcO1ADJBIgyrUDNUAiAaJcO1ADJBIgyrUDUwVwa+OzheMMNjdRfMsyzR6o2Bu/bpxx4a1MjFxMpOeG948P1nzWnGidWz+3daDThJ9sbfVM683rj1/POVsZKp911Gmce3WdBkj8z2mAGiCRAFGuHagBEgkQ5dqBGiCRAFGuHagBEgkQ5dqBGiCRAFGuHagBEgkQ5dqBGiCRAFFOdmBVw6XZjLH2f+eB26tLAx8CIifm6Go5CeDTtR1By8TvAGC8pErOEV4OlQbfczUBYnJJA6zaf3Eu85jfAPBc2xw4MAB4o7o8+A4xT9fKkwIo4FkePIqAEx1UZnHOd4TKZ77pYO09t2TUACtrOwrBxGMAkD2Kai1gsKu6IrhrFJqkl25ren6hH5u+SjrAKISjAijgcQPaEDFD9h1df/bDlFwvoCyq2M4Gvla9PvBuqhvL9iObV+UO7G0ZBYeklzoG+FR95zzG+TkE+S88f/o9Cse+74FH8zKhKOgDQx6ZIze3F5TN+HgHojgfU3K5DuDGpksLcICFE8GL0QjkZ8KCwAQwbCgCgxeC5QWfpAqiqwA6dV68lR6emgEls/zy7QwAyM1tX5bN+CgV29k1ADceiDyOCMcRQXrm/fhrFE539AC3GZUfmpIBSx7z221TDoivVpcW7FG9j10BsKrhwiLOzIMcQErg8i99EO7sBZbgJBsRIgfGEXeEygp2q4SYdoACHmNmEwDkyAoT8M523gSLObtLG9mJaHHE3aHSwE5VENMKsKrh0iJmsUOAkCUrSGzbM5GehM6L1yaECLBTlRPTBnDT/vYS9HjEkOyVwbv6WxS+vWB/5iVykIC4eLZNYxm87eOvV5cF91AbS1oAVh6ILAMDBDzpdaVrCB71euB+0ViywJSPOByAvwQMw5TvycpoKsozXnyfEsOpdnDcrWroWMoYHk81vFj8BycLJ9pCdJq77boMvALTvWvJcZwEwE11PyxBsE7YLRZn3qmLdOfFxxdOXDbHfk50krzdmjEFWFkXaQSAdbJkGOPQeOY6dN+0KPXYatcU58CkbI/y2GMK8Jnm8z6rP7OWA6ySVRLtZ9Bytls5xFXzs2FyrrRXkYGOKUCR7XO1Hf4+E7+2g9h3m8Hhc+ogrpyXDVMnpgaeqGfMAYovFU4cuD2uHhBX2Dmxue069PYl/xBFPOZaUZgN0+6Tw+MAUc6hpKY8eJ5iw7SMMSLhLZ+GvTfy/EcAYZmsgP4BcSb+lRREMbYsnZMF+ZOkt9UAHLoZeJfXlD9CgifyThvAGLTKuojoyktkEC1rqLHcuOW8sXhMHBxbROeVX/waY+bqmorAOYrzYtq0AxSJqIIonCcGZ1t4wnncWKkKnisceMeJnScB+GI7J9afHnk7izPvibl+2207dOZ5S1Rs2+E5usKBg2diOOzt7vK3IsDSZM7E5YUjwuOcw3xqw5Dl5RqAIrkN+9qzPD5vHXAu7c5ixGlquw63ond350TwwDCKQusD4qW88stVAIcghnNMn78eudyJN6MMDobvQEwnPFedgcOtsaG1Pcvs9bQgQInMMsKBAmJxgQ/ybbqtqjkvkWVd58BYwuJMvNHlF09tFkobC+N2j6mUznn3LMBY4pvqIqfsnCgvDq8xxtfWVATbEhWv4vNth7fM8A2cVPaKYKScHL9Yjw9SWRc5befEu9amYM5TAVlVjKQB/jNsiyfHRSMkE2UpmPNUFa8iDgnghn3tGR6f5wRwKI5PRjyb9zCj+AtFt2cqik1FDBJAkVBFbYd/gomHhp+JAh4gXxgqnUl6t5GKglXHJAMcnBMPXc4xowPNAuL/CZ6oXQnAmBN9JraYzNj6X9+2w138N01uwigUVY8oAAAAAElFTkSuQmCC&quot;}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Services modeler extensions for describing interactions between an application's  services and integration events." isActive="true" />
+            <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
+            <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements>
+        <childElement id="22c27993-5355-4859-b7e1-7467df534113" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Modelers.Services.EventInteractions</name>
+          <display>Intent.Modelers.Services.EventInteractions</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>a684bcf8-8c1b-4293-a740-27f3e38fe3b7</parentFolderId>
+          <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
+          <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="2.0.4" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="None" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
