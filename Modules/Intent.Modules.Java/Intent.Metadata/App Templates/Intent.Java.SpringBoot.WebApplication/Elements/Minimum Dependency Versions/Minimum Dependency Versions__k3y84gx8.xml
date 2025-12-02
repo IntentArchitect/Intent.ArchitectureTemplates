@@ -13,7 +13,525 @@
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="2d76c2aa-f90c-43b3-b3c8-ab69c4bcb06c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="25a6290b-2462-467a-b4f7-0cc6a7fd34be" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.Contracts</name>
+      <display>Intent.Application.Contracts 5.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="7d4ecd00-c487-4ffe-bd02-d2dfe7273a76" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.Contracts.Clients</name>
+      <display>Intent.Application.Contracts.Clients 5.1.6</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="17097d36-9cae-48e3-9dee-315edb42ca22" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.DependencyInjection</name>
+      <display>Intent.Application.DependencyInjection 4.1.13</display>
+      <isAbstract>false</isAbstract>
+      <value>4.1.13</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="80286752-810f-4cf6-a2e6-f6b3e96a1794" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.DependencyInjection.MediatR</name>
+      <display>Intent.Application.DependencyInjection.MediatR 3.6.2</display>
+      <isAbstract>false</isAbstract>
+      <value>3.6.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0c0183bc-ac50-4238-881f-1c315f2b56b1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.DomainInteractions</name>
+      <display>Intent.Application.DomainInteractions 1.1.9</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.9</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f8718260-9858-4497-881e-e81208ffa431" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.Dtos</name>
+      <display>Intent.Application.Dtos 4.4.7</display>
+      <isAbstract>false</isAbstract>
+      <value>4.4.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="4f4b6ef1-7bb4-4dad-8706-7ff8570918af" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.Dtos.Pagination</name>
+      <display>Intent.Application.Dtos.Pagination 4.1.4</display>
+      <isAbstract>false</isAbstract>
+      <value>4.1.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="5097ae9f-43f7-4613-b5e4-14393b04c5ba" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.FluentValidation</name>
+      <display>Intent.Application.FluentValidation 3.11.5</display>
+      <isAbstract>false</isAbstract>
+      <value>3.11.5</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="4f1bfce9-9cce-47dc-894d-06c8d7f56a92" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.FluentValidation.Dtos</name>
+      <display>Intent.Application.FluentValidation.Dtos 3.12.4</display>
+      <isAbstract>false</isAbstract>
+      <value>3.12.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0881e40b-cdf7-4e5b-87f8-15f7b88ce98b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.Identity</name>
+      <display>Intent.Application.Identity 3.6.1</display>
+      <isAbstract>false</isAbstract>
+      <value>3.6.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6532c7f0-f814-4b01-8be4-fbba1b27c5cc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR</name>
+      <display>Intent.Application.MediatR 4.5.3</display>
+      <isAbstract>false</isAbstract>
+      <value>4.5.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f6c0b0c2-cfc6-42f6-afc5-537983743fae" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.Behaviours</name>
+      <display>Intent.Application.MediatR.Behaviours 4.5.6</display>
+      <isAbstract>false</isAbstract>
+      <value>4.5.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="a7db25f0-4e3e-4ff6-b6a0-71ff4bb4e4ff" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD</name>
+      <display>Intent.Application.MediatR.CRUD 7.1.3</display>
+      <isAbstract>false</isAbstract>
+      <value>7.1.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="ce975c86-5d52-4928-baba-c411954c6adf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="40df9e04-6465-4460-a0ca-4f9224ebf2c7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="fc5eb795-1315-47c6-9984-04ca3a97ebda" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.FluentValidation</name>
+      <display>Intent.Application.MediatR.FluentValidation 4.9.5</display>
+      <isAbstract>false</isAbstract>
+      <value>4.9.5</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="ba28b714-89df-4509-9e00-755abe29f16f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="db76b270-52b9-43f0-b03b-1b492441987b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore</name>
+      <display>Intent.AspNetCore 6.1.4</display>
+      <isAbstract>false</isAbstract>
+      <value>6.1.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e252d3c0-634a-4981-81d1-d0071d830bad" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Controllers</name>
+      <display>Intent.AspNetCore.Controllers 7.1.7</display>
+      <isAbstract>false</isAbstract>
+      <value>7.1.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="895878a1-be8e-4666-8363-b59d974c0947" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Controllers.Dispatch.MediatR</name>
+      <display>Intent.AspNetCore.Controllers.Dispatch.MediatR 6.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>6.1.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0f7fa866-9b1c-46be-97b9-0184b0968f40" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</name>
+      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract 5.2.18</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.18</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="719775d2-1482-426f-8d56-97d6d7c67522" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.HealthChecks</name>
+      <display>Intent.AspNetCore.HealthChecks 2.0.13</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.13</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6de73b04-49c6-4e1d-ad0b-96a8a5c4718f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Interop.Angular</name>
+      <display>Intent.AspNetCore.Interop.Angular 4.0.3</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="d53690f4-1f21-4117-adfe-8d138b6c7489" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.SignalR</name>
+      <display>Intent.AspNetCore.SignalR 1.0.8</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="7d55d45c-6ca9-4a5a-84fa-05a52d0157a7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Swashbuckle</name>
+      <display>Intent.AspNetCore.Swashbuckle 5.2.1</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="532721e1-2507-4a7c-8da4-f58e64cc51c2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AspNetCore.Swashbuckle.Security</name>
+      <display>Intent.AspNetCore.Swashbuckle.Security 4.0.11</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.11</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="c515d525-7b84-46fb-98db-49adbfb23aab" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Azure.KeyVault</name>
+      <display>Intent.Azure.KeyVault 2.0.18</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.18</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="319183ce-043d-4cfc-b35a-dba1a52391c4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Azure.TableStorage</name>
+      <display>Intent.Azure.TableStorage 1.0.0-beta.31</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.0-beta.31</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="20114b74-f9b2-4b96-b3e0-63feb5ee1ca6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AzureFunctions</name>
+      <display>Intent.AzureFunctions 5.0.21</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.21</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="1cd6329c-9039-4ae7-8876-123590f76813" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AzureFunctions.Dispatch.MediatR</name>
+      <display>Intent.AzureFunctions.Dispatch.MediatR 2.0.4</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6a10eead-1469-4f2b-9ac5-1923d00ebcb3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AzureFunctions.Dispatch.Services</name>
+      <display>Intent.AzureFunctions.Dispatch.Services 5.0.4</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="a9b9e649-3a7c-4593-b6cb-3ce025f9129b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AzureFunctions.FluentValidation</name>
+      <display>Intent.AzureFunctions.FluentValidation 5.1.3</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="c0db57af-34f0-4047-8c09-827941bd61b6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.AzureFunctions.OpenApi</name>
+      <display>Intent.AzureFunctions.OpenApi 2.0.9</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.9</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="07d1defe-7055-4f6b-a46c-3e7576f515b1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Blazor</name>
+      <display>Intent.Blazor 1.0.7</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="a8bca794-b37b-4a90-87ba-843c5de29340" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Blazor.Components.MudBlazor</name>
+      <display>Intent.Blazor.Components.MudBlazor 1.0.6</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="2a2095e9-3a2b-4696-a83c-404ac0ceccb8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Code.Weaving.Java</name>
+      <display>Intent.Code.Weaving.Java 1.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0f677451-3f64-4579-9eab-c93ab066e24d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Code.Weaving.Razor</name>
+      <display>Intent.Code.Weaving.Razor 2.0.3</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="086a110d-a792-4901-ab65-25a3ae6ac250" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common</name>
       <display>Intent.Common 3.9.2</display>
       <isAbstract>false</isAbstract>
@@ -27,7 +545,21 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="97d456fe-068b-4792-9cf4-1958901145fd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2009583f-3a51-4eb0-803e-d6a0a0e3396b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.CSharp</name>
+      <display>Intent.Common.CSharp 3.9.11</display>
+      <isAbstract>false</isAbstract>
+      <value>3.9.11</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="b1b1fcd0-14f4-473a-8eba-382fdc26e3ea" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.Java</name>
       <display>Intent.Common.Java 4.1.2</display>
       <isAbstract>false</isAbstract>
@@ -41,7 +573,7 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="41ac06b4-1a5a-46e8-986b-4afdc61d4ecb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="adcf1a03-fa05-4515-b486-bc67fc1bb665" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.Types</name>
       <display>Intent.Common.Types 4.1.2</display>
       <isAbstract>false</isAbstract>
@@ -55,7 +587,455 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f2b3b445-edff-4985-8a17-76a9af3105e0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a5197dd7-8b30-4bec-9009-c54a1c75cb50" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.UnitOfWork</name>
+      <display>Intent.Common.UnitOfWork 1.0.3</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e3a0aa35-d594-42ef-acf6-bcf271211972" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.CosmosDB</name>
+      <display>Intent.CosmosDB 1.2.23</display>
+      <isAbstract>false</isAbstract>
+      <value>1.2.23</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6b09f5bb-dbe3-47d0-95f1-4fe00c728ac2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore</name>
+      <display>Intent.Dapr.AspNetCore 2.0.13</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.13</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="b1f0b8c4-9a7e-4514-b2fc-a658a21b893e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore.Configuration</name>
+      <display>Intent.Dapr.AspNetCore.Configuration 1.1.8</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="845db398-d462-45fa-a9a5-e65b3e562d0e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore.Pubsub</name>
+      <display>Intent.Dapr.AspNetCore.Pubsub 3.0.9</display>
+      <isAbstract>false</isAbstract>
+      <value>3.0.9</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="3d20ea79-3bed-46d2-b322-1a192cbb9c44" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore.Secrets</name>
+      <display>Intent.Dapr.AspNetCore.Secrets 1.1.8</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="d0ccaf86-6e65-45c2-8efa-e641754005ed" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore.ServiceInvocation</name>
+      <display>Intent.Dapr.AspNetCore.ServiceInvocation 2.2.29</display>
+      <isAbstract>false</isAbstract>
+      <value>2.2.29</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="fe1eee30-3c8c-4e5f-a175-8cd8bb282166" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Dapr.AspNetCore.StateManagement</name>
+      <display>Intent.Dapr.AspNetCore.StateManagement 1.2.16</display>
+      <isAbstract>false</isAbstract>
+      <value>1.2.16</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="d8662528-b750-4968-bb67-fc4b394eb9b8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.DocumentDB.Dtos.AutoMapper</name>
+      <display>Intent.DocumentDB.Dtos.AutoMapper 1.0.6</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="2f263c14-1560-4e58-a465-025ed1fe08c0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.DomainEvents</name>
+      <display>Intent.DomainEvents 5.0.12</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="44d47222-28c6-4221-b286-9a5fce869baf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Entities</name>
+      <display>Intent.Entities 5.1.15</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.15</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="938cbb11-c9d8-4dac-92ab-ac2eb9daeca3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Entities.Constants</name>
+      <display>Intent.Entities.Constants 1.0.6</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f5fb4c30-18e3-49a8-8340-c2817f7f7709" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Entities.Repositories.Api</name>
+      <display>Intent.Entities.Repositories.Api 5.1.10</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.10</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="42a2be7f-bb3c-4c05-b076-0ff16d6f5601" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.EntityFrameworkCore</name>
+      <display>Intent.EntityFrameworkCore 5.0.34</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.34</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f08c62ac-31c5-4cbd-9c28-0c8d117b48bc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</name>
+      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory 4.2.15</display>
+      <isAbstract>false</isAbstract>
+      <value>4.2.15</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="2d3a4b11-c055-4ab0-bc90-fdc1053f9cb2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.EntityFrameworkCore.Interop.DomainEvents</name>
+      <display>Intent.EntityFrameworkCore.Interop.DomainEvents 4.1.4</display>
+      <isAbstract>false</isAbstract>
+      <value>4.1.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="ff4708df-f928-4f13-9d5c-28c20067398e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.EntityFrameworkCore.Repositories</name>
+      <display>Intent.EntityFrameworkCore.Repositories 4.7.17</display>
+      <isAbstract>false</isAbstract>
+      <value>4.7.17</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6d1d6ebb-c5af-4087-89a8-9da3cc53182a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts</name>
+      <display>Intent.Eventing.Contracts 6.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>6.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="9f28a685-fd6e-4658-9e59-4d3a1b974139" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="fe277931-1ecd-446d-b874-4940251a2832" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.MassTransit</name>
+      <display>Intent.Eventing.MassTransit 7.0.12</display>
+      <isAbstract>false</isAbstract>
+      <value>7.0.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e1ca619d-bdf7-4d7e-8689-503d4cb2fb42" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.MassTransit.EntityFrameworkCore</name>
+      <display>Intent.Eventing.MassTransit.EntityFrameworkCore 5.2.5</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.5</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="980159d9-0858-4207-80c8-5050bcbcb819" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.HotChocolate.GraphQL</name>
+      <display>Intent.HotChocolate.GraphQL 5.0.9</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.9</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="a2b901b9-d0d6-4ae0-8701-372a2f1edec6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.HotChocolate.GraphQL.AspNetCore</name>
+      <display>Intent.HotChocolate.GraphQL.AspNetCore 6.0.7</display>
+      <isAbstract>false</isAbstract>
+      <value>6.0.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="b0e4d106-b646-4ae6-85c9-149fcf72db6d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.HotChocolate.GraphQL.AzureFunctions</name>
+      <display>Intent.HotChocolate.GraphQL.AzureFunctions 2.0.7</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="3868f0bc-75e6-413c-a337-1ffe4b69787a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.HotChocolate.GraphQL.Dispatch.MediatR</name>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.MediatR 2.0.1</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="fad148a9-2049-4a45-aafa-ab9a4c1ffda2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.HotChocolate.GraphQL.Dispatch.Services</name>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.Services 2.0.1</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="43aab17b-d9ad-4731-8679-ee78e30b3c5c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.Domain</name>
+      <display>Intent.Java.Domain 5.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="7f9af97f-a169-4d2d-8723-81c3ef063826" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.Maven</name>
+      <display>Intent.Java.Maven 4.0.1</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e08266d0-371c-4ea7-86ac-276ca985fc04" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.Persistence.JPA</name>
+      <display>Intent.Java.Persistence.JPA 5.0.2</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="9fc8634e-1b87-4274-8e69-3a757a712e84" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.Services</name>
+      <display>Intent.Java.Services 4.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e91c595f-fd3d-47ad-a0c2-241c5e8119df" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.Spring.Data.Repositories</name>
+      <display>Intent.Java.Spring.Data.Repositories 5.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="eedc9023-b0f9-4b0c-a9a1-88e6d6290c3e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Java.SpringBoot</name>
+      <display>Intent.Java.SpringBoot 4.0.2</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="5c0fbd9d-36d0-42e4-a9a0-c9e767f09e79" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Java.Weaving.Annotations</name>
       <display>Intent.Java.Weaving.Annotations 4.1.0</display>
       <isAbstract>false</isAbstract>
@@ -69,7 +1049,35 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f8c46e7f-6d59-4a17-9bd3-831875dd6f8c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b87cffd6-a430-4746-b2da-991029195831" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.MediatR.DomainEvents</name>
+      <display>Intent.MediatR.DomainEvents 5.2.4</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="014d3a12-e33b-46e3-85fe-d1d9bafb0da2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Metadata.DocumentDB</name>
+      <display>Intent.Metadata.DocumentDB 1.3.6</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="be3d7fef-6054-40e6-9d17-81310c7ebb00" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.RDBMS</name>
       <display>Intent.Metadata.RDBMS 3.7.9</display>
       <isAbstract>false</isAbstract>
@@ -83,7 +1091,7 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1b3a8d20-58d0-43a7-92fd-d283783f95a4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="fc7d455f-2443-426f-a917-508744d7675f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.Security</name>
       <display>Intent.Metadata.Security 1.1.2</display>
       <isAbstract>false</isAbstract>
@@ -97,7 +1105,7 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="26968d2e-d974-4dc0-b1b1-2df35d179be8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="50ab402b-58df-4edd-abd7-be9ecb97499c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.WebApi</name>
       <display>Intent.Metadata.WebApi 4.7.17</display>
       <isAbstract>false</isAbstract>
@@ -111,7 +1119,7 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="586b1f2b-deda-4059-ad54-733bfe9179a4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a82a186c-31d3-42d7-8d5a-1186e31fd114" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain</name>
       <display>Intent.Modelers.Domain 3.12.10</display>
       <isAbstract>false</isAbstract>
@@ -125,7 +1133,21 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d4c858cb-da99-475b-b4fd-f17e16e61498" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4f4c44da-7cf0-473b-ab58-77a989cb4e62" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Domain.Events</name>
+      <display>Intent.Modelers.Domain.Events 4.4.5</display>
+      <isAbstract>false</isAbstract>
+      <value>4.4.5</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="37ef1cc0-69f7-4358-8594-06e2229092e3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Repositories</name>
       <display>Intent.Modelers.Domain.Repositories 3.6.1</display>
       <isAbstract>false</isAbstract>
@@ -139,11 +1161,11 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d81c5d18-cc45-44af-81cb-a8b27334dba2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Modelers.Services</name>
-      <display>Intent.Modelers.Services 4.0.7</display>
+    <childElement id="2d1a293d-edad-4f52-8da2-a11faadd9c90" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Eventing</name>
+      <display>Intent.Modelers.Eventing 6.0.3</display>
       <isAbstract>false</isAbstract>
-      <value>4.0.7</value>
+      <value>6.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
@@ -153,11 +1175,291 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="4e6923ca-9161-40e4-8c1b-c91dc406edf7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Modelers.Services.DomainInteractions</name>
-      <display>Intent.Modelers.Services.DomainInteractions 2.3.9</display>
+    <childElement id="32d7c13b-0953-4dfa-a329-d5e5d79fea55" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.ServiceProxies</name>
+      <display>Intent.Modelers.ServiceProxies 5.2.3</display>
       <isAbstract>false</isAbstract>
-      <value>2.3.9</value>
+      <value>5.2.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="5f7cd4e2-51b4-4bf9-8a2c-d728e27b2376" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Services</name>
+      <display>Intent.Modelers.Services 4.0.8</display>
+      <isAbstract>false</isAbstract>
+      <value>4.0.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0b8d6489-9397-4892-b432-236540b8d8ac" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Services.CQRS</name>
+      <display>Intent.Modelers.Services.CQRS 6.0.4</display>
+      <isAbstract>false</isAbstract>
+      <value>6.0.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="572d7b87-ff4e-4d88-9a3c-1bc9038b41c1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Services.DomainInteractions</name>
+      <display>Intent.Modelers.Services.DomainInteractions 2.3.10</display>
+      <isAbstract>false</isAbstract>
+      <value>2.3.10</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e4b85cf6-48fc-437f-82bc-b156380aee5b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Services.EventInteractions</name>
+      <display>Intent.Modelers.Services.EventInteractions 2.0.4</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="40f2caec-dd7b-4c50-9da6-eb8dcd38dbbb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Services.GraphQL</name>
+      <display>Intent.Modelers.Services.GraphQL 1.1.0</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="c5a62df6-6ef4-4065-981c-fb745c9287fc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.Types.ServiceProxies</name>
+      <display>Intent.Modelers.Types.ServiceProxies 5.5.3</display>
+      <isAbstract>false</isAbstract>
+      <value>5.5.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="cc22878f-bc3a-4b28-9877-043faaf1431b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.UI</name>
+      <display>Intent.Modelers.UI 1.0.4</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="c249f862-796b-4906-92c7-2cbd636af61b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.UI.Core</name>
+      <display>Intent.Modelers.UI.Core 1.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f694eedc-ac81-4dab-a082-b3302d1f2125" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modelers.UI.ServiceProxies</name>
+      <display>Intent.Modelers.UI.ServiceProxies 1.0.0</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="af8c411b-9224-4073-8b96-013ea30d5350" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modules.AspNetCore.Logging.Serilog</name>
+      <display>Intent.Modules.AspNetCore.Logging.Serilog 5.3.4</display>
+      <isAbstract>false</isAbstract>
+      <value>5.3.4</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="e0c10bc5-9fea-4294-b9ef-22af85e8a2dc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modules.AspNetCore.MultiTenancy</name>
+      <display>Intent.Modules.AspNetCore.MultiTenancy 5.1.19</display>
+      <isAbstract>false</isAbstract>
+      <value>5.1.19</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="37985b08-036f-4264-a41f-5ec2b555f9a5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Modules.Modelers.Domain.StoredProcedures</name>
+      <display>Intent.Modules.Modelers.Domain.StoredProcedures 1.2.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.2.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="0bf1db40-8d04-40cf-83de-3e9b2b80e7c2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.MongoDb</name>
+      <display>Intent.MongoDb 2.0.7</display>
+      <isAbstract>false</isAbstract>
+      <value>2.0.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="897d11bd-efe2-45c6-af2e-1d0dc65a05a6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.OpenTelemetry</name>
+      <display>Intent.OpenTelemetry 2.2.14</display>
+      <isAbstract>false</isAbstract>
+      <value>2.2.14</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="72b4064f-81a1-4532-83cd-07dba489d3fa" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.OutputManager.RoslynWeaver</name>
+      <display>Intent.OutputManager.RoslynWeaver 4.9.16</display>
+      <isAbstract>false</isAbstract>
+      <value>4.9.16</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="459e0a64-e765-4bc1-b8f0-ac0777a15e91" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Redis.Om.Repositories</name>
+      <display>Intent.Redis.Om.Repositories 1.0.18</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.18</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="4fa85572-a689-4645-867a-93004e1b5071" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Security.JWT</name>
+      <display>Intent.Security.JWT 4.3.6</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f5d238c2-3ec7-4b01-aff4-edc8b0ba82ec" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Security.MSAL</name>
+      <display>Intent.Security.MSAL 4.3.6</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.6</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="6b00137f-a7c6-4b9f-b671-89b7a5bddde2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.VisualStudio.Projects</name>
+      <display>Intent.VisualStudio.Projects 3.9.8</display>
+      <isAbstract>false</isAbstract>
+      <value>3.9.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
+      <packageId>84eb6eb9-30f5-429d-bf3c-06591e639eec</packageId>
+      <packageName>Intent.Java.SpringBoot.WebApplication</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="1565ea80-2075-4b29-b33a-3b22799000c5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.WindowsServiceHost</name>
+      <display>Intent.WindowsServiceHost 1.0.15</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.15</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>93f8d0f7-6711-45e6-b04e-237a9281ea4a</parentFolderId>
