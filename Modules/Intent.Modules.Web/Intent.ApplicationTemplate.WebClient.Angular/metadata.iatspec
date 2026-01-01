@@ -102,4 +102,9 @@ Learn more:
     </group>
   </componentGroups>
   <additionalSettings />
+  <minimumDependencyVersions>
+    <module id="Intent.Code.Weaving.TypeScript" version="1.0.3-pre.0" />
+    <module id="Intent.Common" version="3.9.2" />
+    <module id="Intent.Common.AI" version="1.0.0" />
+  </minimumDependencyVersions>
 </applicationTemplate>
