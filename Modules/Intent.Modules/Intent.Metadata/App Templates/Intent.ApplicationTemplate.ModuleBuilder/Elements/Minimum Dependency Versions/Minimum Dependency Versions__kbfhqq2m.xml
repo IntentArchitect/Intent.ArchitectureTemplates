@@ -13,1584 +13,1358 @@
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="3c04565a-0408-4388-9980-0fe32f19f29a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="96986d7f-bf8f-4fc9-9b50-949096138da4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts</name>
-      <display>Intent.Application.Contracts 5.1.2</display>
+      <display>Intent.Application.Contracts</display>
       <isAbstract>false</isAbstract>
       <value>5.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2c5a1e44-bb9c-42db-b818-ef4e1996786a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="cb4e7862-6ac7-4da7-9328-af120b52247b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts.Clients</name>
-      <display>Intent.Application.Contracts.Clients 5.1.6</display>
+      <display>Intent.Application.Contracts.Clients</display>
       <isAbstract>false</isAbstract>
       <value>5.1.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2aa9589e-7763-4518-a9e0-12302e9708c6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="af9f790f-fa42-48ae-b05a-3954c29a284e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DependencyInjection</name>
-      <display>Intent.Application.DependencyInjection 4.1.13</display>
+      <display>Intent.Application.DependencyInjection</display>
       <isAbstract>false</isAbstract>
       <value>4.1.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8dc923c6-257f-41fd-8393-1da3fa86ac39" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9d3c5e87-d17b-48fd-94b2-20ef9da7d8fe" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DependencyInjection.MediatR</name>
-      <display>Intent.Application.DependencyInjection.MediatR 3.6.3</display>
+      <display>Intent.Application.DependencyInjection.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>3.6.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="59870d05-c04e-4019-8e91-44cc27fb4a61" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f61bc965-fc2b-422e-a7d0-c6cfef6ada76" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DomainInteractions</name>
-      <display>Intent.Application.DomainInteractions 1.1.9</display>
+      <display>Intent.Application.DomainInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>1.1.9</value>
+      <value>1.1.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d0fa2bc2-d2ba-47cd-95f8-de7a8ceb7cd5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b57aadbf-4cde-423b-af32-e18ce72b2f8a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Dtos</name>
-      <display>Intent.Application.Dtos 4.4.7</display>
+      <display>Intent.Application.Dtos</display>
       <isAbstract>false</isAbstract>
       <value>4.4.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="7a345b83-c173-48a4-b794-e9886cd8190f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="bdc77f48-0d4d-4920-9121-c786c4f7d0c8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Dtos.Pagination</name>
-      <display>Intent.Application.Dtos.Pagination 4.1.4</display>
+      <display>Intent.Application.Dtos.Pagination</display>
       <isAbstract>false</isAbstract>
-      <value>4.1.4</value>
+      <value>4.1.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="7f56a3ad-3147-43af-b6ae-228117660e81" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="610f41f1-8382-4652-9e83-71c28d942a65" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.FluentValidation</name>
-      <display>Intent.Application.FluentValidation 3.11.6</display>
+      <display>Intent.Application.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>3.11.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3ef0ef97-8837-4100-bda9-e95430d54a1a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="ef5eb544-09fe-4a0c-b782-278fd3e142a4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.FluentValidation.Dtos</name>
-      <display>Intent.Application.FluentValidation.Dtos 3.12.5</display>
+      <display>Intent.Application.FluentValidation.Dtos</display>
       <isAbstract>false</isAbstract>
       <value>3.12.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8c29d6c6-fcbf-4be1-92a1-90bf01c1dfe3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6139fe3f-5e2d-4b9c-9585-7a651b684620" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Identity</name>
-      <display>Intent.Application.Identity 3.6.1</display>
+      <display>Intent.Application.Identity</display>
       <isAbstract>false</isAbstract>
-      <value>3.6.1</value>
+      <value>3.6.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3c77249c-9179-4700-b30f-c59ce48b8d49" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="cf2764da-e4e0-45fc-bf79-f8512fb1f181" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR</name>
-      <display>Intent.Application.MediatR 4.5.3</display>
+      <display>Intent.Application.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>4.5.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="70351feb-34c7-4fc7-b924-36975166fa33" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="cda8d8c8-badd-4d28-9bdb-71e29b758bed" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.Behaviours</name>
-      <display>Intent.Application.MediatR.Behaviours 4.6.0</display>
+      <display>Intent.Application.MediatR.Behaviours</display>
       <isAbstract>false</isAbstract>
       <value>4.6.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="23166673-3d1e-4c25-8b9d-a1450ffb1c63" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="64bd73ec-c90b-41e2-b834-d135cacc1046" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD</name>
-      <display>Intent.Application.MediatR.CRUD 7.1.3</display>
+      <display>Intent.Application.MediatR.CRUD</display>
       <isAbstract>false</isAbstract>
       <value>7.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b95c1c10-a364-4d86-8c37-8bdd6e1479a9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="c3e777c2-614f-4984-96ce-51135ab456aa" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD.Eventing</name>
-      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <display>Intent.Application.MediatR.CRUD.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>5.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6a2e96f0-5647-444d-a437-0eb336e7378c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="be3ad146-6d12-4312-b94f-808ba80677da" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD.Tests</name>
-      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <display>Intent.Application.MediatR.CRUD.Tests</display>
       <isAbstract>false</isAbstract>
       <value>1.3.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0e110d9b-12f9-4368-aa98-772ebecee210" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3135e4c0-0d77-46a0-9fd1-4be112590420" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
-      <display>Intent.Application.MediatR.FluentValidation 4.9.6</display>
+      <display>Intent.Application.MediatR.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>4.9.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f723231c-882b-4d69-bb21-ef8117514065" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5334ba71-644b-4175-b4dd-f6c3166869c7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
-      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="be1ac309-9c4c-49f7-88d2-5f57441e4c8f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1ba94995-ac9b-4353-8e58-07b1628258b8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore</name>
-      <display>Intent.AspNetCore 6.1.4</display>
+      <display>Intent.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>6.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="205a7a2c-82e0-4442-a106-005b02165ace" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="803d38f4-1d87-4138-bff7-077d65855f83" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers</name>
-      <display>Intent.AspNetCore.Controllers 7.1.8</display>
+      <display>Intent.AspNetCore.Controllers</display>
       <isAbstract>false</isAbstract>
       <value>7.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c02ada15-b7c5-4031-a6c4-f8d089d55acc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b73d0904-1d8d-4d7c-97ac-7d2a9df269a7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers.Dispatch.MediatR</name>
-      <display>Intent.AspNetCore.Controllers.Dispatch.MediatR 6.1.2</display>
+      <display>Intent.AspNetCore.Controllers.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>6.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="97ca1aa8-dfc8-41bc-b570-f3277679b895" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="91e18a56-09a5-4e34-9e30-7a14839cecd2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</name>
-      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract 5.2.19</display>
+      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</display>
       <isAbstract>false</isAbstract>
       <value>5.2.19</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8b6edec9-f3af-4bd4-b148-8df868e4d655" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="aabff505-cf2f-44c5-b611-006afc073b73" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.HealthChecks</name>
-      <display>Intent.AspNetCore.HealthChecks 2.0.13</display>
+      <display>Intent.AspNetCore.HealthChecks</display>
       <isAbstract>false</isAbstract>
       <value>2.0.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cbbde7b3-e805-491d-86bf-99d3c1473f24" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="01c8486b-824b-4209-8020-fbf26a96df65" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Interop.Angular</name>
-      <display>Intent.AspNetCore.Interop.Angular 4.0.3</display>
+      <display>Intent.AspNetCore.Interop.Angular</display>
       <isAbstract>false</isAbstract>
       <value>4.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="59425b79-d41c-45a5-9295-3c13f9f9a98e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4645b9ab-9d6c-4613-a1e2-bbe16fb5a40e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.SignalR</name>
-      <display>Intent.AspNetCore.SignalR 1.0.8</display>
+      <display>Intent.AspNetCore.SignalR</display>
       <isAbstract>false</isAbstract>
       <value>1.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="dcc684ce-9cf2-402c-8242-badb124801cf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="806400a5-b7bf-4178-b68b-bbf5e0e502b3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Swashbuckle</name>
-      <display>Intent.AspNetCore.Swashbuckle 5.2.1</display>
+      <display>Intent.AspNetCore.Swashbuckle</display>
       <isAbstract>false</isAbstract>
-      <value>5.2.1</value>
+      <value>5.2.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b65b5026-da5d-445a-b9fd-b99fa9b7b3fb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="8f22a98e-b052-4205-8941-c8aaa04a6169" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Swashbuckle.Security</name>
-      <display>Intent.AspNetCore.Swashbuckle.Security 4.0.11</display>
+      <display>Intent.AspNetCore.Swashbuckle.Security</display>
       <isAbstract>false</isAbstract>
       <value>4.0.11</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b108aaeb-e302-47e0-ac96-14b1ae2e0ffe" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e8aaa038-17b2-4337-834a-cf8cee70d19e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Common</name>
-      <display>Intent.Aws.Common 1.0.6</display>
+      <display>Intent.Aws.Common</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1bca8cf5-d69c-462d-ba5f-cdeba791a4bc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e8961666-58c9-44cd-9e33-a483077b5ebc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions</name>
-      <display>Intent.Aws.Lambda.Functions 1.0.5</display>
+      <display>Intent.Aws.Lambda.Functions</display>
       <isAbstract>false</isAbstract>
       <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b32e37fa-43f6-4c0b-bde8-778b2fa463eb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5f186677-52e5-4bab-ab48-87e133a6a3f1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Dispatch.MediatR</name>
-      <display>Intent.Aws.Lambda.Functions.Dispatch.MediatR 1.0.1</display>
+      <display>Intent.Aws.Lambda.Functions.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>1.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="4379dd55-7154-4d92-937c-484db544a88e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="acddc23c-0bb7-435e-a77f-0358cde56fac" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Dispatch.Services</name>
-      <display>Intent.Aws.Lambda.Functions.Dispatch.Services 1.0.2</display>
+      <display>Intent.Aws.Lambda.Functions.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>1.0.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2f0e59eb-24b9-46c6-8767-0127886b9b55" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1bdb5332-df96-4a2f-a90b-f153a0787706" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Sqs</name>
-      <display>Intent.Aws.Lambda.Functions.Sqs 1.1.0</display>
+      <display>Intent.Aws.Lambda.Functions.Sqs</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="666e2765-4ac9-45f5-b7fa-41ad52d63e3b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e271d407-1003-4920-b5f5-e2fc4c185ecb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Sqs</name>
-      <display>Intent.Aws.Sqs 1.1.0</display>
+      <display>Intent.Aws.Sqs</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="162c99ce-9a93-40ba-8078-034200465fa8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="81ffdb63-666c-4146-8dc6-1bfe8b4177ca" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Azure.KeyVault</name>
-      <display>Intent.Azure.KeyVault 2.0.18</display>
+      <display>Intent.Azure.KeyVault</display>
       <isAbstract>false</isAbstract>
       <value>2.0.18</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="45b2ff46-3883-4c0a-8e45-f725b22eeef6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f2e4d585-ff3c-4484-bb0e-60a9969dafa4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Azure.TableStorage</name>
-      <display>Intent.Azure.TableStorage 1.0.0</display>
+      <display>Intent.Azure.TableStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fc64119a-0f0d-4df7-915e-d6fc9454b98f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b16d6237-1d10-4d1a-9f40-3d27e038c514" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions</name>
-      <display>Intent.AzureFunctions 5.0.22</display>
+      <display>Intent.AzureFunctions</display>
       <isAbstract>false</isAbstract>
       <value>5.0.22</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8b65135d-14de-455e-9bb0-1ae77101b9f0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9e0ce18a-01dc-4d7c-87dd-99702ab1a958" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureEventGrid</name>
-      <display>Intent.AzureFunctions.AzureEventGrid 1.2.0</display>
+      <display>Intent.AzureFunctions.AzureEventGrid</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="337d414c-645f-4874-a78f-4188acde0733" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="600ac4e4-dae1-4beb-97cf-9dc57b80726e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureQueueStorage</name>
-      <display>Intent.AzureFunctions.AzureQueueStorage 1.1.0</display>
+      <display>Intent.AzureFunctions.AzureQueueStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2a9eb96e-453b-4277-bbf7-40b65a086cdb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f106f5fe-6bb3-4ea7-9c51-e679fedb7c7c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureServiceBus</name>
-      <display>Intent.AzureFunctions.AzureServiceBus 1.1.0</display>
+      <display>Intent.AzureFunctions.AzureServiceBus</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6fe8f0eb-e4ba-4b8a-a3e9-a967ee24ccb4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0558b798-9f62-4640-8a0c-d0f9e16346a9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.Dispatch.MediatR</name>
-      <display>Intent.AzureFunctions.Dispatch.MediatR 2.0.4</display>
+      <display>Intent.AzureFunctions.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>2.0.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8728528c-5a67-4c46-8cf4-23dac554998e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="784a9c52-6008-4534-947c-a1078874c8bb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.Dispatch.Services</name>
-      <display>Intent.AzureFunctions.Dispatch.Services 5.0.5</display>
+      <display>Intent.AzureFunctions.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>5.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c03480f5-0f64-4f84-9ee6-421b5921cc63" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4cafd37a-64bd-45b7-98c6-23609d5f5771" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.FluentValidation</name>
-      <display>Intent.AzureFunctions.FluentValidation 5.1.4</display>
+      <display>Intent.AzureFunctions.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>5.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e96a02fa-dcd5-439c-ab6e-de5668976d62" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="37a652d5-19ba-41c1-98e8-ddfff77ba228" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.OpenApi</name>
-      <display>Intent.AzureFunctions.OpenApi 2.0.9</display>
+      <display>Intent.AzureFunctions.OpenApi</display>
       <isAbstract>false</isAbstract>
       <value>2.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="68b948bc-1b24-44f6-b4f5-fdd8791f8ecd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3147d135-ac1e-4f23-b1fe-ee36437d5dc6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor</name>
-      <display>Intent.Blazor 1.0.8</display>
+      <display>Intent.Blazor</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.8</value>
+      <value>1.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="223acb25-d8b9-4200-868b-bb9f9989d4c7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e53698d3-73cc-4597-b9cf-0f70a1f13319" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor.Components.MudBlazor</name>
-      <display>Intent.Blazor.Components.MudBlazor 1.0.7</display>
+      <display>Intent.Blazor.Components.MudBlazor</display>
       <isAbstract>false</isAbstract>
       <value>1.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e55ca2e1-ee77-4d8e-a8c7-87274dc0217a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a959b100-7e15-4351-a054-c95d1115aa08" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Code.Weaving.Razor</name>
-      <display>Intent.Code.Weaving.Razor 2.0.3</display>
+      <display>Intent.Code.Weaving.Razor</display>
       <isAbstract>false</isAbstract>
       <value>2.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="dcafee3d-1797-4c37-9dd3-9d4dac0761cf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="df34cf3d-164a-45a8-ba30-c2f455f007fa" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common</name>
-      <display>Intent.Common 3.9.2</display>
+      <display>Intent.Common</display>
       <isAbstract>false</isAbstract>
       <value>3.9.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="4238e8da-603d-4347-9c11-c10401562d69" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6053f61d-2eb4-4b33-b170-b79b9ffecb16" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.CSharp</name>
-      <display>Intent.Common.CSharp 3.9.12</display>
+      <display>Intent.Common.CSharp</display>
       <isAbstract>false</isAbstract>
-      <value>3.9.12</value>
+      <value>3.9.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5aed2b49-80e1-4554-98ed-ff799543f390" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4bae1533-fd39-4e87-b66a-e2fe4b3ab9b8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.Java</name>
-      <display>Intent.Common.Java 4.1.2</display>
+      <display>Intent.Common.Java</display>
       <isAbstract>false</isAbstract>
       <value>4.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="7ddf30d0-0583-4128-9fb7-4087f8238213" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0896e966-56db-4456-95a7-7244125e58f1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.Types</name>
-      <display>Intent.Common.Types 4.1.2</display>
+      <display>Intent.Common.Types</display>
       <isAbstract>false</isAbstract>
       <value>4.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="07042bbf-78ac-4de0-aa8e-d76102284efe" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="c6b993d8-393b-48dd-bddc-7966c5ccceb0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.TypeScript</name>
-      <display>Intent.Common.TypeScript 4.1.2</display>
+      <display>Intent.Common.TypeScript</display>
       <isAbstract>false</isAbstract>
-      <value>4.1.2</value>
+      <value>4.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="831f0765-ba05-43d5-b8b1-9b8635f60f3f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5d18369e-1eb7-4966-a437-d9f3d5e23a4e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.UnitOfWork</name>
-      <display>Intent.Common.UnitOfWork 1.0.3</display>
+      <display>Intent.Common.UnitOfWork</display>
       <isAbstract>false</isAbstract>
       <value>1.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="52017951-850a-4e73-be52-ba959641d063" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="bf374e36-d30a-488d-be74-6850a305f12b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.CosmosDB</name>
-      <display>Intent.CosmosDB 1.2.24</display>
+      <display>Intent.CosmosDB</display>
       <isAbstract>false</isAbstract>
       <value>1.2.24</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2752c710-7f8e-4d8b-a91a-0673b4d6c9ea" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="72b10e6e-b627-4d4d-a991-5de038afe563" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore</name>
-      <display>Intent.Dapr.AspNetCore 2.0.13</display>
+      <display>Intent.Dapr.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>2.0.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="df1ab99a-6cd2-4149-8ddc-fca43be506b0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3796998f-2fae-4200-98ad-5258448f0342" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Configuration</name>
-      <display>Intent.Dapr.AspNetCore.Configuration 1.1.8</display>
+      <display>Intent.Dapr.AspNetCore.Configuration</display>
       <isAbstract>false</isAbstract>
       <value>1.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6a552dbe-0783-40c9-a496-5f7feaacdd4c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e41b8618-0409-466f-a27e-21331dce38e9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Pubsub</name>
-      <display>Intent.Dapr.AspNetCore.Pubsub 3.1.0</display>
+      <display>Intent.Dapr.AspNetCore.Pubsub</display>
       <isAbstract>false</isAbstract>
       <value>3.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="babfdc90-13fa-4b1a-b7b7-47b834ad08e1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9d0447e6-ce5a-4328-86e9-72a7f5b20c3e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Secrets</name>
-      <display>Intent.Dapr.AspNetCore.Secrets 1.1.8</display>
+      <display>Intent.Dapr.AspNetCore.Secrets</display>
       <isAbstract>false</isAbstract>
       <value>1.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cc1ed57a-4a33-4c2b-9f3f-eea8e13e9818" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="397f06ed-26e9-474c-8033-747904175507" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.ServiceInvocation</name>
-      <display>Intent.Dapr.AspNetCore.ServiceInvocation 2.2.29</display>
+      <display>Intent.Dapr.AspNetCore.ServiceInvocation</display>
       <isAbstract>false</isAbstract>
       <value>2.2.29</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="803593af-3d64-4841-8897-ba104782eedc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1d46b62b-aac9-4f8e-82df-39eabbd8fb9e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.StateManagement</name>
-      <display>Intent.Dapr.AspNetCore.StateManagement 1.2.17</display>
+      <display>Intent.Dapr.AspNetCore.StateManagement</display>
       <isAbstract>false</isAbstract>
       <value>1.2.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0d20e843-bbfb-4c39-8c87-f47e6cd9992e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a7845d3a-a939-4d58-b06a-bf751f20744b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.DocumentDB.Dtos.AutoMapper</name>
-      <display>Intent.DocumentDB.Dtos.AutoMapper 1.0.6</display>
+      <display>Intent.DocumentDB.Dtos.AutoMapper</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e6b7ceda-8cce-4260-b2b0-1b9332b78429" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e7224727-2d1e-430a-a167-364f7480b68b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.DomainEvents</name>
-      <display>Intent.DomainEvents 5.0.12</display>
+      <display>Intent.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>5.0.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="eb814a20-8cc3-46da-b263-6a295217bdf9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="271b1560-b3fa-4f0e-aa76-01270bd254de" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities</name>
-      <display>Intent.Entities 5.1.15</display>
+      <display>Intent.Entities</display>
       <isAbstract>false</isAbstract>
-      <value>5.1.15</value>
+      <value>5.1.16</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="ce3b6f26-a410-457c-8a93-d794c083a682" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="edc4565a-259d-4fe5-8d6e-4327320de10b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities.Constants</name>
-      <display>Intent.Entities.Constants 1.0.6</display>
+      <display>Intent.Entities.Constants</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="70b99673-816d-4bd0-80ac-a8f0a73c8027" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2be01853-9117-4424-9101-039a02e57fd8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities.Repositories.Api</name>
-      <display>Intent.Entities.Repositories.Api 5.1.10</display>
+      <display>Intent.Entities.Repositories.Api</display>
       <isAbstract>false</isAbstract>
       <value>5.1.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8e187135-f1e2-4d05-8f69-4f1c33aa7a2f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b5590251-1a9b-4e9a-8635-e0f8f77b3b4d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore</name>
-      <display>Intent.EntityFrameworkCore 5.0.35</display>
+      <display>Intent.EntityFrameworkCore</display>
       <isAbstract>false</isAbstract>
       <value>5.0.35</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="55665002-7e0e-4092-a31e-f8b28d88bad1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="bac815f8-a12f-40a1-bcd8-772070932d7c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</name>
-      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory 4.2.15</display>
+      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</display>
       <isAbstract>false</isAbstract>
       <value>4.2.15</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="bdd7200d-8cb7-47ed-be23-658616a681ed" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="060df8c3-b9fc-4431-bbe3-2b36423444d5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.Interop.DomainEvents</name>
-      <display>Intent.EntityFrameworkCore.Interop.DomainEvents 4.1.4</display>
+      <display>Intent.EntityFrameworkCore.Interop.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>4.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="98b22386-f471-48b1-85a3-53c554485754" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a8f9addc-77a9-48cc-9ce3-98f8613a5e69" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.Repositories</name>
-      <display>Intent.EntityFrameworkCore.Repositories 4.7.17</display>
+      <display>Intent.EntityFrameworkCore.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>4.7.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5c236965-fbcf-40a1-9ecb-c5f4fa985989" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1516a4df-ad7f-4f91-918d-ff56aa98812b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureEventGrid</name>
-      <display>Intent.Eventing.AzureEventGrid 1.3.0</display>
+      <display>Intent.Eventing.AzureEventGrid</display>
       <isAbstract>false</isAbstract>
       <value>1.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="579aeaf1-2ef0-4395-9cdb-47019f9f20c6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="83727c0e-5263-4cea-b5a0-de6061c42f28" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureQueueStorage</name>
-      <display>Intent.Eventing.AzureQueueStorage 1.1.0</display>
+      <display>Intent.Eventing.AzureQueueStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="afc66ad8-1008-448f-a9f7-f87a74486e99" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="17ce43fd-ded5-46b0-abed-565ccd147e02" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureServiceBus</name>
-      <display>Intent.Eventing.AzureServiceBus 1.2.0</display>
+      <display>Intent.Eventing.AzureServiceBus</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1e0c89f3-7cc5-4bf5-9403-8a2603f31bef" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="47c2eb1c-6b7a-451d-a48f-331724973e0e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Contracts</name>
-      <display>Intent.Eventing.Contracts 6.1.0</display>
+      <display>Intent.Eventing.Contracts</display>
       <isAbstract>false</isAbstract>
-      <value>6.1.0</value>
+      <value>6.1.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8ee61d32-9b16-4cf4-929a-03a758c07b8c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2aade6b7-8628-4c59-b4cd-1adccd79c512" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Contracts.DomainMapping</name>
-      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <display>Intent.Eventing.Contracts.DomainMapping</display>
       <isAbstract>false</isAbstract>
       <value>4.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="50fa90a1-674a-40cf-8f3c-ca762a135d53" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0273915e-fbf7-4c43-b4fe-062a01ce1e15" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
-      <display>Intent.Eventing.Kafka 1.1.0</display>
+      <display>Intent.Eventing.Kafka</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5bdd3bc1-f355-48c1-b6c4-1e2d0be5c0dc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="80995357-5919-40da-9a9c-df4fecc4afc1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit</name>
-      <display>Intent.Eventing.MassTransit 7.1.0</display>
+      <display>Intent.Eventing.MassTransit</display>
       <isAbstract>false</isAbstract>
       <value>7.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="98b5e4e1-767a-4d7d-80a8-b8c2df2d473d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="fd06d3e0-a715-40d5-bfac-a50e3358c0c3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit.EntityFrameworkCore</name>
-      <display>Intent.Eventing.MassTransit.EntityFrameworkCore 5.3.0</display>
+      <display>Intent.Eventing.MassTransit.EntityFrameworkCore</display>
       <isAbstract>false</isAbstract>
       <value>5.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3479d454-5869-4845-aeb8-d58a314541cd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="14075ae9-004d-4226-abd8-63b45b9a063e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit.RequestResponse</name>
-      <display>Intent.Eventing.MassTransit.RequestResponse 1.2.0</display>
+      <display>Intent.Eventing.MassTransit.RequestResponse</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="21be16eb-eb17-48eb-a71b-1fcae0986e38" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4e11478d-92a1-4dfd-bc0b-0f60e6edf363" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Solace</name>
-      <display>Intent.Eventing.Solace 2.1.0</display>
+      <display>Intent.Eventing.Solace</display>
       <isAbstract>false</isAbstract>
       <value>2.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="435a92af-71f7-48f3-91cb-838316fc327f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9ff16127-cf34-4005-ad06-eb21c88cf403" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL</name>
-      <display>Intent.HotChocolate.GraphQL 5.0.9</display>
+      <display>Intent.HotChocolate.GraphQL</display>
       <isAbstract>false</isAbstract>
       <value>5.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6d529fa9-be2d-462a-ae9c-25fc7deced5b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="11ddad97-5cc6-42c8-9543-e7763f168b4c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.AspNetCore</name>
-      <display>Intent.HotChocolate.GraphQL.AspNetCore 6.0.7</display>
+      <display>Intent.HotChocolate.GraphQL.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>6.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fcc68d54-27e2-4c8d-84d4-4aa66808f3a2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="dc902678-6707-480f-932e-18d3377b643f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.AzureFunctions</name>
-      <display>Intent.HotChocolate.GraphQL.AzureFunctions 2.0.7</display>
+      <display>Intent.HotChocolate.GraphQL.AzureFunctions</display>
       <isAbstract>false</isAbstract>
       <value>2.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b09dcb01-33a2-4733-824c-b8d57889979b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="588d8afa-fa36-4fb6-a119-dc1f24be8a97" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.Dispatch.MediatR</name>
-      <display>Intent.HotChocolate.GraphQL.Dispatch.MediatR 2.0.1</display>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>2.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5a498651-cc7f-4030-989b-0693c1ba3205" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2a256d31-5799-4f29-b8d4-f3e1a403a07d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.Dispatch.Services</name>
-      <display>Intent.HotChocolate.GraphQL.Dispatch.Services 2.0.1</display>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>2.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8efe2e3d-87b3-4c59-890b-53f2ad98e57d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a3137807-3d37-4e9e-b4c1-6860966d328f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.MediatR.DomainEvents</name>
-      <display>Intent.MediatR.DomainEvents 5.2.4</display>
+      <display>Intent.MediatR.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>5.2.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1b4a56ff-9402-4547-b2fe-fcaa27b15d29" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="aa04603a-7401-4b99-a798-f81087f49c1b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.DocumentDB</name>
-      <display>Intent.Metadata.DocumentDB 1.3.6</display>
+      <display>Intent.Metadata.DocumentDB</display>
       <isAbstract>false</isAbstract>
       <value>1.3.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e6c01796-ba43-43b6-9878-a04dc29c0b18" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="58d83125-36a9-4564-aed2-e4bd7c38fda3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.RDBMS</name>
-      <display>Intent.Metadata.RDBMS 3.7.9</display>
+      <display>Intent.Metadata.RDBMS</display>
       <isAbstract>false</isAbstract>
-      <value>3.7.9</value>
+      <value>3.7.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2a9845cb-4506-4ecf-ac5c-6a839be35ec3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="995f0843-2368-4f00-b43d-37f5cfdd0c89" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.Security</name>
-      <display>Intent.Metadata.Security 1.1.2</display>
+      <display>Intent.Metadata.Security</display>
       <isAbstract>false</isAbstract>
       <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cabaeac5-13e8-4cab-945c-a4fc9e0f54e0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="035caa9a-860b-4962-b5e0-11c1f7159fc3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.WebApi</name>
-      <display>Intent.Metadata.WebApi 4.7.17</display>
+      <display>Intent.Metadata.WebApi</display>
       <isAbstract>false</isAbstract>
       <value>4.7.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="34ba3b2e-b1be-4359-9e58-08b4c3e366a1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6d5254ea-5429-45e1-ac08-5a5e3e2fc8e2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain</name>
-      <display>Intent.Modelers.Domain 3.12.11</display>
+      <display>Intent.Modelers.Domain</display>
       <isAbstract>false</isAbstract>
-      <value>3.12.11</value>
+      <value>3.12.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f3d38bec-9f59-4d3a-8b72-19f75f09672a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e70b3072-c65c-4998-8479-8cd76d8a78ce" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Events</name>
-      <display>Intent.Modelers.Domain.Events 4.4.5</display>
+      <display>Intent.Modelers.Domain.Events</display>
       <isAbstract>false</isAbstract>
       <value>4.4.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3fed3058-c461-4a1d-8f4b-2d875938fdcc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e18eb46f-feb3-4c31-a327-b438365aaaec" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Repositories</name>
-      <display>Intent.Modelers.Domain.Repositories 3.6.1</display>
+      <display>Intent.Modelers.Domain.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>3.6.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fce342a2-fb5c-43d7-a76d-0074624d36f5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="01b86db0-60de-4452-83ce-2aa612843356" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Eventing</name>
-      <display>Intent.Modelers.Eventing 6.0.3</display>
+      <display>Intent.Modelers.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>6.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="33803f60-4dbd-4880-b35c-df3dad3a904f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="71acc597-4e33-4084-beae-bcd143116932" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.ServiceProxies</name>
-      <display>Intent.Modelers.ServiceProxies 5.2.3</display>
+      <display>Intent.Modelers.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>5.2.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="ca432a4e-6022-4f04-8ffb-1bc5ab426c14" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="cb9bbaa7-8bd9-40af-9d90-77b94e67a9b9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services</name>
-      <display>Intent.Modelers.Services 4.0.8</display>
+      <display>Intent.Modelers.Services</display>
       <isAbstract>false</isAbstract>
       <value>4.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f8b778d6-ba15-4876-89f3-13163f1282fd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="fd1ff12d-0212-4a7a-9fc5-97492a6090d3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.CQRS</name>
-      <display>Intent.Modelers.Services.CQRS 6.0.4</display>
+      <display>Intent.Modelers.Services.CQRS</display>
       <isAbstract>false</isAbstract>
-      <value>6.0.4</value>
+      <value>6.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1c265830-bfa5-4223-8263-c4d1a0d492c7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="fce7b10c-9130-4404-a0b5-a16a6c03b95a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.DomainInteractions</name>
-      <display>Intent.Modelers.Services.DomainInteractions 2.3.11</display>
+      <display>Intent.Modelers.Services.DomainInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>2.3.11</value>
+      <value>2.3.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="a1e14852-4104-4691-858d-181c859a32c6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="61b367f8-2ad0-4d42-be55-ebd21baf65d2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.EventInteractions</name>
-      <display>Intent.Modelers.Services.EventInteractions 2.0.4</display>
+      <display>Intent.Modelers.Services.EventInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>2.0.4</value>
+      <value>2.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="21075b9f-b5d5-4ab5-8b64-c3a29b0d329c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="456b59b1-9a99-4ec7-a39d-32f6edafa5c1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.GraphQL</name>
-      <display>Intent.Modelers.Services.GraphQL 1.1.0</display>
+      <display>Intent.Modelers.Services.GraphQL</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fc7be8e9-dae9-40c4-83a3-e38226fa100f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="60488ea1-45cb-4bb4-99d0-173097bed761" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Types.ServiceProxies</name>
-      <display>Intent.Modelers.Types.ServiceProxies 5.5.3</display>
+      <display>Intent.Modelers.Types.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>5.5.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f5dd588b-f655-4407-835b-3ce61743959b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f3b3d427-87a4-4541-ba87-5f70db632f55" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI</name>
-      <display>Intent.Modelers.UI 1.0.4</display>
+      <display>Intent.Modelers.UI</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.4</value>
+      <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="10a12be4-cd27-4b9a-8306-925d61c2a310" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="727514a9-d9e3-428c-9d45-4e56bf3e9050" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI.Core</name>
-      <display>Intent.Modelers.UI.Core 1.0.0</display>
+      <display>Intent.Modelers.UI.Core</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f3658468-4701-4b0c-90ac-22116f8d8ec6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5e30f5cf-05e4-4962-9fa8-52499ba7c04c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI.ServiceProxies</name>
-      <display>Intent.Modelers.UI.ServiceProxies 1.0.0</display>
+      <display>Intent.Modelers.UI.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="bf42b0e7-3f1f-4e23-b813-2af8154562f0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="86815746-c324-4379-b070-e25e519a0a23" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.ModuleBuilder</name>
-      <display>Intent.ModuleBuilder 3.18.1</display>
+      <display>Intent.ModuleBuilder</display>
       <isAbstract>false</isAbstract>
-      <value>3.18.1</value>
+      <value>3.18.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d2dd84e0-a91c-49a1-88e3-e840b72d65aa" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7cb5fe85-8e2f-4272-8371-464f3b630a92" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.AspNetCore.Logging.Serilog</name>
-      <display>Intent.Modules.AspNetCore.Logging.Serilog 5.3.5</display>
+      <display>Intent.Modules.AspNetCore.Logging.Serilog</display>
       <isAbstract>false</isAbstract>
       <value>5.3.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f74b8093-346d-4339-9f99-0f06fc4739df" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7fecd78e-55b5-4b35-950e-e8b7b0f84e03" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.AspNetCore.MultiTenancy</name>
-      <display>Intent.Modules.AspNetCore.MultiTenancy 5.1.20</display>
+      <display>Intent.Modules.AspNetCore.MultiTenancy</display>
       <isAbstract>false</isAbstract>
       <value>5.1.20</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cc264fd5-1b9a-4f44-9d8d-0ef55eca3001" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b27a704c-c8d4-4e33-b846-30f78b7b06e1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.Modelers.Domain.StoredProcedures</name>
-      <display>Intent.Modules.Modelers.Domain.StoredProcedures 1.2.2</display>
+      <display>Intent.Modules.Modelers.Domain.StoredProcedures</display>
       <isAbstract>false</isAbstract>
-      <value>1.2.2</value>
+      <value>1.2.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e625c66f-2f53-4cd3-bbca-435814c9c3bf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3700e022-cbcb-4212-8bd5-9e2b8c669ed3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.MongoDb</name>
-      <display>Intent.MongoDb 2.0.8</display>
+      <display>Intent.MongoDb</display>
       <isAbstract>false</isAbstract>
       <value>2.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="806b90d5-10b1-499e-9005-ed2ed3140242" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9357e0e2-8cb8-4884-98d0-46109a0b135e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OpenTelemetry</name>
-      <display>Intent.OpenTelemetry 2.2.14</display>
+      <display>Intent.OpenTelemetry</display>
       <isAbstract>false</isAbstract>
       <value>2.2.14</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="76378aa9-db85-4e6f-8522-3ab1b77cabc2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1ebe5360-e52b-4a85-b5c2-ee2a3557843e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OutputManager.RoslynWeaver</name>
-      <display>Intent.OutputManager.RoslynWeaver 4.9.16</display>
+      <display>Intent.OutputManager.RoslynWeaver</display>
       <isAbstract>false</isAbstract>
       <value>4.9.16</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cb8e1336-d34e-42cc-9c1a-b13a10798a7c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="87e41b7a-8b6c-40e4-8ac5-b5c330d036d3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Redis.Om.Repositories</name>
-      <display>Intent.Redis.Om.Repositories 1.0.19</display>
+      <display>Intent.Redis.Om.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>1.0.19</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c5312204-2c78-4594-8698-e8e44b38fc3d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f3db7011-ba94-4ceb-98b6-4e662973d242" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Security.JWT</name>
-      <display>Intent.Security.JWT 4.3.6</display>
+      <display>Intent.Security.JWT</display>
       <isAbstract>false</isAbstract>
       <value>4.3.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5607eff7-393f-466d-95c6-bbb852fbb335" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6a4a4c34-911e-4fc4-8840-cd0961a45ead" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Security.MSAL</name>
-      <display>Intent.Security.MSAL 4.3.7</display>
+      <display>Intent.Security.MSAL</display>
       <isAbstract>false</isAbstract>
       <value>4.3.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6cc7bc57-2a99-40a7-80c0-002560afed31" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b5f8bde3-1ce9-45b4-b60d-2a472083f629" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.VisualStudio.Projects</name>
-      <display>Intent.VisualStudio.Projects 3.9.9</display>
+      <display>Intent.VisualStudio.Projects</display>
       <isAbstract>false</isAbstract>
-      <value>3.9.9</value>
+      <value>3.9.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="9f1ba4cc-0a01-45f6-9835-5b8d70d4b4c1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="c8f8e100-7145-4f51-b1f0-83f869843473" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.WindowsServiceHost</name>
-      <display>Intent.WindowsServiceHost 1.0.15</display>
+      <display>Intent.WindowsServiceHost</display>
       <isAbstract>false</isAbstract>
       <value>1.0.15</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>53a7d8fa-3987-41aa-8447-f1f9ccc3983f</parentFolderId>
-      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
-      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
       <stereotypes />
       <metadata />
       <childElements />

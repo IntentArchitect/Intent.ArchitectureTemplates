@@ -13,1668 +13,1430 @@
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="1ec80126-36ea-49e6-b19c-8395fed9d7b2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="43d16ba9-ed8e-44e1-ad95-10bc9d57459a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts</name>
-      <display>Intent.Application.Contracts 5.1.2</display>
+      <display>Intent.Application.Contracts</display>
       <isAbstract>false</isAbstract>
       <value>5.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="68fce0e6-b743-433d-bc13-4cd21e3b1fec" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="90b3dec4-ad4a-46f1-8802-762e7e60875a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Contracts.Clients</name>
-      <display>Intent.Application.Contracts.Clients 5.1.6</display>
+      <display>Intent.Application.Contracts.Clients</display>
       <isAbstract>false</isAbstract>
       <value>5.1.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c42997e5-40c8-41bd-9195-228672cc7281" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="8ca7b13e-b698-4618-bebd-87f4009bc09a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DependencyInjection</name>
-      <display>Intent.Application.DependencyInjection 4.1.13</display>
+      <display>Intent.Application.DependencyInjection</display>
       <isAbstract>false</isAbstract>
       <value>4.1.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2370af12-1afa-412e-a5f1-e38fdcc2af6c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="48c3a5fc-a8b2-4e32-a68b-9eed1dad11cc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DependencyInjection.MediatR</name>
-      <display>Intent.Application.DependencyInjection.MediatR 3.6.3</display>
+      <display>Intent.Application.DependencyInjection.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>3.6.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3b9fc6d2-8504-4b18-8ec7-8afa0d9ded68" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="25c332fb-9575-4826-bd35-1e9b656167ab" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DomainInteractions</name>
-      <display>Intent.Application.DomainInteractions 1.1.9</display>
+      <display>Intent.Application.DomainInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>1.1.9</value>
+      <value>1.1.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="32ad81d7-0a47-4fd9-a7dd-c83fe4dee228" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b8be161f-2431-4182-8a2a-7e9d6dddb233" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Dtos</name>
-      <display>Intent.Application.Dtos 4.4.7</display>
+      <display>Intent.Application.Dtos</display>
       <isAbstract>false</isAbstract>
       <value>4.4.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2e0b369d-93bd-419a-b714-95a6005a86b8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="19237021-2906-4a8c-afe6-e7dbdcf93d7b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Dtos.Pagination</name>
-      <display>Intent.Application.Dtos.Pagination 4.1.4</display>
+      <display>Intent.Application.Dtos.Pagination</display>
       <isAbstract>false</isAbstract>
-      <value>4.1.4</value>
+      <value>4.1.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="309effa8-5df6-4ad5-8138-ff547b723701" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7351217a-6e0c-4a54-94ef-4d35b38fc670" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.FluentValidation</name>
-      <display>Intent.Application.FluentValidation 3.11.6</display>
+      <display>Intent.Application.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>3.11.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="546c69c5-c69e-4df4-8fbb-950f71cb5bb3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9f02d878-8986-4d5d-b02b-b664d6001b66" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.FluentValidation.Dtos</name>
-      <display>Intent.Application.FluentValidation.Dtos 3.12.5</display>
+      <display>Intent.Application.FluentValidation.Dtos</display>
       <isAbstract>false</isAbstract>
       <value>3.12.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c5b0072e-cedf-4806-9c78-3d4466aa2db2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="61df6d59-3a64-4747-b15b-6d082f086489" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Identity</name>
-      <display>Intent.Application.Identity 3.6.1</display>
+      <display>Intent.Application.Identity</display>
       <isAbstract>false</isAbstract>
-      <value>3.6.1</value>
+      <value>3.6.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cda6cb8b-fa84-4450-9f49-920c2ab33583" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="ece91af4-4e98-48b9-a1c8-b070df3a4da9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR</name>
-      <display>Intent.Application.MediatR 4.5.3</display>
+      <display>Intent.Application.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>4.5.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c9b7dff3-4729-41a7-b0ed-de03099e0dae" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="efba3c8f-9b2b-4cd9-95c4-5cfd19ba36da" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.Behaviours</name>
-      <display>Intent.Application.MediatR.Behaviours 4.6.0</display>
+      <display>Intent.Application.MediatR.Behaviours</display>
       <isAbstract>false</isAbstract>
       <value>4.6.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3edaf50c-18e6-48c9-b759-3dd55bcd8c55" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="694d6f14-4248-4713-998f-5915df6efc84" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD</name>
-      <display>Intent.Application.MediatR.CRUD 7.1.3</display>
+      <display>Intent.Application.MediatR.CRUD</display>
       <isAbstract>false</isAbstract>
       <value>7.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="07c8fac1-3bda-4c1a-832e-00e8cfa30ca5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6360b775-ab37-41bf-b3e7-9d806d711961" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD.Eventing</name>
-      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <display>Intent.Application.MediatR.CRUD.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>5.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2501f80f-117a-4c6d-9761-4d5a1b726baf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2744761f-6ff1-49f7-827d-56b4f72bd997" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.CRUD.Tests</name>
-      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <display>Intent.Application.MediatR.CRUD.Tests</display>
       <isAbstract>false</isAbstract>
       <value>1.3.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="4e550fa4-3994-4efd-9798-e09099284226" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d9deabbf-5fd1-4876-909b-238b92248bdd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
-      <display>Intent.Application.MediatR.FluentValidation 4.9.6</display>
+      <display>Intent.Application.MediatR.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>4.9.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0217013d-27df-485f-a49e-1b69a4f6acc0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="76aefac6-7aad-4575-8a59-5096dcba4dba" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
-      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="a2a0c89f-0424-4f32-9c6e-c8724d97daaf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2c07ddb4-7cec-469f-9e24-ae9feba3ea96" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore</name>
-      <display>Intent.AspNetCore 6.1.4</display>
+      <display>Intent.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>6.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="306ce0e4-0b0b-41ff-83d1-100a14b2e3d4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e06b463a-964b-4b27-8de7-b2a4d4b5d20a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers</name>
-      <display>Intent.AspNetCore.Controllers 7.1.8</display>
+      <display>Intent.AspNetCore.Controllers</display>
       <isAbstract>false</isAbstract>
       <value>7.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="85b0bb52-d645-4dc2-a38f-ede853ffefe1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4a076af1-a78b-43f6-b50a-a4ee56b86f40" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers.Dispatch.MediatR</name>
-      <display>Intent.AspNetCore.Controllers.Dispatch.MediatR 6.1.2</display>
+      <display>Intent.AspNetCore.Controllers.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>6.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="71b27f74-043d-4a4a-81c8-93c815687aa6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="db87118b-8a0d-456e-9ceb-6d69254db7d5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</name>
-      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract 5.2.19</display>
+      <display>Intent.AspNetCore.Controllers.Dispatch.ServiceContract</display>
       <isAbstract>false</isAbstract>
       <value>5.2.19</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="698f43ac-20e8-4049-a2f9-12b112a4b62c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="fc80f466-5126-4a87-973f-a3527e17c31a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.HealthChecks</name>
-      <display>Intent.AspNetCore.HealthChecks 2.0.13</display>
+      <display>Intent.AspNetCore.HealthChecks</display>
       <isAbstract>false</isAbstract>
       <value>2.0.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3f5e71c6-144e-485b-912e-b4b4b5754aa6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b0095ff1-86ed-4cbe-a8f4-b2778ee8ccb2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Interop.Angular</name>
-      <display>Intent.AspNetCore.Interop.Angular 4.0.3</display>
+      <display>Intent.AspNetCore.Interop.Angular</display>
       <isAbstract>false</isAbstract>
       <value>4.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="278dd3d2-9571-4504-ab11-f1726bce7cdc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2c2f1b0e-1706-4508-a407-5579ada0d3ba" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.SignalR</name>
-      <display>Intent.AspNetCore.SignalR 1.0.8</display>
+      <display>Intent.AspNetCore.SignalR</display>
       <isAbstract>false</isAbstract>
       <value>1.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="ba59a22b-56c7-47f5-a38d-3418e2ba239b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="450e8318-fbe5-46ec-bb22-0d05747f1d98" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Swashbuckle</name>
-      <display>Intent.AspNetCore.Swashbuckle 5.2.1</display>
+      <display>Intent.AspNetCore.Swashbuckle</display>
       <isAbstract>false</isAbstract>
-      <value>5.2.1</value>
+      <value>5.2.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="ce0527a5-26f9-4561-b4e0-885ade8f3183" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="1ac74709-b004-4d36-bbbe-7fa511438a76" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Swashbuckle.Security</name>
-      <display>Intent.AspNetCore.Swashbuckle.Security 4.0.11</display>
+      <display>Intent.AspNetCore.Swashbuckle.Security</display>
       <isAbstract>false</isAbstract>
       <value>4.0.11</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c7e5f40a-c58f-4d69-9570-d420cff2ea0a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="46c288b2-f5ea-4125-821d-551019bdde6b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Common</name>
-      <display>Intent.Aws.Common 1.0.6</display>
+      <display>Intent.Aws.Common</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="336349b1-9954-4dfd-8257-188738376ba0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="56324a3f-e560-4ece-b7f8-4e84d0ca20a8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions</name>
-      <display>Intent.Aws.Lambda.Functions 1.0.5</display>
+      <display>Intent.Aws.Lambda.Functions</display>
       <isAbstract>false</isAbstract>
       <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d8a6231b-171d-431b-954b-35cf9b3b2299" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d398bba7-88c2-4285-8b7c-b6112030e0d4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Dispatch.MediatR</name>
-      <display>Intent.Aws.Lambda.Functions.Dispatch.MediatR 1.0.1</display>
+      <display>Intent.Aws.Lambda.Functions.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>1.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="905cad52-9b1b-47ca-a865-051666a4d6c2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="afcb44cb-367f-40df-944d-d6ea9a27c028" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Dispatch.Services</name>
-      <display>Intent.Aws.Lambda.Functions.Dispatch.Services 1.0.2</display>
+      <display>Intent.Aws.Lambda.Functions.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>1.0.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="acc85a97-95cb-44bc-98cd-a213ad6334c0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="575628cf-aeaf-40b8-a6e4-5483a425c8bb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Lambda.Functions.Sqs</name>
-      <display>Intent.Aws.Lambda.Functions.Sqs 1.1.0</display>
+      <display>Intent.Aws.Lambda.Functions.Sqs</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8dbba3dc-7746-44a7-8fb1-4db84d3c2d66" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5e8a821a-83a7-430f-8c1f-cb9e14655728" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Aws.Sqs</name>
-      <display>Intent.Aws.Sqs 1.1.0</display>
+      <display>Intent.Aws.Sqs</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="a7ba31fc-52ad-450f-805d-9dc76459448d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e0c15422-22ae-41f2-af56-26a2fccd9ba2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Azure.KeyVault</name>
-      <display>Intent.Azure.KeyVault 2.0.18</display>
+      <display>Intent.Azure.KeyVault</display>
       <isAbstract>false</isAbstract>
       <value>2.0.18</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="58b3e2f2-a2c3-40fb-a484-12389b064606" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="57f959bf-b7e6-46d2-b496-60ca5f974fba" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Azure.TableStorage</name>
-      <display>Intent.Azure.TableStorage 1.0.0</display>
+      <display>Intent.Azure.TableStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b1619e7b-e247-4e78-a491-3adcc971b09b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="339bc3a8-02e6-4c14-b794-699def34de08" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions</name>
-      <display>Intent.AzureFunctions 5.0.22</display>
+      <display>Intent.AzureFunctions</display>
       <isAbstract>false</isAbstract>
       <value>5.0.22</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="613ef8d4-abd4-4df5-89d3-699ee58af923" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7d174009-8092-4297-8ee4-dfb24a19c071" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureEventGrid</name>
-      <display>Intent.AzureFunctions.AzureEventGrid 1.2.0</display>
+      <display>Intent.AzureFunctions.AzureEventGrid</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="31c408a0-27df-4634-8bc2-f8e14a21765f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="efd44200-7b0a-4cb2-ac5c-1cf4c57afd62" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureQueueStorage</name>
-      <display>Intent.AzureFunctions.AzureQueueStorage 1.1.0</display>
+      <display>Intent.AzureFunctions.AzureQueueStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="c01a5912-24bb-443f-b2ad-bf19fa06b77a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="668e2612-eb16-48b7-a67e-2db5cad48da1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.AzureServiceBus</name>
-      <display>Intent.AzureFunctions.AzureServiceBus 1.1.0</display>
+      <display>Intent.AzureFunctions.AzureServiceBus</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8722d00b-295b-4f4f-b38e-83b2d6b93f44" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="8752a44e-4390-4a32-b574-45b0b6227460" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.Dispatch.MediatR</name>
-      <display>Intent.AzureFunctions.Dispatch.MediatR 2.0.4</display>
+      <display>Intent.AzureFunctions.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>2.0.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="73c353c3-0cdf-4b69-95d0-aa34255dd835" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="01c414d4-65b3-4cc5-a655-716d5a107ff2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.Dispatch.Services</name>
-      <display>Intent.AzureFunctions.Dispatch.Services 5.0.5</display>
+      <display>Intent.AzureFunctions.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>5.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="788f7085-1493-4b5d-96a2-2f404530eacb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0d801493-58fe-436f-a30d-6428604b2259" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.FluentValidation</name>
-      <display>Intent.AzureFunctions.FluentValidation 5.1.4</display>
+      <display>Intent.AzureFunctions.FluentValidation</display>
       <isAbstract>false</isAbstract>
       <value>5.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d49b94e2-5e82-4beb-a8c0-8b9d1ab388bf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b75b1a16-0413-4669-b392-ab7acb57b311" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AzureFunctions.OpenApi</name>
-      <display>Intent.AzureFunctions.OpenApi 2.0.9</display>
+      <display>Intent.AzureFunctions.OpenApi</display>
       <isAbstract>false</isAbstract>
       <value>2.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="9d298b98-f63a-4241-8f66-851deb19cf97" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="dcdda41e-e07e-4211-87a6-d04bd4b0ddcb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor</name>
-      <display>Intent.Blazor 1.0.8</display>
+      <display>Intent.Blazor</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.8</value>
+      <value>1.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="7be77900-8729-4164-a6c7-828cfba8bc1b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="8d731f7e-76bf-487e-89c6-8979680b824b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor.Components.MudBlazor</name>
-      <display>Intent.Blazor.Components.MudBlazor 1.0.7</display>
+      <display>Intent.Blazor.Components.MudBlazor</display>
       <isAbstract>false</isAbstract>
       <value>1.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="297c99b8-b8b2-4a14-9983-ab8dcfa5bc69" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3cfcbf6d-16bd-429f-aed4-050296baf1ab" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Code.Weaving.Razor</name>
-      <display>Intent.Code.Weaving.Razor 2.0.3</display>
+      <display>Intent.Code.Weaving.Razor</display>
       <isAbstract>false</isAbstract>
       <value>2.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="be5d2370-4d82-43bb-9083-2adb3a526039" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="17a058ce-06fd-4c3e-8ede-d7da174188e5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Code.Weaving.TypeScript</name>
-      <display>Intent.Code.Weaving.TypeScript 1.0.2</display>
-      <isAbstract>false</isAbstract>
-      <value>1.0.2</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
-    <childElement id="85466fc0-f75a-46e6-a89e-73c20c94763a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Common</name>
-      <display>Intent.Common 3.9.2</display>
-      <isAbstract>false</isAbstract>
-      <value>3.9.2</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
-    <childElement id="697f9a54-9eb7-4625-a90b-d249ea543fee" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Common.CSharp</name>
-      <display>Intent.Common.CSharp 3.9.12</display>
-      <isAbstract>false</isAbstract>
-      <value>3.9.12</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
-    <childElement id="87f81f42-b2c8-4433-8556-9a34dd8acb93" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Common.Types</name>
-      <display>Intent.Common.Types 4.1.2</display>
-      <isAbstract>false</isAbstract>
-      <value>4.1.2</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
-    <childElement id="12bca569-1e4a-42c0-b232-a3b41e7979e8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Common.TypeScript</name>
-      <display>Intent.Common.TypeScript 4.1.2</display>
-      <isAbstract>false</isAbstract>
-      <value>4.1.2</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
-    <childElement id="0142de2f-8a14-4d37-acbb-6e1946965f5c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.Common.UnitOfWork</name>
-      <display>Intent.Common.UnitOfWork 1.0.3</display>
+      <display>Intent.Code.Weaving.TypeScript</display>
       <isAbstract>false</isAbstract>
       <value>1.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="df2b2abf-3e95-4ff1-a1c9-76f031184d4a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="ca4b78db-aa21-4a61-88ff-88830081cc7f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common</name>
+      <display>Intent.Common</display>
+      <isAbstract>false</isAbstract>
+      <value>3.9.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f8415b1a-aded-45e8-a6c0-bbc749afd0d4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.CSharp</name>
+      <display>Intent.Common.CSharp</display>
+      <isAbstract>false</isAbstract>
+      <value>3.9.13</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="ccaa46b9-d2c2-458f-b130-b228032ab5d7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.Types</name>
+      <display>Intent.Common.Types</display>
+      <isAbstract>false</isAbstract>
+      <value>4.1.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="55c82592-366d-4d7d-813a-e6a286e05676" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.TypeScript</name>
+      <display>Intent.Common.TypeScript</display>
+      <isAbstract>false</isAbstract>
+      <value>4.1.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="65a8337e-4ca7-400b-90e8-9dec9508c0aa" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Common.UnitOfWork</name>
+      <display>Intent.Common.UnitOfWork</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.3</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="88699195-7fd5-4404-a6da-929a4e2f720d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.CosmosDB</name>
-      <display>Intent.CosmosDB 1.2.24</display>
+      <display>Intent.CosmosDB</display>
       <isAbstract>false</isAbstract>
       <value>1.2.24</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d5004157-af27-4041-9ccc-aebc8a7bf5ac" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5b9a66b7-2bee-46f4-a1c6-fd8357d42c4d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore</name>
-      <display>Intent.Dapr.AspNetCore 2.0.13</display>
+      <display>Intent.Dapr.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>2.0.13</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0b621aaf-5aa7-4a10-a2e7-3f4bd8bf5241" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d7d54eaa-c4a4-4e06-a5a2-b08e03f8db48" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Configuration</name>
-      <display>Intent.Dapr.AspNetCore.Configuration 1.1.8</display>
+      <display>Intent.Dapr.AspNetCore.Configuration</display>
       <isAbstract>false</isAbstract>
       <value>1.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="da892e75-b056-4665-9662-3addfb9a28a3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2f716f37-2365-4a71-80e5-2e4e7aa29933" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Pubsub</name>
-      <display>Intent.Dapr.AspNetCore.Pubsub 3.1.0</display>
+      <display>Intent.Dapr.AspNetCore.Pubsub</display>
       <isAbstract>false</isAbstract>
       <value>3.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2db11508-4bad-429f-a122-80711edf2b1b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="396e3925-1f9d-40b9-b977-2725bf6bfe77" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.Secrets</name>
-      <display>Intent.Dapr.AspNetCore.Secrets 1.1.8</display>
+      <display>Intent.Dapr.AspNetCore.Secrets</display>
       <isAbstract>false</isAbstract>
       <value>1.1.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8b225e9b-e556-4fa7-b5b9-b960fdd54485" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="9ab6f941-6139-477f-9b96-8baad0c87975" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.ServiceInvocation</name>
-      <display>Intent.Dapr.AspNetCore.ServiceInvocation 2.2.29</display>
+      <display>Intent.Dapr.AspNetCore.ServiceInvocation</display>
       <isAbstract>false</isAbstract>
       <value>2.2.29</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0f07a8de-5643-444e-b29a-563e514a0e4c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="20ec99a2-cfd1-438e-b7d0-a0816541895d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Dapr.AspNetCore.StateManagement</name>
-      <display>Intent.Dapr.AspNetCore.StateManagement 1.2.17</display>
+      <display>Intent.Dapr.AspNetCore.StateManagement</display>
       <isAbstract>false</isAbstract>
       <value>1.2.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="584b37ab-5739-4db2-bdeb-a6f8065dcc88" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="da0ca9c3-5d0e-467b-bea2-cd3ebe59d035" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.DocumentDB.Dtos.AutoMapper</name>
-      <display>Intent.DocumentDB.Dtos.AutoMapper 1.0.6</display>
+      <display>Intent.DocumentDB.Dtos.AutoMapper</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="47989cd7-e653-47af-91f1-103ddd59713d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0cdb326d-3498-4b77-92f5-4606c6338348" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.DomainEvents</name>
-      <display>Intent.DomainEvents 5.0.12</display>
+      <display>Intent.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>5.0.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6883a9f4-e220-4f62-8ce2-18682b96fcd6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5caec572-b77d-4218-ad63-a16220ffcebc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities</name>
-      <display>Intent.Entities 5.1.15</display>
+      <display>Intent.Entities</display>
       <isAbstract>false</isAbstract>
-      <value>5.1.15</value>
+      <value>5.1.16</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="11cdd4c7-8164-4c60-9791-536b8bbff48f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="8169abd4-b874-45cb-bd31-a588f864d75e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities.Constants</name>
-      <display>Intent.Entities.Constants 1.0.6</display>
+      <display>Intent.Entities.Constants</display>
       <isAbstract>false</isAbstract>
       <value>1.0.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e1f8e8a1-ddd0-46c4-8756-0ed2cd9b789d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f9dac928-0fbc-4552-a59e-aaf87c46e084" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Entities.Repositories.Api</name>
-      <display>Intent.Entities.Repositories.Api 5.1.10</display>
+      <display>Intent.Entities.Repositories.Api</display>
       <isAbstract>false</isAbstract>
       <value>5.1.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="aa25339f-9ed0-4716-9cc6-456d76d352bb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6c6899c7-e113-4bfb-9ed4-a709a09f8b22" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore</name>
-      <display>Intent.EntityFrameworkCore 5.0.35</display>
+      <display>Intent.EntityFrameworkCore</display>
       <isAbstract>false</isAbstract>
       <value>5.0.35</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="16c2aa6d-6977-4253-91c8-f05bd9068db8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="e4f6e886-6211-4114-bdab-5a199d234c27" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</name>
-      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory 4.2.15</display>
+      <display>Intent.EntityFrameworkCore.DesignTimeDbContextFactory</display>
       <isAbstract>false</isAbstract>
       <value>4.2.15</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1fc039cb-f7e0-46db-b03e-b04017858f29" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b5ad32cd-5892-4d64-93b9-7e9817ebf31e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.Interop.DomainEvents</name>
-      <display>Intent.EntityFrameworkCore.Interop.DomainEvents 4.1.4</display>
+      <display>Intent.EntityFrameworkCore.Interop.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>4.1.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="becba846-40c5-4720-8de6-0e0f963a07a8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6f93b799-e546-4b4d-8c43-68621816e330" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore.Repositories</name>
-      <display>Intent.EntityFrameworkCore.Repositories 4.7.17</display>
+      <display>Intent.EntityFrameworkCore.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>4.7.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fe7aee50-83cc-455f-bb49-a799eb3360bc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="aa659d8e-5dcc-48b8-9e28-d156f52455dd" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureEventGrid</name>
-      <display>Intent.Eventing.AzureEventGrid 1.3.0</display>
+      <display>Intent.Eventing.AzureEventGrid</display>
       <isAbstract>false</isAbstract>
       <value>1.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f24e79fa-1fce-4daa-97e5-79ec5e5a41dc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d62645bc-9ff1-424e-9373-a53f66bdf46f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureQueueStorage</name>
-      <display>Intent.Eventing.AzureQueueStorage 1.1.0</display>
+      <display>Intent.Eventing.AzureQueueStorage</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="168cc6ca-e367-4659-b18c-5649e8c8f625" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7e8fa4fe-28d8-490f-95d0-8d9357d3c062" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.AzureServiceBus</name>
-      <display>Intent.Eventing.AzureServiceBus 1.2.0</display>
+      <display>Intent.Eventing.AzureServiceBus</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1ade4883-becf-4ee7-a3f9-caa48523efb9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d81dcb6e-7a04-4c44-bac5-8ab14f09bb5e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Contracts</name>
-      <display>Intent.Eventing.Contracts 6.1.0</display>
+      <display>Intent.Eventing.Contracts</display>
       <isAbstract>false</isAbstract>
-      <value>6.1.0</value>
+      <value>6.1.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="b6285b4a-bf07-4e2b-90c3-be49303286b7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="d55a4c59-cf43-49fd-97c3-132edfdd020d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Contracts.DomainMapping</name>
-      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <display>Intent.Eventing.Contracts.DomainMapping</display>
       <isAbstract>false</isAbstract>
       <value>4.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cbf22efc-43d0-4971-ae17-f17fd275f920" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="44cfe15d-33df-41d0-85f4-0bf7072b0c6a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
-      <display>Intent.Eventing.Kafka 1.1.0</display>
+      <display>Intent.Eventing.Kafka</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="86830ecd-627c-4b1a-bfc9-4270ca7ddf1b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="06ea2376-6651-4b7f-969e-4b0fec07e1c8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit</name>
-      <display>Intent.Eventing.MassTransit 7.1.0</display>
+      <display>Intent.Eventing.MassTransit</display>
       <isAbstract>false</isAbstract>
       <value>7.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="df6bd9ae-5a69-4e56-8fd9-1a6c1be7d6e5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="94ea7931-0fea-42d2-b98d-af60508910bc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit.EntityFrameworkCore</name>
-      <display>Intent.Eventing.MassTransit.EntityFrameworkCore 5.3.0</display>
+      <display>Intent.Eventing.MassTransit.EntityFrameworkCore</display>
       <isAbstract>false</isAbstract>
       <value>5.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6d011272-b1d1-4322-99f3-15ae1d6b5e98" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b954c41a-3f7c-4350-9bce-01e170d94e03" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.MassTransit.RequestResponse</name>
-      <display>Intent.Eventing.MassTransit.RequestResponse 1.2.0</display>
+      <display>Intent.Eventing.MassTransit.RequestResponse</display>
       <isAbstract>false</isAbstract>
       <value>1.2.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="bb7e3f66-84f5-46d4-976b-a5a8be6dadc5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="ecdc2abd-2ceb-4148-a844-519f7ab0b1fe" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Solace</name>
-      <display>Intent.Eventing.Solace 2.1.0</display>
+      <display>Intent.Eventing.Solace</display>
       <isAbstract>false</isAbstract>
       <value>2.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="5ff95f17-205b-4b33-a76e-d0793a93d184" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="32eb773e-1d96-44cf-a078-7c315b598c2a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL</name>
-      <display>Intent.HotChocolate.GraphQL 5.0.9</display>
+      <display>Intent.HotChocolate.GraphQL</display>
       <isAbstract>false</isAbstract>
       <value>5.0.9</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1dff8dc3-1d04-4aba-8a37-c3db1fbb7c69" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="4b631246-78cd-45c8-bb55-7aad06945c80" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.AspNetCore</name>
-      <display>Intent.HotChocolate.GraphQL.AspNetCore 6.0.7</display>
+      <display>Intent.HotChocolate.GraphQL.AspNetCore</display>
       <isAbstract>false</isAbstract>
       <value>6.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="31c35749-1260-44f6-8380-0de8960d1e18" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="17d06245-a034-440a-9214-c95deeceb9c8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.AzureFunctions</name>
-      <display>Intent.HotChocolate.GraphQL.AzureFunctions 2.0.7</display>
+      <display>Intent.HotChocolate.GraphQL.AzureFunctions</display>
       <isAbstract>false</isAbstract>
       <value>2.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="14f7d52b-efcd-4266-b099-6806caa537c3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="dfbcec4d-0f53-41e5-bcc3-26e7c49217d9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.Dispatch.MediatR</name>
-      <display>Intent.HotChocolate.GraphQL.Dispatch.MediatR 2.0.1</display>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.MediatR</display>
       <isAbstract>false</isAbstract>
       <value>2.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="25bf1d2c-b850-408e-9b6e-c54636229fef" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="929bdd4b-dea4-4ff7-a719-492781a3ca92" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.HotChocolate.GraphQL.Dispatch.Services</name>
-      <display>Intent.HotChocolate.GraphQL.Dispatch.Services 2.0.1</display>
+      <display>Intent.HotChocolate.GraphQL.Dispatch.Services</display>
       <isAbstract>false</isAbstract>
       <value>2.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="886d41c3-ad6c-4681-b487-671c88a3a8a6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="2ebb0487-04c1-4803-b8b0-ff0a33298053" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.MediatR.DomainEvents</name>
-      <display>Intent.MediatR.DomainEvents 5.2.4</display>
+      <display>Intent.MediatR.DomainEvents</display>
       <isAbstract>false</isAbstract>
       <value>5.2.4</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0ca758d2-365a-4869-b52b-35aa563f8afb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="88fc34e2-e9fd-4927-8dda-bdf863d30964" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.DocumentDB</name>
-      <display>Intent.Metadata.DocumentDB 1.3.6</display>
+      <display>Intent.Metadata.DocumentDB</display>
       <isAbstract>false</isAbstract>
       <value>1.3.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="afe73dfa-d7f0-43fb-b38c-35a5f26f933e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="80e9fab2-1f7d-4dfd-829d-6031bdb7c4e5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.RDBMS</name>
-      <display>Intent.Metadata.RDBMS 3.7.9</display>
+      <display>Intent.Metadata.RDBMS</display>
       <isAbstract>false</isAbstract>
-      <value>3.7.9</value>
+      <value>3.7.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="95436ec3-04e8-4aac-a258-fdb6a4780a11" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="f16aac69-747a-4525-b3e8-8400160db3ca" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.Security</name>
-      <display>Intent.Metadata.Security 1.1.2</display>
+      <display>Intent.Metadata.Security</display>
       <isAbstract>false</isAbstract>
       <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="68720760-6399-4414-8a35-3ab600fcec95" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="35b2db36-326d-4e16-9052-ba21f5d91fb8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.WebApi</name>
-      <display>Intent.Metadata.WebApi 4.7.17</display>
+      <display>Intent.Metadata.WebApi</display>
       <isAbstract>false</isAbstract>
       <value>4.7.17</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="10652f0e-c53e-456c-927c-a6f5ce0eb3d1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="86945177-120c-4a9d-b528-0afc1f0a9f9c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain</name>
-      <display>Intent.Modelers.Domain 3.12.11</display>
+      <display>Intent.Modelers.Domain</display>
       <isAbstract>false</isAbstract>
-      <value>3.12.11</value>
+      <value>3.12.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="11029779-3d7c-4ff2-b5ca-6a5c600021c9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5dd2caa5-5260-4e04-8749-9c81747c069d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Events</name>
-      <display>Intent.Modelers.Domain.Events 4.4.5</display>
+      <display>Intent.Modelers.Domain.Events</display>
       <isAbstract>false</isAbstract>
       <value>4.4.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d958a14c-683a-4ecc-a051-2f0253a02388" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="21f743e0-b9ce-4cea-8009-eac657ad5ce8" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Domain.Repositories</name>
-      <display>Intent.Modelers.Domain.Repositories 3.6.1</display>
+      <display>Intent.Modelers.Domain.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>3.6.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="1108fb09-a8dc-477e-9032-c35733c0841a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="64f4a513-cd56-4123-b2b2-5e8bcdac1847" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Eventing</name>
-      <display>Intent.Modelers.Eventing 6.0.3</display>
+      <display>Intent.Modelers.Eventing</display>
       <isAbstract>false</isAbstract>
       <value>6.0.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="8c5a18e2-9c5d-4bf9-9dd8-f2480361c221" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="c2286a99-5dca-4c4f-ad4a-6678defec07e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.ServiceProxies</name>
-      <display>Intent.Modelers.ServiceProxies 5.2.3</display>
+      <display>Intent.Modelers.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>5.2.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="3334d40b-6880-47e1-90e8-e4a439dff714" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="84ce4098-55e9-431b-87e6-ed5a5c8be5a0" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services</name>
-      <display>Intent.Modelers.Services 4.0.8</display>
+      <display>Intent.Modelers.Services</display>
       <isAbstract>false</isAbstract>
       <value>4.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="248e0a8d-a5b8-455d-af72-688a583703e6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="30a56fc0-fd1a-44c2-a81b-ae57e7f4c506" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.CQRS</name>
-      <display>Intent.Modelers.Services.CQRS 6.0.4</display>
+      <display>Intent.Modelers.Services.CQRS</display>
       <isAbstract>false</isAbstract>
-      <value>6.0.4</value>
+      <value>6.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6354b7d2-6b4f-40e4-a732-c9c1a9996fbc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="11f40bc4-b647-449c-a6a8-28f36bd534ee" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.DomainInteractions</name>
-      <display>Intent.Modelers.Services.DomainInteractions 2.3.11</display>
+      <display>Intent.Modelers.Services.DomainInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>2.3.11</value>
+      <value>2.3.12</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="9ac12a8e-65c9-4666-8b8d-052c6f036bf6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="eedf24e5-78af-4a41-993e-96ce0c2ddefc" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.EventInteractions</name>
-      <display>Intent.Modelers.Services.EventInteractions 2.0.4</display>
+      <display>Intent.Modelers.Services.EventInteractions</display>
       <isAbstract>false</isAbstract>
-      <value>2.0.4</value>
+      <value>2.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="dc23d416-ea0f-44fa-8cf7-bd5ea761aa82" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7ce337f8-fdde-44dc-bdbf-2c3533b0413b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.GraphQL</name>
-      <display>Intent.Modelers.Services.GraphQL 1.1.0</display>
+      <display>Intent.Modelers.Services.GraphQL</display>
       <isAbstract>false</isAbstract>
       <value>1.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="327781b8-a731-4da5-a450-787da6a691ce" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="eb4b2a37-4ba4-4a76-8590-bb1365e420c6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Types.ServiceProxies</name>
-      <display>Intent.Modelers.Types.ServiceProxies 5.5.3</display>
+      <display>Intent.Modelers.Types.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>5.5.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="a13c91b7-8ba3-428d-b113-4d571fa4cdc9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b2eeed90-c7ae-47a8-98bf-b4506774c079" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI</name>
-      <display>Intent.Modelers.UI 1.0.4</display>
+      <display>Intent.Modelers.UI</display>
       <isAbstract>false</isAbstract>
-      <value>1.0.4</value>
+      <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="545a6a37-9e79-479e-9c61-9ac1170b8464" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b6dea2a6-cc90-460f-a6e6-faab29ed33f6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI.Core</name>
-      <display>Intent.Modelers.UI.Core 1.0.0</display>
+      <display>Intent.Modelers.UI.Core</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="fee1d491-bb9d-49da-a521-5d3eccf33ef7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="227d5eb3-26e2-4bca-b9e1-7bec1db98cd1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI.ServiceProxies</name>
-      <display>Intent.Modelers.UI.ServiceProxies 1.0.0</display>
+      <display>Intent.Modelers.UI.ServiceProxies</display>
       <isAbstract>false</isAbstract>
       <value>1.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="62fe4a7d-473e-41ce-b9f0-16c9940518c2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="3f5c1c29-f40a-4397-968b-a47cc60c39b5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.AspNetCore.Logging.Serilog</name>
-      <display>Intent.Modules.AspNetCore.Logging.Serilog 5.3.5</display>
+      <display>Intent.Modules.AspNetCore.Logging.Serilog</display>
       <isAbstract>false</isAbstract>
       <value>5.3.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0fe29fa5-2c90-4523-b089-96c67fab2205" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="053f6d6d-9198-4f4b-b7f8-feca011d5edf" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.AspNetCore.MultiTenancy</name>
-      <display>Intent.Modules.AspNetCore.MultiTenancy 5.1.20</display>
+      <display>Intent.Modules.AspNetCore.MultiTenancy</display>
       <isAbstract>false</isAbstract>
       <value>5.1.20</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="670a1a3f-c07e-4b51-a1cd-3c4c202f4e8f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="7ad7c4a1-e896-4adc-b477-347838e0aaed" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modules.Modelers.Domain.StoredProcedures</name>
-      <display>Intent.Modules.Modelers.Domain.StoredProcedures 1.2.2</display>
+      <display>Intent.Modules.Modelers.Domain.StoredProcedures</display>
       <isAbstract>false</isAbstract>
-      <value>1.2.2</value>
+      <value>1.2.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="cf25fa7e-b8d7-4b19-bd56-118fbda41fa3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="303eac41-7215-416f-a254-78c6d780c1ce" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.MongoDb</name>
-      <display>Intent.MongoDb 2.0.8</display>
+      <display>Intent.MongoDb</display>
       <isAbstract>false</isAbstract>
       <value>2.0.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="146cca05-ae80-44e3-9adc-df561917ee38" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5e7ecf71-0ca3-4ad9-a718-2c15a4b04eb1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.NodeJS.Domain</name>
-      <display>Intent.NodeJS.Domain 4.0.0</display>
+      <display>Intent.NodeJS.Domain</display>
       <isAbstract>false</isAbstract>
       <value>4.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e1fa3cc5-aed9-4266-9c0f-fc66d3a4d340" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="a089b9d7-4bba-4383-83ff-ecf31603e180" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.NodeJS.NestJS.Authentication</name>
-      <display>Intent.NodeJS.NestJS.Authentication 4.0.0</display>
+      <display>Intent.NodeJS.NestJS.Authentication</display>
       <isAbstract>false</isAbstract>
       <value>4.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="96343eb6-4a7b-4b5b-8c12-3e9d45b89b7e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="24ac16c1-3f37-48be-af31-653595072877" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.NodeJS.NestJS.Controllers</name>
-      <display>Intent.NodeJS.NestJS.Controllers 4.0.0</display>
+      <display>Intent.NodeJS.NestJS.Controllers</display>
       <isAbstract>false</isAbstract>
       <value>4.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="0f8cabad-49ad-49e4-a385-7d8f23279b9a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="b55dfa3b-53f0-4089-86f6-a326ad888c3c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.NodeJS.NestJS.Core</name>
-      <display>Intent.NodeJS.NestJS.Core 4.0.1</display>
+      <display>Intent.NodeJS.NestJS.Core</display>
       <isAbstract>false</isAbstract>
       <value>4.0.1</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="d4090c85-bc37-423f-a43a-693b37c22a64" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="10c5700c-3e66-41b7-b232-575052e52164" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.NodeJS.TypeORM</name>
-      <display>Intent.NodeJS.TypeORM 4.0.0</display>
+      <display>Intent.NodeJS.TypeORM</display>
       <isAbstract>false</isAbstract>
       <value>4.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e4b39988-bf89-45c3-87e9-5245dfd93652" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0415ccbe-821a-48a5-b586-2e2f4e6320ef" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Npm</name>
-      <display>Intent.Npm 4.0.0</display>
+      <display>Intent.Npm</display>
       <isAbstract>false</isAbstract>
       <value>4.0.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="6a3fea3b-b6e5-486f-a2b7-06cf88770a8d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="226aae80-19c7-477e-8334-dd0d896ceeb6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OpenTelemetry</name>
-      <display>Intent.OpenTelemetry 2.2.14</display>
+      <display>Intent.OpenTelemetry</display>
       <isAbstract>false</isAbstract>
       <value>2.2.14</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="78d5c361-be01-481a-a6bb-5ff8ea388293" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="ea53112e-a15f-4836-be59-3d6dbca5451d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OutputManager.RoslynWeaver</name>
-      <display>Intent.OutputManager.RoslynWeaver 4.9.16</display>
+      <display>Intent.OutputManager.RoslynWeaver</display>
       <isAbstract>false</isAbstract>
       <value>4.9.16</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="e7563807-4d7f-410d-a581-f04fabb8de0c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="5b4cf89f-1ed0-4e77-91b5-14a1a69e89c7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Redis.Om.Repositories</name>
-      <display>Intent.Redis.Om.Repositories 1.0.19</display>
+      <display>Intent.Redis.Om.Repositories</display>
       <isAbstract>false</isAbstract>
       <value>1.0.19</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="2de2fded-ce34-4406-a954-76ee93b7003e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="987cd78e-f27f-49b8-8ea0-0c14b4963e5c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Security.JWT</name>
-      <display>Intent.Security.JWT 4.3.6</display>
+      <display>Intent.Security.JWT</display>
       <isAbstract>false</isAbstract>
       <value>4.3.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="bc5019c6-1791-46c4-a9c8-c4e1009c5cc7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0e633a8d-3aaa-482a-8bc6-f231ae551893" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Security.MSAL</name>
-      <display>Intent.Security.MSAL 4.3.7</display>
+      <display>Intent.Security.MSAL</display>
       <isAbstract>false</isAbstract>
       <value>4.3.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f4ceba01-8850-46d6-9467-341f3295db3d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="0072ced9-87a0-41d6-b84c-2ed2e0eaa5e7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.TypeScript.Weaving.Decorators</name>
-      <display>Intent.TypeScript.Weaving.Decorators 4.1.0</display>
+      <display>Intent.TypeScript.Weaving.Decorators</display>
       <isAbstract>false</isAbstract>
       <value>4.1.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="12653c37-1362-4155-8017-acbc98662d83" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="797a55f5-2597-4c00-985e-cc1f18512533" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.VisualStudio.Projects</name>
-      <display>Intent.VisualStudio.Projects 3.9.9</display>
+      <display>Intent.VisualStudio.Projects</display>
       <isAbstract>false</isAbstract>
-      <value>3.9.9</value>
+      <value>3.9.10</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="73047183-ed23-4408-bfdb-14addf2585d1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+    <childElement id="6ba60591-596a-46df-a3b4-b5859088f439" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.WindowsServiceHost</name>
-      <display>Intent.WindowsServiceHost 1.0.15</display>
+      <display>Intent.WindowsServiceHost</display>
       <isAbstract>false</isAbstract>
       <value>1.0.15</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>8d6e4e9c-f13b-49ce-9e56-870430d31756</parentFolderId>
-      <packageId>4c7176c7-0764-4a59-9583-5465261386ec</packageId>
-      <packageName>Intent.ApplicationTemplate.NestJS.Web</packageName>
       <stereotypes />
       <metadata />
       <childElements />
