@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="50720fa5-e0b8-46e4-952f-4bf68d4a0da6" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Application</name>
-  <display>Application (6) 🌟</display>
+  <display>Application (6)</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>6</order>
@@ -405,7 +405,7 @@
     </childElement>
     <childElement id="675954ac-5c76-44ec-8ec9-ee31d33cb0cb" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>AI Business Logic</name>
-      <display>AI Business Logic (1) 🌟 📗</display>
+      <display>AI Business Logic (1) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -423,7 +423,7 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Provides AI auto-implementation of business logic handlers and their supporting infrastructure." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="true" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
-            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="true" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />

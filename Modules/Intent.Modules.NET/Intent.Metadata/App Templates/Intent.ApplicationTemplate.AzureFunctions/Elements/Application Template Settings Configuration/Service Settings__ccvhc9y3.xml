@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="9298b1a4-256f-487e-a1aa-44b7d0594e80" type="Application Template Settings Configuration" typeId="69000b7e-8bc8-49d0-80f5-eb65a6f7653a">
+  <name>Service Settings</name>
+  <display>Service Settings</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>manually</sort-children>
+  <order>14</order>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>da621866-ec56-4cb0-815a-ce21261712a6</parentFolderId>
+  <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+  <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="65f7810e-3a2a-4e15-a1df-9cc4eb5082a4" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
+      <name>DTO Static Factory Method</name>
+      <display>DTO Static Factory Method = c2df571f-f917-41a2-933e-cfef7999c597</display>
+      <isAbstract>false</isAbstract>
+      <value>c2df571f-f917-41a2-933e-cfef7999c597</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9298b1a4-256f-487e-a1aa-44b7d0594e80</parentFolderId>
+      <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+      <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="97f6fe89-5973-447c-93b8-ac18fe446047" name="Settings Field Configuration">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Hidden" isActive="true" />
+            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="false" isActive="true" />
+            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" isActive="true" />
+            <property name="980bae71-ac8a-4a52-9888-9bac41f126ba" display="Default Value" value="false" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="240d1ee1-fd81-4c6e-970e-129f16367090" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
+      <name>DTO Type</name>
+      <display>DTO Type = 1d1a8aae-d3f7-42ee-84b3-cf62d7da4d1e</display>
+      <isAbstract>false</isAbstract>
+      <value>1d1a8aae-d3f7-42ee-84b3-cf62d7da4d1e</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9298b1a4-256f-487e-a1aa-44b7d0594e80</parentFolderId>
+      <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+      <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="97f6fe89-5973-447c-93b8-ac18fe446047" name="Settings Field Configuration">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Hidden" isActive="true" />
+            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="false" isActive="true" />
+            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" value="" isActive="true" />
+            <property name="980bae71-ac8a-4a52-9888-9bac41f126ba" display="Default Value" value="record" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="07e59c7f-f25e-46b8-9cd8-3c353adfb954" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
+      <name>DTO Property Setter Accessibility</name>
+      <display>DTO Property Setter Accessibility = 1b43bdbc-c11b-4e81-8285-6ca5c0876158</display>
+      <isAbstract>false</isAbstract>
+      <value>1b43bdbc-c11b-4e81-8285-6ca5c0876158</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9298b1a4-256f-487e-a1aa-44b7d0594e80</parentFolderId>
+      <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+      <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="97f6fe89-5973-447c-93b8-ac18fe446047" name="Settings Field Configuration">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Hidden" isActive="true" />
+            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="false" isActive="true" />
+            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" isActive="true" />
+            <property name="980bae71-ac8a-4a52-9888-9bac41f126ba" display="Default Value" value="init" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+  </childElements>
+</class>
