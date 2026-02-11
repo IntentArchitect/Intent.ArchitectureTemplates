@@ -177,7 +177,25 @@ Learn more:
             </module>
           </modules>
           <dependencies />
+          <incompatibilities>
+            <incompatible id="3db10c5b-ccfc-4ced-a17f-2011d834f566" name="Mapperly" />
+          </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-automapper/intent-application-automapper.html</documentationUrl>
+        </component>
+        <component id="3db10c5b-ccfc-4ced-a17f-2011d834f566" name="Mapperly" included="false" required="false" isNew="true">
+          <description>Projects mappings from Domain entities to Data Transfer Objects (DTOs) using Mapperly.</description>
+          <icon type="UrlImagePath" source="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+CiAgICA8cGF0aAogICAgICAgIGZpbGw9IiMyNzcxNDgiCiAgICAgICAgZD0iTTQgMTFoMnY2aC0ydi02em01LTdoLTV2NWgydi0zaDN2LTJ6bTE1IDdoLTJ2Nmgydi02em0tNy01di0yaC02djJoNnptMiAwaDN2M2gydi01aC01djJ6bS0yIDE4di0yaC02djJoNnptLTgtMmgtM3YtM2gtMnY1aDV2LTJ6bTEzLTN2M2gtM3YyaDV2LTVoLTJ6bS0xLTE5aC0yMXYyMWgydi0xOWgxOXYtMnoiLz4KPC9zdmc+Cg==" />
+          <modules>
+            <module id="Intent.Application.Dtos.Mapperly" version="1.0.3-pre.1">
+              <includedByDefault>true</includedByDefault>
+              <required>true</required>
+            </module>
+          </modules>
+          <dependencies />
+          <incompatibilities>
+            <incompatible id="76b582cd-c96a-4da4-a3d0-312ef16edfc4" name="AutoMapper" />
+          </incompatibilities>
+          <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-application-dtos-mapperly/intent-application-dtos-mapperly.html</documentationUrl>
         </component>
         <component id="bdb55c01-453e-42f1-b3aa-ef01f92e4916" name="Fluent Validation" included="true" required="false">
           <description>A popular .NET library for building strongly-typed validation rules.</description>
