@@ -433,20 +433,6 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="f0dba581-d1ed-4be4-a731-6b02e38f2368" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
-      <name>Intent.UnitTesting</name>
-      <display>Intent.UnitTesting 1.0.5</display>
-      <isAbstract>false</isAbstract>
-      <value>1.0.5</value>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
-      <packageId>a4d094db-4aab-467a-970a-2c6c9aaabe82</packageId>
-      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Server</packageName>
-      <stereotypes />
-      <metadata />
-      <childElements />
-    </childElement>
     <childElement id="5847df92-9ecf-4457-a9f0-9691a8857541" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.AspNetCore.Interop.Angular</name>
       <display>Intent.AspNetCore.Interop.Angular 4.0.3</display>
@@ -925,9 +911,9 @@
     </childElement>
     <childElement id="5adef7c2-4ad6-4df0-afc7-edf158fb9936" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore</name>
-      <display>Intent.EntityFrameworkCore 5.0.37</display>
+      <display>Intent.EntityFrameworkCore 5.0.38</display>
       <isAbstract>false</isAbstract>
-      <value>5.0.37</value>
+      <value>5.0.38</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1334,6 +1320,20 @@
       <display>Intent.Security.MSAL 4.3.8</display>
       <isAbstract>false</isAbstract>
       <value>4.3.8</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
+      <packageId>a4d094db-4aab-467a-970a-2c6c9aaabe82</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Server</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="f0dba581-d1ed-4be4-a731-6b02e38f2368" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.UnitTesting</name>
+      <display>Intent.UnitTesting 1.0.5</display>
+      <isAbstract>false</isAbstract>
+      <value>1.0.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
