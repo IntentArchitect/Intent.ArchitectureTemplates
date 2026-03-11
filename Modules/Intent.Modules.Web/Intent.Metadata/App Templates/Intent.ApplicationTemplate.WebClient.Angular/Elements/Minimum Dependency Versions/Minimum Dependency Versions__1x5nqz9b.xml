@@ -21,6 +21,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -33,6 +35,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -45,6 +49,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -57,6 +63,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -69,6 +77,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -81,6 +91,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -177,6 +189,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -279,11 +293,53 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="af1a8b9b-1ee0-41dd-a5fe-6a0522f31445" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="7694d61c-abb5-4fa7-a591-97fb18932941" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="c5cd0e3a-bb5c-4ba1-886b-95317cdde47e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
       <display>Intent.Application.MediatR.FluentValidation 4.9.7</display>
       <isAbstract>false</isAbstract>
       <value>4.9.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="b41014d1-5c92-49f5-a0d8-ec9bd8316b9b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
@@ -399,6 +455,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -453,6 +511,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -717,6 +777,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -729,6 +791,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1125,6 +1189,20 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="2de5d184-e61b-4757-9ff4-d419df5e5c6b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="b695e17f-b7d9-4375-b672-e18c9198a8ef" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
       <display>Intent.Eventing.Kafka 1.1.1</display>
@@ -1203,6 +1281,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1215,6 +1295,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1227,6 +1309,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1589,6 +1673,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1657,6 +1743,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1739,6 +1827,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>80979f1b-ab2e-43f2-8b8e-925d55fe6cd0</parentFolderId>
+      <packageId>7549551c-d51c-4f10-acc3-0924aac2c894</packageId>
+      <packageName>Intent.ApplicationTemplate.WebClient.Angular</packageName>
       <stereotypes />
       <metadata />
       <childElements />

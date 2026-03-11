@@ -21,6 +21,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -117,6 +119,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -219,11 +223,53 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="46d0b4e3-bac3-4a83-8fa9-00dd55d096ec" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="db8c757a-7e9d-4113-9245-cb25356ceede" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="1513833d-ce61-4ec2-ac80-e9e1f35bb8c5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
       <display>Intent.Application.MediatR.FluentValidation 4.9.7</display>
       <isAbstract>false</isAbstract>
       <value>4.9.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="01d80e49-974d-4a4d-b76d-4975db75f45a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
@@ -339,6 +385,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -393,6 +441,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -999,6 +1049,20 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="a38e64c6-f0cc-45c8-ab72-bdd7c5bec1fb" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="9c9f8619-5e05-4e74-990b-cb5ec3f94ec4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
       <display>Intent.Eventing.Kafka 1.1.1</display>
@@ -1077,6 +1141,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1089,6 +1155,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1101,6 +1169,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1463,6 +1533,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>4afe49dd-bfec-4d77-878e-1300b5a9b99d</parentFolderId>
+      <packageId>cb8acd41-def3-48a2-a872-32861a9d4d9d</packageId>
+      <packageName>Intent.ApplicationTemplate.Terraform</packageName>
       <stereotypes />
       <metadata />
       <childElements />

@@ -265,6 +265,34 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="c6523e5c-8b8a-44f3-8003-46b876ae829a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="9613c92b-a3ba-43e9-8f7d-e22beee88140" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="1243a50e-197a-4c97-8e82-085d21a108b4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
       <display>Intent.Application.MediatR.FluentValidation 4.9.7</display>
@@ -284,6 +312,20 @@
       <display>Intent.Application.ServiceImplementations 4.6.0</display>
       <isAbstract>false</isAbstract>
       <value>4.6.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="a6a04ce0-8cc4-46dd-a839-971adb9c90d7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
@@ -413,6 +455,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -467,6 +511,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1101,6 +1147,20 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="f6c0e0b2-673b-41d3-95a8-c7febb9e098f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="0f034d94-c28a-4289-bda2-c7cfe5f4e9ad" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
       <display>Intent.Eventing.Kafka 1.1.1</display>
@@ -1599,6 +1659,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>1f4cee55-0197-49aa-941a-7d4dba029225</parentFolderId>
+      <packageId>5d11bab6-4ad1-4ddb-b37f-64c439260fcc</packageId>
+      <packageName>Intent.ApplicationTemplate.Aws.Lambda.Functions</packageName>
       <stereotypes />
       <metadata />
       <childElements />

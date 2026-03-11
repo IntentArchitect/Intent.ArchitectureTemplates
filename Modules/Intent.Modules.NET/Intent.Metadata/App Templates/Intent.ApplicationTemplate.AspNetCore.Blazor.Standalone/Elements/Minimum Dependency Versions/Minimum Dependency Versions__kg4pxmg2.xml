@@ -63,6 +63,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -159,6 +161,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -261,11 +265,53 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="1622b436-841d-4942-8143-d4c9843de3b2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="5667c322-ccec-4a73-873e-f9b6411c542e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="68932ac4-5d45-44e8-917f-6bde1d32c525" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
       <display>Intent.Application.MediatR.FluentValidation 4.9.7</display>
       <isAbstract>false</isAbstract>
       <value>4.9.7</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="c6533723-62b2-41af-8f73-2d4022ea37f6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
@@ -381,6 +427,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -435,6 +483,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1111,6 +1161,20 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="696e23b6-7f55-4a86-8889-46ddac7b58d6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="d566fa83-a14b-4ff9-8c98-b0f91e305c0b" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Eventing.Kafka</name>
       <display>Intent.Eventing.Kafka 1.1.1</display>
@@ -1189,6 +1253,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1201,6 +1267,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1213,6 +1281,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1575,6 +1645,8 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>15d42508-1d91-42ec-b16b-b279cff1d258</parentFolderId>
+      <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
       <stereotypes />
       <metadata />
       <childElements />
