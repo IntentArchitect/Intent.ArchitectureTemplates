@@ -93,6 +93,7 @@ Learn more:
           <dependencies />
           <incompatibilities>
             <incompatible id="d294d990-d219-445e-8055-af3e5a988a5d" name="ASP.NET Core Controllers" />
+            <incompatible id="5a53117f-aaf5-4f12-b450-643022661db2" name="Swashbuckle" />
           </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-fastendpoints/intent-fastendpoints.html</documentationUrl>
         </component>
@@ -108,6 +109,7 @@ Learn more:
           <dependencies />
           <incompatibilities>
             <incompatible id="340e402b-c51c-41f5-8ef1-b90517aa5a34" name="Scalar" />
+            <incompatible id="4e6f38dc-e5d9-4723-a3ff-e2e3acaa547f" name="Fast Endpoints" />
           </incompatibilities>
           <documentationUrl>https://docs.intentarchitect.com/articles/modules-dotnet/intent-aspnetcore-swashbuckle/intent-aspnetcore-swashbuckle.html</documentationUrl>
         </component>
