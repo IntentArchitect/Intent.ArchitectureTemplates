@@ -265,6 +265,34 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="1deed404-c7ed-4af2-ae0f-d4eb9bf9fe6d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Eventing</name>
+      <display>Intent.Application.MediatR.CRUD.Eventing 5.2.0</display>
+      <isAbstract>false</isAbstract>
+      <value>5.2.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
+      <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="ab7f7a31-a4e1-484c-ba45-ecf6301842b3" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.MediatR.CRUD.Tests</name>
+      <display>Intent.Application.MediatR.CRUD.Tests 1.3.12</display>
+      <isAbstract>false</isAbstract>
+      <value>1.3.12</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
+      <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="730ba97b-66c5-458b-8a49-a2f0ceac0af6" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.MediatR.FluentValidation</name>
       <display>Intent.Application.MediatR.FluentValidation 4.10.0</display>
@@ -301,6 +329,22 @@
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
+      <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="1cb88abd-3f6f-4828-abb2-29ef84bf43a4" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Application.ServiceImplementations.CRUD.Eventing</name>
+      <display>Intent.Application.ServiceImplementations.CRUD.Eventing 1.1.2</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.2</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
+      <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
       <stereotypes />
       <metadata />
       <childElements />
@@ -1164,6 +1208,20 @@
       <display>Intent.Eventing.Contracts 6.1.1</display>
       <isAbstract>false</isAbstract>
       <value>6.1.1</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
+      <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
+    <childElement id="4d8bea95-5d23-497f-b771-cae9b236dce1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Eventing.Contracts.DomainMapping</name>
+      <display>Intent.Eventing.Contracts.DomainMapping 4.3.0</display>
+      <isAbstract>false</isAbstract>
+      <value>4.3.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>9e26eea6-f2d4-4d99-9dcc-5daa442503e4</parentFolderId>
