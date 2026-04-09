@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="de427089-c51a-48e9-a8fe-dcd6b4a6dc5b" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Api</name>
-  <display>Api (4)</display>
+  <display>Api (4) 🌟</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>2</order>
@@ -24,7 +24,7 @@
   <childElements>
     <childElement id="a7088fba-3f8b-4e6b-823f-2f931fc275d9" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>ASP.NET Core Hosting</name>
-      <display>ASP.NET Core Hosting (5) 📗</display>
+      <display>ASP.NET Core Hosting (6) 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -69,60 +69,6 @@
               <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
               <properties>
                 <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="6.1.4" isActive="true" />
-                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
-                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
-                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
-                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
-              </properties>
-            </stereotype>
-          </stereotypes>
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="9104624d-ad9c-43a8-ad74-1bdb800addf3" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.Application.Dtos</name>
-          <display>Intent.Application.Dtos</display>
-          <isAbstract>false</isAbstract>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>a7088fba-3f8b-4e6b-823f-2f931fc275d9</parentFolderId>
-          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
-          <stereotypes>
-            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
-              <addedByDefault>true</addedByDefault>
-              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-              <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="4.5.1" isActive="true" />
-                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
-                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
-                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
-                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
-              </properties>
-            </stereotype>
-          </stereotypes>
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="b286be97-b731-4eb9-9b8a-3492d7959052" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.Application.Dtos.Pagination</name>
-          <display>Intent.Application.Dtos.Pagination</display>
-          <isAbstract>false</isAbstract>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>a7088fba-3f8b-4e6b-823f-2f931fc275d9</parentFolderId>
-          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
-          <stereotypes>
-            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
-              <addedByDefault>true</addedByDefault>
-              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-              <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="4.1.5" isActive="true" />
                 <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
@@ -188,11 +134,92 @@
           <metadata />
           <childElements />
         </childElement>
+        <childElement id="9104624d-ad9c-43a8-ad74-1bdb800addf3" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Application.Dtos</name>
+          <display>Intent.Application.Dtos</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>a7088fba-3f8b-4e6b-823f-2f931fc275d9</parentFolderId>
+          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="4.5.0" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="d4e23be6-9295-4333-a479-3292a5ef7d67" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.AspNetCore.Cors</name>
+          <display>Intent.AspNetCore.Cors</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>a7088fba-3f8b-4e6b-823f-2f931fc275d9</parentFolderId>
+          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="3.3.15" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="a23a8fdc-5477-4523-b82c-9d4a69f7d6fd" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.AspNetCore.OutputCaching.Redis</name>
+          <display>Intent.AspNetCore.OutputCaching.Redis</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>a7088fba-3f8b-4e6b-823f-2f931fc275d9</parentFolderId>
+          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.1.14" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
       </childElements>
     </childElement>
     <childElement id="aaf687fe-df09-4731-82e2-03fba549366b" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
       <name>ASP.NET Core Controllers</name>
-      <display>ASP.NET Core Controllers (4) 📗</display>
+      <display>ASP.NET Core Controllers (3) 🌟 📗</display>
       <isAbstract>false</isAbstract>
       <sort-children>by-type-then-manually</sort-children>
       <genericTypes />
@@ -210,7 +237,7 @@
             <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Traditional MVC-style API pattern with attribute routing and comprehensive HTTP action handling." isActive="true" />
             <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="true" isActive="true" />
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
-            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="true" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
             <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
@@ -248,60 +275,6 @@
           <metadata />
           <childElements />
         </childElement>
-        <childElement id="d4e23be6-9295-4333-a479-3292a5ef7d67" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.AspNetCore.Cors</name>
-          <display>Intent.AspNetCore.Cors</display>
-          <isAbstract>false</isAbstract>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>aaf687fe-df09-4731-82e2-03fba549366b</parentFolderId>
-          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
-          <stereotypes>
-            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
-              <addedByDefault>true</addedByDefault>
-              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-              <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="3.3.15" isActive="true" />
-                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
-                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
-                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
-                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
-              </properties>
-            </stereotype>
-          </stereotypes>
-          <metadata />
-          <childElements />
-        </childElement>
-        <childElement id="a23a8fdc-5477-4523-b82c-9d4a69f7d6fd" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
-          <name>Intent.AspNetCore.OutputCaching.Redis</name>
-          <display>Intent.AspNetCore.OutputCaching.Redis</display>
-          <isAbstract>false</isAbstract>
-          <genericTypes />
-          <isMapped>false</isMapped>
-          <parentFolderId>aaf687fe-df09-4731-82e2-03fba549366b</parentFolderId>
-          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
-          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
-          <stereotypes>
-            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
-              <addedByDefault>true</addedByDefault>
-              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-              <properties>
-                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.1.14" isActive="true" />
-                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
-                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
-                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
-                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
-                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
-              </properties>
-            </stereotype>
-          </stereotypes>
-          <metadata />
-          <childElements />
-        </childElement>
         <childElement id="c607752b-b75e-46f1-8f9c-3059d83b790d" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
           <name>Intent.AspNetCore.Versioning</name>
           <display>Intent.AspNetCore.Versioning</display>
@@ -323,6 +296,33 @@
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
                 <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="4bec73ea-f8b7-4aa2-8a90-921e759a9811" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.AspNetCore.Controllers.JsonPatch</name>
+          <display>Intent.AspNetCore.Controllers.JsonPatch</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>aaf687fe-df09-4731-82e2-03fba549366b</parentFolderId>
+          <packageId>3d474ae5-467a-493b-add4-e223d61b188a</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.CleanArchitecture.Dapr</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.0" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="false" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="false" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="true" isActive="true" />
               </properties>
             </stereotype>
           </stereotypes>
