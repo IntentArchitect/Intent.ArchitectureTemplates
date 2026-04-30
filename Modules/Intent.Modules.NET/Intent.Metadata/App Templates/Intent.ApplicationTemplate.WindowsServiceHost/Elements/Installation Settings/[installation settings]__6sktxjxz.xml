@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="bd0b4962-ca42-4811-943a-a0cc38356396" type="Installation Settings" typeId="76db4fe8-5c95-4240-8f25-48b8079fa4ae">
+  <name>[installation settings]</name>
+  <display>[installation settings]</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-name</sort-children>
+  <order>10</order>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</parentFolderId>
+  <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+  <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="1b22e7d0-1b24-487c-ae8f-883b80b383cb" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
+      <name>tasks.json</name>
+      <display>tasks.json [target: Application Config Directory]</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>bd0b4962-ca42-4811-943a-a0cc38356396</parentFolderId>
+      <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+      <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="9d719407-b3e3-4b18-9d21-7eea355eae16" display="Match Files" value="tasks.json" isActive="true" />
+            <property name="42f4b988-69a5-4b48-b3c9-04507fa462d7" display="Target" value="Application Config Directory" isActive="true" />
+            <property name="3310226a-87cf-40e7-934a-49bae74c61ce" display="Relative Output Folder" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+  </childElements>
+</class>

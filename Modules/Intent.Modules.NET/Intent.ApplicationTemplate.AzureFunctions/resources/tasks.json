@@ -1,0 +1,37 @@
+{
+  "tasks": {
+    "build": {
+      "label": "Build",
+      "command": "dotnet build",
+      "icon": "fa-hourglass-end",
+      "workingDirectory": ".",
+      "aiAutoFix": {
+        "enabled": true,
+        "errorParser": "generic",
+        "maxAttempts": 3
+      }
+    },
+    "test": {
+      "label": "Test",
+      "command": "dotnet test",
+      "icon": "fa-flask",
+      "workingDirectory": ".",
+      "aiAutoFix": {
+        "enabled": true,
+        "errorParser": "generic",
+        "maxAttempts": 3
+      }
+    },
+    "run": {
+      "label": "Run",
+      "command": "func start",
+      "icon": "fa-play",
+      "workingDirectory": "${application.name}.Api",
+      "aiAutoFix": {
+        "enabled": true,
+        "errorParser": "generic",
+        "maxAttempts": 3
+      }
+    }
+  }
+}

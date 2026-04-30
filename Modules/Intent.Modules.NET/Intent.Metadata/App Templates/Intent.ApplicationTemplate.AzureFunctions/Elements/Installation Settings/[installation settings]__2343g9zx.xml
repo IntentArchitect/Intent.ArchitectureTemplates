@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="0183661e-d956-4154-b73c-532503444ce7" type="Installation Settings" typeId="76db4fe8-5c95-4240-8f25-48b8079fa4ae">
+  <name>[installation settings]</name>
+  <display>[installation settings]</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-name</sort-children>
+  <order>16</order>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>da621866-ec56-4cb0-815a-ce21261712a6</parentFolderId>
+  <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+  <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="fe05e100-d3ce-4051-9c34-f1a7e2784038" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
+      <name>tasks.json</name>
+      <display>tasks.json [target: Application Config Directory]</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>0183661e-d956-4154-b73c-532503444ce7</parentFolderId>
+      <packageId>da621866-ec56-4cb0-815a-ce21261712a6</packageId>
+      <packageName>Intent.ApplicationTemplate.AzureFunctions</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="9d719407-b3e3-4b18-9d21-7eea355eae16" display="Match Files" value="tasks.json" isActive="true" />
+            <property name="42f4b988-69a5-4b48-b3c9-04507fa462d7" display="Target" value="Application Config Directory" isActive="true" />
+            <property name="3310226a-87cf-40e7-934a-49bae74c61ce" display="Relative Output Folder" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+  </childElements>
+</class>

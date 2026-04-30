@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class id="dd4a809b-a1eb-4ec4-9ed2-7fe8d7544fe9" type="Installation Settings" typeId="76db4fe8-5c95-4240-8f25-48b8079fa4ae">
+  <name>[installation settings]</name>
+  <display>[installation settings]</display>
+  <isAbstract>false</isAbstract>
+  <sort-children>by-name</sort-children>
+  <order>20</order>
+  <genericTypes />
+  <isMapped>false</isMapped>
+  <parentFolderId>9612bb90-998c-4dda-b8af-98f201160728</parentFolderId>
+  <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+  <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+  <stereotypes />
+  <metadata />
+  <childElements>
+    <childElement id="25748e13-70e4-4a34-97ac-99c54e8af56e" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
+      <name>tasks.json</name>
+      <display>tasks.json [target: Application Config Directory]</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>dd4a809b-a1eb-4ec4-9ed2-7fe8d7544fe9</parentFolderId>
+      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="9d719407-b3e3-4b18-9d21-7eea355eae16" display="Match Files" value="tasks.json" isActive="true" />
+            <property name="42f4b988-69a5-4b48-b3c9-04507fa462d7" display="Target" value="Application Config Directory" isActive="true" />
+            <property name="3310226a-87cf-40e7-934a-49bae74c61ce" display="Relative Output Folder" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
+  </childElements>
+</class>
