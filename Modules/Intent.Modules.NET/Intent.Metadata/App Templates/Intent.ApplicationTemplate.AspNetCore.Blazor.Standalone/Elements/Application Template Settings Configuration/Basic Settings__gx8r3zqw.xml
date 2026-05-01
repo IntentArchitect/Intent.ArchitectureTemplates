@@ -109,11 +109,12 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="06ec756f-3296-4d75-bcd1-433d37c61c02" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
+    <childElement id="d685df21-462b-4933-be04-bbe8d82f4fda" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
       <name>Agents Folder Name</name>
       <display>Agents Folder Name = agents-folder</display>
       <isAbstract>false</isAbstract>
       <value>agents-folder</value>
+      <sort-children>manually</sort-children>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>25c4c4d7-731e-4459-8127-74454754e686</parentFolderId>
@@ -125,15 +126,86 @@
           <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
           <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
           <properties>
-            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Text Box" isActive="true" />
-            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="false" isActive="true" />
-            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" isActive="true" />
+            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Select" isActive="true" />
+            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="true" isActive="true" />
+            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" value="" isActive="true" />
             <property name="980bae71-ac8a-4a52-9888-9bac41f126ba" display="Default Value" value=".agents" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
       <metadata />
-      <childElements />
+      <childElements>
+        <childElement id="c586d025-20b1-420b-b268-5171cdf9f03d" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.agents</name>
+          <display>.agents = .agents</display>
+          <isAbstract>false</isAbstract>
+          <value>.agents</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>d685df21-462b-4933-be04-bbe8d82f4fda</parentFolderId>
+          <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="7da574f6-77bf-44d1-9c80-c4685f30f5ca" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.claude</name>
+          <display>.claude = .claude</display>
+          <isAbstract>false</isAbstract>
+          <value>.claude</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>d685df21-462b-4933-be04-bbe8d82f4fda</parentFolderId>
+          <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="e876eb64-2d75-4e45-92d5-156305a279dc" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.codex</name>
+          <display>.codex = .codex</display>
+          <isAbstract>false</isAbstract>
+          <value>.codex</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>d685df21-462b-4933-be04-bbe8d82f4fda</parentFolderId>
+          <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="ae96d2a5-aed9-4506-8546-92c1804fde8d" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.cursor</name>
+          <display>.cursor = .cursor</display>
+          <isAbstract>false</isAbstract>
+          <value>.cursor</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>d685df21-462b-4933-be04-bbe8d82f4fda</parentFolderId>
+          <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="e6f52db6-bc41-44a0-8713-e7d6fdb85511" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.gemini</name>
+          <display>.gemini = .gemini</display>
+          <isAbstract>false</isAbstract>
+          <value>.gemini</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>d685df21-462b-4933-be04-bbe8d82f4fda</parentFolderId>
+          <packageId>d0cc6657-888c-4820-98c7-0298e893c2b9</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Standalone</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
     </childElement>
   </childElements>
 </class>

@@ -269,10 +269,16 @@ Learn more:
             <option value="16d99e3e-7b91-42f8-ae3b-2686edde94b7" description=".NET 6.0" />
           </options>
         </setting>
-        <setting id="agents-folder" title="Agents Folder Name" type="text">
+        <setting id="agents-folder" title="Agents Folder Name" type="select">
           <defaultValue>.agents</defaultValue>
-          <isRequired>false</isRequired>
-          <options />
+          <isRequired>true</isRequired>
+          <options>
+            <option value=".agents" description=".agents" />
+            <option value=".claude" description=".claude" />
+            <option value=".codex" description=".codex" />
+            <option value=".cursor" description=".cursor" />
+            <option value=".gemini" description=".gemini" />
+          </options>
         </setting>
       </settings>
     </group>

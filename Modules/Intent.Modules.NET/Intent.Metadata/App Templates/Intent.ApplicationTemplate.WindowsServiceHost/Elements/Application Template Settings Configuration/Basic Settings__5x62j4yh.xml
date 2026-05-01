@@ -109,11 +109,12 @@
       <metadata />
       <childElements />
     </childElement>
-    <childElement id="51cb3fb2-70dd-46fa-81ad-dd1e9162b695" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
+    <childElement id="fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5" type="Application Template Settings Field Configuration" typeId="053d28c8-18c9-45b9-b3cb-184ec4b19679">
       <name>Agents Folder Name</name>
       <display>Agents Folder Name = agents-folder</display>
       <isAbstract>false</isAbstract>
       <value>agents-folder</value>
+      <sort-children>manually</sort-children>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>d0958155-019a-4022-b205-624c0b3c556a</parentFolderId>
@@ -125,15 +126,86 @@
           <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
           <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
           <properties>
-            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Text Box" isActive="true" />
-            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="false" isActive="true" />
-            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" isActive="true" />
+            <property name="ad6b372c-58e6-4fe0-b6fe-aa7d70f95ebc" display="Control Type" value="Select" isActive="true" />
+            <property name="f0689c97-cb23-4ae1-8bb1-8b6af69b1504" display="Is Required" value="true" isActive="true" />
+            <property name="95738255-b024-4b7f-b789-26eb8c30665f" display="Hint" value="" isActive="true" />
             <property name="980bae71-ac8a-4a52-9888-9bac41f126ba" display="Default Value" value=".agents" isActive="true" />
           </properties>
         </stereotype>
       </stereotypes>
       <metadata />
-      <childElements />
+      <childElements>
+        <childElement id="a34d1179-ec04-45af-8194-88ec54a164c4" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.agents</name>
+          <display>.agents = .agents</display>
+          <isAbstract>false</isAbstract>
+          <value>.agents</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="22ffa84b-a2ca-4e89-8f5d-c324d84207d8" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.claude</name>
+          <display>.claude = .claude</display>
+          <isAbstract>false</isAbstract>
+          <value>.claude</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="56d526db-3443-412a-8985-643b68f50f3e" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.codex</name>
+          <display>.codex = .codex</display>
+          <isAbstract>false</isAbstract>
+          <value>.codex</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="ce050537-096d-4faa-874b-3070bd6b7f98" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.cursor</name>
+          <display>.cursor = .cursor</display>
+          <isAbstract>false</isAbstract>
+          <value>.cursor</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+        <childElement id="05791abd-0d55-498e-a9ac-0b23ea72f1b2" type="Application Template Settings Field Option" typeId="7194651e-45da-4a0c-b1ab-0351a5c08fc8">
+          <name>.gemini</name>
+          <display>.gemini = .gemini</display>
+          <isAbstract>false</isAbstract>
+          <value>.gemini</value>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>fd9b0b93-7f25-4bd1-809f-8cfb7c4314a5</parentFolderId>
+          <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+          <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
+          <stereotypes />
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
     </childElement>
   </childElements>
 </class>
