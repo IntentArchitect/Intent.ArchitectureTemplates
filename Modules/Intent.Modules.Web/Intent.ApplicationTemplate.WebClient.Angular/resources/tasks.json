@@ -1,0 +1,24 @@
+{
+  "tasks": {
+    "install": {
+      "label": "Install",
+      "command": "npm i",
+      "icon": "fa-download",
+      "workingDirectory": ".",
+      "aiAutoFix": {
+        "enabled": true,
+        "errorParser": "generic"
+      }
+    },
+    "run": {
+      "label": "Run",
+      "command": "npm start",
+      "icon": "fa-play",
+      "workingDirectory": ".",
+      "aiAutoFix": {
+        "enabled": true,
+        "errorParser": "generic"
+      }
+    }
+  }
+}
