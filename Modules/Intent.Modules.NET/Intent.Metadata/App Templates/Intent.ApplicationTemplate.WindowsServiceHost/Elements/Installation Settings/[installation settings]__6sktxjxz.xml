@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<class id="3aba365d-7764-4f06-8040-d8ddfdf94727" type="Installation Settings" typeId="76db4fe8-5c95-4240-8f25-48b8079fa4ae">
+<class id="bd0b4962-ca42-4811-943a-a0cc38356396" type="Installation Settings" typeId="76db4fe8-5c95-4240-8f25-48b8079fa4ae">
   <name>[installation settings]</name>
   <display>[installation settings]</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-name</sort-children>
-  <order>20</order>
+  <order>10</order>
   <genericTypes />
   <isMapped>false</isMapped>
-  <parentFolderId>9612bb90-998c-4dda-b8af-98f201160728</parentFolderId>
-  <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
-  <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+  <parentFolderId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</parentFolderId>
+  <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+  <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="a2573a9e-17bb-48bf-b22b-204106757ff6" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
+    <childElement id="1b22e7d0-1b24-487c-ae8f-883b80b383cb" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
       <name>tasks.json</name>
       <display>tasks.json [target: Application Config Directory]</display>
       <isAbstract>false</isAbstract>
       <genericTypes />
       <isMapped>false</isMapped>
-      <parentFolderId>3aba365d-7764-4f06-8040-d8ddfdf94727</parentFolderId>
-      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
-      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <parentFolderId>bd0b4962-ca42-4811-943a-a0cc38356396</parentFolderId>
+      <packageId>ca894a4c-ca0c-4d31-a058-1336c12bb71a</packageId>
+      <packageName>Intent.ApplicationTemplate.WindowsServiceHost</packageName>
       <stereotypes>
         <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
           <addedByDefault>true</addedByDefault>
