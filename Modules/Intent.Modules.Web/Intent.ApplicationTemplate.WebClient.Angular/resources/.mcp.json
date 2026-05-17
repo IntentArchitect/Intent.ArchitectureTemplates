@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "intent-architect": {
+      "type": "stdio",
+      "command": ${JSON.stringify(mcpServer.executable)},
+      "args": ${mcpServer.executableArguments},
+      "env": {}
+    }
+  }
+}
