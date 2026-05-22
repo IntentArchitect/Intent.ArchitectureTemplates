@@ -6,7 +6,7 @@
   <iconType>UrlImagePath</iconType>
   <metadataRelativePath>Intent.Metadata</metadataRelativePath>
   <modulesCacheRelativePath>.intent/modules</modulesCacheRelativePath>
-  <lastUsedApplicationTemplate id="Intent.ApplicationTemplateBuilder" version="4.1.8-pre.0" />
+  <lastUsedApplicationTemplate id="Intent.ApplicationTemplate.EmptyVisualStudioSolution" version="4.2.1" />
   <applications>
     <application id="4cdb5c51-a001-4848-8ad6-1b19b0790dca" name="Intent.Modules" solutionFolder="Intent.Modules" relativePath="Intent.Modules/Intent.Modules.application.config" />
     <application id="2f056b26-eec3-4f6b-8447-2b1382956315" name="Intent.Modules.Metadata.ArchitectureTemplateBuilder" solutionFolder="Intent.Modules/Metadata" relativePath="Intent.Modules.Metadata.ArchitectureTemplateBuilder/Intent.Modules.Metadata.ArchitectureTemplateBuilder.application.config" />
@@ -31,5 +31,6 @@
     <application id="2c68b267-002e-4d9c-9e5a-9e24c93d2f2e" name="Blazor.Server" solutionFolder="Intent.Modules.NET/Metadata" relativePath="Intent.Modules.NET.Metadata.Blazor.Server/Intent.Modules.NET.Metadata.Blazor.Server.application.config" />
     <application id="da6e8e1c-f5b0-44f6-ae70-82c956f7c08c" name="Terraform" solutionFolder="Intent.Modules.NET/Metadata" relativePath="Intent.Modules.NET.Metadata.Terraform/Intent.Modules.NET.Metadata.Terraform.application.config" />
     <application id="2d4f0f67-87a7-4980-ba17-4740ae759a4f" name="AwsLambdaFunctions" solutionFolder="Intent.Modules.NET/Metadata" relativePath="Intent.Modules.NET.Metadata.AwsLambdaFunctions/Intent.Modules.NET.Metadata.AwsLambdaFunctions.application.config" />
+    <application id="62ee10ac-f41c-4ed2-9d8a-9a71eb53c1ac" name="Angular" solutionFolder="Intent.Modules.Web/Metadata" relativePath="Angular/Angular.application.config" />
   </applications>
 </solution>
