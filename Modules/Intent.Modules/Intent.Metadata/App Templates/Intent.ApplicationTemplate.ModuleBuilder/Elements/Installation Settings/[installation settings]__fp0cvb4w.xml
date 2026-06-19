@@ -13,6 +13,30 @@
   <stereotypes />
   <metadata />
   <childElements>
+    <childElement id="653bc738-5d16-4b7c-b040-1fd393ff2a3c" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
+      <name>.agents/**/*.*</name>
+      <display>.agents/**/*.* [target: Output Directory]</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>6f04e8c5-36e0-4642-adcb-4228309610f3</parentFolderId>
+      <packageId>1edb3b6a-4388-43e1-aebd-f51dc1039e69</packageId>
+      <packageName>Intent.ApplicationTemplate.ModuleBuilder</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="9d719407-b3e3-4b18-9d21-7eea355eae16" display="Match Files" value=".agents/**/*.*" isActive="true" />
+            <property name="42f4b988-69a5-4b48-b3c9-04507fa462d7" display="Target" value="Output Directory" isActive="true" />
+            <property name="3310226a-87cf-40e7-934a-49bae74c61ce" display="Relative Output Folder" value="${agents-folder}" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="3a731081-3786-47be-ba2a-3ee35497e236" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
       <name>.mcp.json</name>
       <display>.mcp.json [target: Output Directory]</display>
