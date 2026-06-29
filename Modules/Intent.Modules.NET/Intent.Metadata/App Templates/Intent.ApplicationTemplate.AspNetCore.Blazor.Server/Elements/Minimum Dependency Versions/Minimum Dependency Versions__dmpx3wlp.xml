@@ -127,9 +127,9 @@
     </childElement>
     <childElement id="7fd9e296-a4a3-4a3e-bf01-3d860ee1a2e1" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.DomainInteractions</name>
-      <display>Intent.Application.DomainInteractions 1.2.7</display>
+      <display>Intent.Application.DomainInteractions 1.2.8</display>
       <isAbstract>false</isAbstract>
-      <value>1.2.7</value>
+      <value>1.2.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -169,9 +169,9 @@
     </childElement>
     <childElement id="6b52823f-5792-4ba7-948c-41d813b702d9" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.Dtos.Mapperly</name>
-      <display>Intent.Application.Dtos.Mapperly 1.1.2</display>
+      <display>Intent.Application.Dtos.Mapperly 1.1.3</display>
       <isAbstract>false</isAbstract>
-      <value>1.1.2</value>
+      <value>1.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -309,9 +309,9 @@
     </childElement>
     <childElement id="e946f651-6ca5-49c9-bf63-6d2c473b193a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Application.ServiceImplementations.Conventions.CRUD</name>
-      <display>Intent.Application.ServiceImplementations.Conventions.CRUD 5.3.4</display>
+      <display>Intent.Application.ServiceImplementations.Conventions.CRUD 5.3.5</display>
       <isAbstract>false</isAbstract>
-      <value>5.3.4</value>
+      <value>5.3.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -783,6 +783,20 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="87a6f41f-bb22-4a4c-ab4e-0b412970d27e" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
+      <name>Intent.Blazor.Authentication</name>
+      <display>Intent.Blazor.Authentication 1.1.0</display>
+      <isAbstract>false</isAbstract>
+      <value>1.1.0</value>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
+      <packageId>a4d094db-4aab-467a-970a-2c6c9aaabe82</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Server</packageName>
+      <stereotypes />
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="28fe3284-6aca-4a7a-b3ee-d8176f787d5d" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Blazor.Components.MudBlazor</name>
       <display>Intent.Blazor.Components.MudBlazor 1.1.0</display>
@@ -799,9 +813,9 @@
     </childElement>
     <childElement id="9dfbfa40-da20-4c42-bb59-178646541b74" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Code.Weaving.Razor</name>
-      <display>Intent.Code.Weaving.Razor 2.0.6</display>
+      <display>Intent.Code.Weaving.Razor 2.0.7</display>
       <isAbstract>false</isAbstract>
-      <value>2.0.6</value>
+      <value>2.0.7</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -841,9 +855,9 @@
     </childElement>
     <childElement id="f07045d0-22c6-4d97-ac8f-0dc1eeeff215" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Common.CSharp</name>
-      <display>Intent.Common.CSharp 3.10.7</display>
+      <display>Intent.Common.CSharp 3.10.8</display>
       <isAbstract>false</isAbstract>
-      <value>3.10.7</value>
+      <value>3.10.8</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1051,9 +1065,9 @@
     </childElement>
     <childElement id="3b2f4e1c-d1a4-4240-8f7f-9a9d071ac48c" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.EntityFrameworkCore</name>
-      <display>Intent.EntityFrameworkCore 5.0.45</display>
+      <display>Intent.EntityFrameworkCore 5.0.46</display>
       <isAbstract>false</isAbstract>
-      <value>5.0.45</value>
+      <value>5.0.46</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1387,9 +1401,9 @@
     </childElement>
     <childElement id="ae06142d-cd42-42c5-9598-8c51f72ea7e7" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.Security</name>
-      <display>Intent.Metadata.Security 1.1.5</display>
+      <display>Intent.Metadata.Security 1.1.6</display>
       <isAbstract>false</isAbstract>
-      <value>1.1.5</value>
+      <value>1.1.6</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1401,9 +1415,9 @@
     </childElement>
     <childElement id="5d73e4ef-053f-4248-a531-cc31aed49a1a" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Metadata.WebApi</name>
-      <display>Intent.Metadata.WebApi 4.7.20</display>
+      <display>Intent.Metadata.WebApi 4.7.21</display>
       <isAbstract>false</isAbstract>
-      <value>4.7.20</value>
+      <value>4.7.21</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1555,9 +1569,9 @@
     </childElement>
     <childElement id="edf85cc4-ba44-4e5e-a171-a20f59c434e2" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.Services.DomainInteractions</name>
-      <display>Intent.Modelers.Services.DomainInteractions 2.4.4</display>
+      <display>Intent.Modelers.Services.DomainInteractions 2.4.5</display>
       <isAbstract>false</isAbstract>
-      <value>2.4.4</value>
+      <value>2.4.5</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1625,9 +1639,9 @@
     </childElement>
     <childElement id="f47a3524-c311-4fcf-b965-e57ac9bfe39f" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.Modelers.UI</name>
-      <display>Intent.Modelers.UI 1.1.2</display>
+      <display>Intent.Modelers.UI 1.1.3</display>
       <isAbstract>false</isAbstract>
-      <value>1.1.2</value>
+      <value>1.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1751,9 +1765,9 @@
     </childElement>
     <childElement id="edc11799-687b-491a-8941-555fbe40a2f5" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.OutputManager.RoslynWeaver</name>
-      <display>Intent.OutputManager.RoslynWeaver 4.11.0</display>
+      <display>Intent.OutputManager.RoslynWeaver 4.12.0</display>
       <isAbstract>false</isAbstract>
-      <value>4.11.0</value>
+      <value>4.12.0</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
@@ -1821,9 +1835,9 @@
     </childElement>
     <childElement id="09f5d5e7-3d5a-4253-95ad-6af542376018" type="Module" typeId="6a811790-b322-4340-8b68-84dae5ffafa8">
       <name>Intent.VisualStudio.Projects</name>
-      <display>Intent.VisualStudio.Projects 4.1.2</display>
+      <display>Intent.VisualStudio.Projects 4.1.3</display>
       <isAbstract>false</isAbstract>
-      <value>4.1.2</value>
+      <value>4.1.3</value>
       <genericTypes />
       <isMapped>false</isMapped>
       <parentFolderId>99e8d3b6-9f62-4836-8318-159a93f60917</parentFolderId>
