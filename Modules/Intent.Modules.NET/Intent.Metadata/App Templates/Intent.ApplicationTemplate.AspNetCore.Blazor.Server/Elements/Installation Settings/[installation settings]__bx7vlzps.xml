@@ -13,30 +13,6 @@
   <stereotypes />
   <metadata />
   <childElements>
-    <childElement id="10f4dd84-4693-472f-ac6d-c0ef3a365cd0" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
-      <name>.mcp.json</name>
-      <display>.mcp.json [target: Output Directory]</display>
-      <isAbstract>false</isAbstract>
-      <genericTypes />
-      <isMapped>false</isMapped>
-      <parentFolderId>c7f0e09d-2fa7-4455-9896-fdc0f72367d6</parentFolderId>
-      <packageId>a4d094db-4aab-467a-970a-2c6c9aaabe82</packageId>
-      <packageName>Intent.ApplicationTemplate.AspNetCore.Blazor.Server</packageName>
-      <stereotypes>
-        <stereotype stereotypeDefinitionId="c6ea8570-f40f-4f37-b192-426240926240" name="File Installation Rule Settings">
-          <addedByDefault>true</addedByDefault>
-          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
-          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
-          <properties>
-            <property name="9d719407-b3e3-4b18-9d21-7eea355eae16" display="Match Files" value=".mcp.json" isActive="true" />
-            <property name="42f4b988-69a5-4b48-b3c9-04507fa462d7" display="Target" value="Output Directory" isActive="true" />
-            <property name="3310226a-87cf-40e7-934a-49bae74c61ce" display="Relative Output Folder" isActive="true" />
-          </properties>
-        </stereotype>
-      </stereotypes>
-      <metadata />
-      <childElements />
-    </childElement>
     <childElement id="0a3acc43-0aa0-4211-9e12-687c77ea4414" type="File Installation Rule" typeId="b7e15e01-5a96-43b5-8545-be765fb5fb39">
       <name>tasks.json</name>
       <display>tasks.json [target: Application Config Directory]</display>
