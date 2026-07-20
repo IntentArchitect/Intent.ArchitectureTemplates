@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <class id="f9ec523f-477a-4e6b-9908-351eb63308fd" type="Component Group" typeId="027f8bb9-9b28-4c1d-a516-8c3daa70e46d">
   <name>Integration</name>
-  <display>Integration (6)</display>
+  <display>Integration (7) 🌟</display>
   <isAbstract>false</isAbstract>
   <sort-children>by-type-then-manually</sort-children>
   <order>7</order>
@@ -44,7 +44,7 @@
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
             <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
-            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;c6fa2c54-fc14-4652-b309-34b019920850&quot;,&quot;2584617b-a095-4b7b-9ac1-34ce0050810f&quot;]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;c6fa2c54-fc14-4652-b309-34b019920850&quot;,&quot;2584617b-a095-4b7b-9ac1-34ce0050810f&quot;,&quot;cf578736-3bd7-4ae6-84d4-c902a92ffb19&quot;]" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
             <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-masstransit/intent-eventing-masstransit.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
@@ -338,7 +338,7 @@
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
             <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
-            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;961f53b2-8310-4c1d-841e-59c0a77c8afb&quot;,&quot;2584617b-a095-4b7b-9ac1-34ce0050810f&quot;]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;961f53b2-8310-4c1d-841e-59c0a77c8afb&quot;,&quot;2584617b-a095-4b7b-9ac1-34ce0050810f&quot;,&quot;cf578736-3bd7-4ae6-84d4-c902a92ffb19&quot;]" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
             <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-kafka/intent-eventing-kafka.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
@@ -398,7 +398,7 @@
             <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
             <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="false" isActive="true" />
             <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" value="[]" isActive="true" />
-            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;961f53b2-8310-4c1d-841e-59c0a77c8afb&quot;,&quot;c6fa2c54-fc14-4652-b309-34b019920850&quot;]" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;961f53b2-8310-4c1d-841e-59c0a77c8afb&quot;,&quot;c6fa2c54-fc14-4652-b309-34b019920850&quot;,&quot;cf578736-3bd7-4ae6-84d4-c902a92ffb19&quot;]" isActive="true" />
             <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
             <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/articles/modules-dotnet/intent-eventing-azureservicebus/intent-eventing-azureservicebus.html" isActive="true" />
             <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
@@ -427,6 +427,66 @@
                 <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
                 <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
                 <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="null" isActive="false" />
+                <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
+              </properties>
+            </stereotype>
+          </stereotypes>
+          <metadata />
+          <childElements />
+        </childElement>
+      </childElements>
+    </childElement>
+    <childElement id="cf578736-3bd7-4ae6-84d4-c902a92ffb19" type="Component" typeId="47064ef1-2295-4287-8301-c446910a1b1e">
+      <name>NServiceBus</name>
+      <display>NServiceBus (1) 🌟 📗</display>
+      <isAbstract>false</isAbstract>
+      <sort-children>by-type-then-manually</sort-children>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>f9ec523f-477a-4e6b-9908-351eb63308fd</parentFolderId>
+      <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+      <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="78da9b5b-428f-4b1e-a5e5-120c7b3d87d3" name="Component Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+          <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+          <properties>
+            <property name="004dc68b-f2c0-4859-9f03-fb2e29505437" display="Icon" value="{&quot;type&quot;:0,&quot;source&quot;:&quot;data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtMCAwaDIwMHYyMDBoLTIwMHoiIGZpbGw9IiMwMDcyOWMiLz48cGF0aCBkPSJtMTcyLjM1OTM3NSAzNi4wMzUxNTYtNDQuNTExNzE5IDg4LjcxNDg0NHMtMS4xNjAxNTYgMi4xNDQ1MzEtMy4yMzgyODEgMi45ODgyODFjLTIuMjU3ODEzLjkxNzk2OS00Ljk1MzEyNS4yOTI5NjktNi43NzM0MzctMS4zNzEwOTNsLTM4LjA3NDIxOS0zOC4wNzQyMTktNDAuNjI4OTA3IDgwLjk2ODc1LTExLjE3OTY4Ny01LjYwOTM3NSA0NC41MTU2MjUtODguNzE0ODQ0czEuMTU2MjUtMi4xNDQ1MzEgMy4yMzgyODEtMi45ODgyODFjMi4yNTM5MDctLjkxNzk2OSA0Ljk0OTIxOS0uMjkyOTY5IDYuNzczNDM4IDEuMzcxMDkzbDM4LjA3NDIxOSAzOC4wNzQyMTkgNDAuNjI4OTA2LTgwLjk2ODc1YzMuNzIyNjU2IDEuODY3MTg4IDcuNDQ5MjE4IDMuNzM4MjgxIDExLjE3NTc4MSA1LjYwOTM3NXptMCAwIiBmaWxsPSIjZmZmIi8+PGcgZmlsbD0iIzAwYTNjNCIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJtMjIuMjU3ODEyIDIyLjI1NzgxMmgyMi4yNTc4MTN2MjIuMjU3ODEzaC0yMi4yNTc4MTN6bTAgMCIvPjxwYXRoIGQ9Im02Ni43Njk1MzEgMjIuMjU3ODEyaDIyLjI1NzgxM3YyMi4yNTc4MTNoLTIyLjI1NzgxM3ptMCAwIi8+PHBhdGggZD0ibTExMS4yODUxNTYgMjIuMjU3ODEyaDIyLjI1NzgxM3YyMi4yNTc4MTNoLTIyLjI1NzgxM3ptMCAwIi8+PHBhdGggZD0ibTY2Ljc2OTUzMSA2Ni40NTcwMzFoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMTExLjI4NTE1NiA2Ni40NTcwMzFoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMTU1LjQ4NDM3NSAyMi4yNTc4MTJoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMTU1LjQ4NDM3NSA2Ni40NTcwMzFoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMjIuMjU3ODEyIDY2LjQ1NzAzMWgyMi4yNTc4MTN2MjIuMjU3ODEzaC0yMi4yNTc4MTN6bTAgMCIvPjxwYXRoIGQ9Im0yMi4yNTc4MTIgMTEwLjk3MjY1NmgyMi4yNTc4MTN2MjIuMjU3ODEzaC0yMi4yNTc4MTN6bTAgMCIvPjxwYXRoIGQ9Im02Ni43Njk1MzEgMTEwLjk3MjY1NmgyMi4yNTc4MTN2MjIuMjU3ODEzaC0yMi4yNTc4MTN6bTAgMCIvPjxwYXRoIGQ9Im0xNTUuNDg0Mzc1IDExMC45NzI2NTZoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMjIuMjU3ODEyIDE1NS4xNzE4NzVoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtNjYuNzY5NTMxIDE1NS4xNzE4NzVoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48cGF0aCBkPSJtMTExLjI4NTE1NiAxNTUuMTcxODc1aDIyLjI1NzgxM3YyMi4yNTc4MTNoLTIyLjI1NzgxM3ptMCAwIi8+PHBhdGggZD0ibTExMS4yODUxNTYgMTEwLjk3MjY1NmgyMi4yNTc4MTN2MjIuMjU3ODEzaC0yMi4yNTc4MTN6bTAgMCIvPjxwYXRoIGQ9Im0xNTUuNDg0Mzc1IDE1NS4xNzE4NzVoMjIuMjU3ODEzdjIyLjI1NzgxM2gtMjIuMjU3ODEzem0wIDAiLz48L2c+PC9zdmc+&quot;}" isActive="true" />
+            <property name="476744d2-a4bc-4750-a9db-7022edf576c5" display="Description" value="Integrate applications using a Pub/Sub pattern with NServiceBus." isActive="true" />
+            <property name="b928f640-5dfd-4676-b8c9-4aadac826d18" display="Include by Default" value="false" isActive="true" />
+            <property name="07af017d-20a4-4e73-978f-ca4a59351f70" display="Is Required" value="false" isActive="true" />
+            <property name="aafd8156-fffe-471f-96da-813239f1982a" display="Is New" value="true" isActive="true" />
+            <property name="ed4d09bb-52e7-43dc-91db-6244d5390e53" display="Dependencies" isActive="true" />
+            <property name="ab4e67f3-24c9-47c3-8a27-0589c9c6656f" display="Incompatibilities" value="[&quot;c6fa2c54-fc14-4652-b309-34b019920850&quot;,&quot;961f53b2-8310-4c1d-841e-59c0a77c8afb&quot;,&quot;2584617b-a095-4b7b-9ac1-34ce0050810f&quot;]" isActive="true" />
+            <property name="dc6f3968-ed14-40d5-b5c5-7c722b93b4cc" display="Required License" value="None" isActive="true" />
+            <property name="25e2d8a3-0158-4823-842d-60773ff85edc" display="Documentation Url" value="https://docs.intentarchitect.com/modules-dotnet/intent-eventing-nservicebus/intent-eventing-nservicebus.html" isActive="true" />
+            <property name="8d427d1f-985c-47e7-b925-719dbcbc485c" display="Tags" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements>
+        <childElement id="1eee472d-7e9d-4dc2-9dbb-c68074a76b6f" type="Component Module" typeId="ef75f8f0-520c-4ab8-814f-5e75f4877dd7">
+          <name>Intent.Eventing.NServiceBus</name>
+          <display>Intent.Eventing.NServiceBus</display>
+          <isAbstract>false</isAbstract>
+          <genericTypes />
+          <isMapped>false</isMapped>
+          <parentFolderId>cf578736-3bd7-4ae6-84d4-c902a92ffb19</parentFolderId>
+          <packageId>9612bb90-998c-4dda-b8af-98f201160728</packageId>
+          <packageName>Intent.ApplicationTemplate.AspNetCore6.0.CleanArchitecture</packageName>
+          <stereotypes>
+            <stereotype stereotypeDefinitionId="7033e6f4-2a22-4357-bd65-f0ec06c516d5" name="Module Settings">
+              <addedByDefault>true</addedByDefault>
+              <definitionPackageName>Intent.ApplicationTemplate.Builder</definitionPackageName>
+              <definitionPackageId>002e9a7f-e5b7-4392-a60f-b60ae4e86262</definitionPackageId>
+              <properties>
+                <property name="8235e942-6dec-4576-be44-3543b35ca44c" display="Version" value="1.0.1-pre.2" isActive="true" />
+                <property name="860a2a3a-9812-4fff-acc6-b342ddb23f96" display="Include By Default" value="true" isActive="true" />
+                <property name="42e43cfe-4073-4f7f-8a7e-ef79c150c8c7" display="Is Required" value="true" isActive="true" />
+                <property name="4bdd0a51-5a47-4119-b0bb-cd1240ac7850" display="Include Assets" value="All" isActive="true" />
+                <property name="478326e2-5290-428e-aef9-10f2c67f24c2" display="Included Assets" value="[]" isActive="false" />
                 <property name="406cbf38-4267-4260-8abc-4842116639d3" display="Is New" value="false" isActive="true" />
               </properties>
             </stereotype>
