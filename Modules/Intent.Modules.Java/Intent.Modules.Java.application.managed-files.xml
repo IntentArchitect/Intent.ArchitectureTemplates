@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <managedFiles version="1" applicationId="65bbe580-da60-41f9-a1bc-bf49494d7a9a">
-  <file path="Intent.ArchitectureTemplates.sln" />
-  <file path="Intent.Modules.Java/Intent.Java.SpringBoot.WebApplication/metadata.iatspec" />
-  <file path="Intent.Modules.Java/Intent.Modules.Java.csproj" />
+  <file path="Intent.ArchitectureTemplates.sln" templateId="Intent.VisualStudio.Projects.VisualStudioSolution" />
+  <file path="Intent.Modules.Java/Intent.Java.SpringBoot.WebApplication/metadata.iatspec" templateId="Intent.ApplicationTemplate.Builder.Templates.IatSpecFile" />
+  <file path="Intent.Modules.Java/Intent.Modules.Java.csproj" templateId="Intent.VisualStudio.Projects.CSharpProject" />
 </managedFiles>
