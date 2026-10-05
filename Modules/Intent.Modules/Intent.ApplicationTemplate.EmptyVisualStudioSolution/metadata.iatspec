@@ -24,9 +24,7 @@ You will need to do the following:
     <name>NewApplication</name>
     <relativeOutputLocation>${application.name}</relativeOutputLocation>
     <placeInSameDirectory>false</placeInSameDirectory>
-    <separateIntentFiles>true</separateIntentFiles>
     <setGitIgnoreEntries>true</setGitIgnoreEntries>
-    <createFolderForSolution>true</createFolderForSolution>
   </defaults>
   <componentGroups>
     <group name="Output Target Designer">

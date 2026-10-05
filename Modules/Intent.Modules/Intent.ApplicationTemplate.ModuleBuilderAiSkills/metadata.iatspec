@@ -18,9 +18,7 @@ The bundled skills give an AI agent — Intent Architect's own AI, or a third-pa
     <name>ModuleBuilderAiSkills</name>
     <relativeOutputLocation />
     <placeInSameDirectory>false</placeInSameDirectory>
-    <separateIntentFiles>true</separateIntentFiles>
     <setGitIgnoreEntries>true</setGitIgnoreEntries>
-    <createFolderForSolution>true</createFolderForSolution>
   </defaults>
   <componentGroups>
     <group name="Agents">
