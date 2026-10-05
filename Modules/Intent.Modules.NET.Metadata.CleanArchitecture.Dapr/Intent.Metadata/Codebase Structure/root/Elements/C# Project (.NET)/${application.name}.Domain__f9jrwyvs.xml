@@ -74,6 +74,28 @@
       <metadata />
       <childElements />
     </childElement>
+    <childElement id="98ae3881-4a44-40f9-8e03-7e94da74d4ac" type="Output Anchor" typeId="025e933b-b602-4b6d-95ab-0ec36ae940da">
+      <name>Domain.Entity</name>
+      <display>Domain.Entity</display>
+      <isAbstract>false</isAbstract>
+      <genericTypes />
+      <isMapped>false</isMapped>
+      <parentFolderId>53578dc0-8c9b-437b-ba07-cb83cf2c42ce</parentFolderId>
+      <packageId>526e57ad-955e-4f18-bc19-93f0557a1755</packageId>
+      <packageName>root</packageName>
+      <stereotypes>
+        <stereotype stereotypeDefinitionId="a23c7901-31a5-4cbf-b8bf-1be128977e6d" name="Output Anchor Settings">
+          <addedByDefault>true</addedByDefault>
+          <definitionPackageName>Intent.Modelers.CodebaseStructure</definitionPackageName>
+          <definitionPackageId>525868ff-adc0-4ab6-a90e-352288da941f</definitionPackageId>
+          <properties>
+            <property name="8d79a350-96f1-4d50-bb0a-f65a5c53ec62" display="Create Sub-Folders" value="true" isActive="true" />
+          </properties>
+        </stereotype>
+      </stereotypes>
+      <metadata />
+      <childElements />
+    </childElement>
     <childElement id="b51da4fd-d3e7-4e88-b43f-579d08361691" type="Output Anchor" typeId="025e933b-b602-4b6d-95ab-0ec36ae940da">
       <name>Repository.Interface</name>
       <display>Repository.Interface</display>
