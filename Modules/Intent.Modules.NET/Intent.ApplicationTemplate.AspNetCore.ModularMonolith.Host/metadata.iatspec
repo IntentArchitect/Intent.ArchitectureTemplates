@@ -22,9 +22,7 @@ Learn more:
     <name>MySolution</name>
     <relativeOutputLocation>${solution.name}</relativeOutputLocation>
     <placeInSameDirectory>false</placeInSameDirectory>
-    <separateIntentFiles>true</separateIntentFiles>
     <setGitIgnoreEntries>true</setGitIgnoreEntries>
-    <createFolderForSolution>true</createFolderForSolution>
   </defaults>
   <componentGroups>
     <group name="Api">

@@ -21,9 +21,7 @@ Learn more [here](https://docs.intentarchitect.com/articles/modules-dotnet/inten
     <name>Infrastructure.Terraform</name>
     <relativeOutputLocation>${application.name}</relativeOutputLocation>
     <placeInSameDirectory>false</placeInSameDirectory>
-    <separateIntentFiles>true</separateIntentFiles>
     <setGitIgnoreEntries>true</setGitIgnoreEntries>
-    <createFolderForSolution>true</createFolderForSolution>
   </defaults>
   <componentGroups>
     <group name="Core">
