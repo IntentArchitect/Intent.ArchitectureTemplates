@@ -4,7 +4,7 @@
             "label": "Build",
             "icon": "fa-cogs",
             "command": "dotnet build",
-            "workingDirectory": "./Intent.Modules.NET",
+            "workingDirectory": ".",
             "aiAutoFix": {
                 "enabled": true,
                 "errorParser": "dotnet"
