@@ -272,6 +272,15 @@ Learn more:
         </setting>
       </settings>
     </group>
+    <group id="033da6d6-fce5-45e4-823a-ed3c381d930c" title="Visual Studio Solution Settings">
+      <settings>
+        <setting id="707a9eec-1407-4fe3-bd32-7c1b31efa3f1" title="Generate Git ignore file" type="hidden">
+          <defaultValue>true</defaultValue>
+          <isRequired>false</isRequired>
+          <options />
+        </setting>
+      </settings>
+    </group>
   </additionalSettings>
   <minimumDependencyVersions>
     <module id="Intent.Application.AutoMapper" version="5.3.11" />
